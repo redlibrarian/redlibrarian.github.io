@@ -3,8 +3,8 @@
   <channel>
     <title>redlibrarian</title>
     <description></description>
-    <link>https://redlibrarian.github.io/</link>
-    <atom:link href="https://redlibrarian.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://redlibrarian.github.io//</link>
+    <atom:link href="https://redlibrarian.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

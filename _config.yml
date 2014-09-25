@@ -3,7 +3,7 @@ name: redlibrarian
 title: redlibrarian
 email: spopowich at gmail dot com
 description: ""
-baseurl: "https://redlibrarian.github.io"
+#baseurl: "/"
 url: "https://redlibrarian.github.io"
 
 # Build settings
@@ -12,6 +12,6 @@ permalink: pretty
 
 urls:
   - text: computational musicology
-    url: /compmus.html
+    url: /compmus
   - text: ruby
     url: /ruby
