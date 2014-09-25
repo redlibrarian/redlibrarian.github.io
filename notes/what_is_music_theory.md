@@ -1,6 +1,6 @@
 ---
 title: Notes on Shaffer, What is Music Theory?
-layout: post
+layout: default
 ---
 
 Notes on Kris Shaffer,

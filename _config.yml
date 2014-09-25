@@ -3,7 +3,7 @@ name: redlibrarian
 title: redlibrarian
 email: spopowich at gmail dot com
 description: ""
-baseurl: ""
+baseurl:
 url: "https://redlibrarian.github.io"
 
 # Build settings
