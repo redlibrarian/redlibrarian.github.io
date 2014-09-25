@@ -11,11 +11,7 @@ markdown: kramdown
 permalink: pretty
 
 urls:
-  - text: blog
-    url: /blog
+  - text: computational musicology
+    url: /compmus
   - text: ruby
     url: /ruby
-  - text: rails
-    url: /rails
-  - text: discovery
-    url: /discovery
