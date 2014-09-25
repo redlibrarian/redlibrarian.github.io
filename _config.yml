@@ -12,6 +12,6 @@ permalink: pretty
 
 urls:
   - text: computational musicology
-    url: /compmus
+    url: /compmus.html
   - text: ruby
     url: /ruby
