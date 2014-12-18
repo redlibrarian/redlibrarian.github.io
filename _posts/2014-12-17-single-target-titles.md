@@ -90,3 +90,32 @@ class SingleTargetTitles
     @all = data.entries
   end
 {% endhighlight %}
+
+After the red (tests fail) and the green (writing code to make the tests pass), it's time to refactor. There really isn't much here to refactor. I don't love the "exit" statement, so I could look into whether there's a way to clean that up, but it's not too bad. On to the next test:
+
+{% highlight ruby %}
+ def test_query_results
+   query_target = "1000000000001505" #="EBSCOHOST_ACADEMIC_SEARCH_COMPLETE"
+   refute_empty @single_target_titles.matches(query_target)
+   assert_equal 2, @single_target_titles.matches(query_target).size
+ end
+{% endhighlight %}
+
+Now we're getting somewhere a bit more interesting. This test passes a target ID (in this case, the ID for Academic Search Complete) to the class of e-journal records and returns the records that match the query. The test itself is simple: pass a target ID to the #matches method and it should return which e-journals belong to that target. Because I'm using a small test dataset, I know exactly how many e-journals should be returned. The code to make this test pass is:
+
+{% highlight ruby %}
+def matches(query)
+   @matches ||= search(query)
+end
+
+def search(query)
+  @all.each_with_object([]) do |record, matches|
+  matches << record if ((record['866']['t'] == query) || (record['866']['s'] == query))
+  end
+end
+{% endhighlight %}
+
+Notice how I'm explictly only testing one method (#matches), but I've written two. I don't need to explicitly test the #search method, because if it doesn't work, neither will #matches. In [Practical Object-Oriented Design in Ruby](http://www.poodr.com/), Sandi Metz talks about testing to an object's interface: 
+
+> Tests should concentrate on the incoming or outgoing messages that cross an object's boundaries. The incoming messages make up the public interface of the receiving objct. The outgoing messages, by definition, are incoming into other objects and so are part of some other object's interface. (POODR, p.196)
+
