@@ -117,7 +117,7 @@ end
 
 Notice how I'm explictly only testing one method (#matches), but I've written two. I don't need to explicitly test the #search method, because if it doesn't work, neither will #matches. In [Practical Object-Oriented Design in Ruby](http://www.poodr.com/), Sandi Metz talks about testing to an object's interface: 
 
-> Tests should concentrate on the incoming or outgoing messages that cross an object's boundaries. The incoming
-> messages make up the public interface of the receiving objct. The outgoing messages, by definition, are incoming
-> into other objects and so are part of some other object's interface. (POODR, p.196)
+> <em>Tests should concentrate on the incoming or outgoing messages that cross an object's boundaries. The 
+> incoming messages make up the public interface of the receiving objct. The outgoing messages, by definition, are
+> incoming into other objects and so are part of some other object's interface.</em> (POODR, p.196)
 
