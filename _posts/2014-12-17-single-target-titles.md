@@ -70,3 +70,23 @@ The code for the program itself is not difficult, though there are a few tricky 
   end
 
 {% endhighlight %}
+
+After writing the test, of course, it's time to write the code to make the test pass. 
+
+{% highlight ruby %}
+require "marc"
+
+class SingleTargetTitles
+
+  attr_reader :all, :matches
+
+  def initialize(datafile)
+    begin
+      data = MARC::XMLReader.new(File.open(datafile))
+    rescue => e
+      puts "Unable to open file. Exiting (#{e})"
+      exit
+    end
+    @all = data.entries
+  end
+{% endhighlight %}
