@@ -60,14 +60,14 @@ As you can see, in the 866 field, each subcode contains information about the su
 The code for the program itself is not difficult, though there are a few tricky places. I find it's easier to approach and work out the tricky parts using test-driven development. In this case, I'm using basic [minitest](https://rubygems.org/gems/minitest), a common Ruby testing framework. The first test is simply to read the SFX data extract and load it into a Ruby object in order to work with it. The full [test file](https://github.com/ualbertalib/sfx_scripts/blob/master/single_target_report/single_target_test.rb) begins with a simple set up, and then tests to see that our object ends up populated with e-journal records (my test data file contained 14 records; the full data set contains around 100,000):
 
 {% highlight ruby %}
- def setup
-    @single_target_titles = SingleTargetTitles.new("test_sfxdata.xml")
-  end
+def setup
+  @single_target_titles = SingleTargetTitles.new("test_sfxdata.xml")
+end
 
-  def test_object_contains_records
-    refute_empty @single_target_titles.all
-    assert_equal 14, @single_target_titles.all.size
-  end
+def test_object_contains_records
+  refute_empty @single_target_titles.all
+  assert_equal 14, @single_target_titles.all.size
+end
 
 {% endhighlight %}
 
@@ -89,23 +89,24 @@ class SingleTargetTitles
     end
     @all = data.entries
   end
+end
 {% endhighlight %}
 
 After the red (tests fail) and the green (writing code to make the tests pass), it's time to refactor. There really isn't much here to refactor. I don't love the "exit" statement, so I could look into whether there's a way to clean that up, but it's not too bad. On to the next test:
 
 {% highlight ruby %}
- def test_query_results
-   query_target = "1000000000001505" #="EBSCOHOST_ACADEMIC_SEARCH_COMPLETE"
-   refute_empty @single_target_titles.matches(query_target)
-   assert_equal 2, @single_target_titles.matches(query_target).size
- end
+def test_query_results
+  query_target = "1000000000001505" #="EBSCOHOST_ACADEMIC_SEARCH_COMPLETE"
+  refute_empty @single_target_titles.matches(query_target)
+  assert_equal 2, @single_target_titles.matches(query_target).size
+end
 {% endhighlight %}
 
 Now we're getting somewhere a bit more interesting. This test passes a target ID (in this case, the ID for Academic Search Complete) to the class of e-journal records and returns the records that match the query. The test itself is simple: pass a target ID to the #matches method and it should return which e-journals belong to that target. Because I'm using a small test dataset, I know exactly how many e-journals should be returned. The code to make this test pass is:
 
 {% highlight ruby %}
 def matches(query)
-   @matches ||= search(query)
+  @matches ||= search(query)
 end
 
 def search(query)
@@ -121,3 +122,27 @@ Notice how I'm explictly only testing one method (#matches), but I've written tw
 > incoming messages make up the public interface of the receiving objct. The outgoing messages, by definition, are
 > incoming into other objects and so are part of some other object's interface.</em> (POODR, p.196)
 
+The idea of testing to an object's interface really clarified test-driven development for me. Rather than explicitly testing every method an object defines, you only need to test the public method, the messages that the object is expected to receive and respond to. 
+
+I won't go through all the tests and code for this program, but I'm going to add one more. 
+
+Test:
+
+{% highlight ruby %}
+def test_number_of_targets
+  assert_equal 15, @single_target_titles.number_of_targets(0)
+  assert_equal 1, @single_target_titles.number_of_targets(1)
+  assert_equal 2, @single_target_titles.number_of_targets(2)
+end
+{% endhighlight %}
+
+Code:
+{% highlight ruby %}
+def number_of_targets(index)
+  @all[index].to_hash["fields"].select{|field| field.keys.first == "866" }.size
+end
+{% endhighlight %}
+
+So, first I wrote code to search for a particular target and compile a list of journal records, then I wrote code to determine the number of targets in a journal record. This, to me, exemplifies test-driven design, letting your tests suggest the next step in the design process. I know I am going to need to search for a particular target, and I know I will need to determine how many targets a journal belongs too. It doesn't matter which test/code pair I wrote first, what's important is that these were two distinct tests, which suggested that they should be two distinct methods (see the [Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle) which applies both to classes and to methods). Once these two pieces of logic have been built, we can proceed to design the rest of the class by combining these two intial methods. There are only three other methods in the class: #single? (which uses #number_of_targets to state whether a journal belongs to only one target); #for (which uses #matches to compile a list of targets for a journal); and #csv (which uses #for to output the single target titles as CSV). The initial two or three tests suggested the fundamental design of the class, which then drove the design of the remaining methods and interface. 
+
+So, this is the kind of library programming I do on a regular basis. I haven't refactored this code yet (the third step in TDD after red and green), but since I have a full test suite, I can safely refactor without worrying that I'm going to break the program. I'm hoping this will be the beginning of a series of blog posts about coding in a library environment, touching on both adhoc or ephemeral scripting as well as larger software projects (such as the [University of Alberta Library's](http://library.ualberta.ca) [Blacklight](http://projectblacklight.org/) implementation).
