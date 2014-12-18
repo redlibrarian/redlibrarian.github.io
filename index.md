@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Redlibrarian
-tagline: Supporting tagline
+title: Muskrat Rambles
+tagline: redlibrarian
 ---
 {% include JB/setup %}
 
