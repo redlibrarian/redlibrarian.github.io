@@ -54,3 +54,19 @@ E-journal subscription information can be extracted from SFX as [MARC](http://ww
   </datafield>
  </record>
  {% endhighlight %}
+ 
+As you can see, in the 866 field, each subcode contains information about the subscription package. One thing to bear in mind is that the display name of the target ("SAGE Deep Backfile Package: Full Text") is not the same name used in the SFX knowledge-base. Subfields *s* and *t* contain identifiers which *are* used internally. The serials team generally gives me the knowledge-base name of the target they're interested in, so I either have to ask them for the ID number, or find it out myself. 
+
+The code for the program itself is not difficult, though there are a few tricky places. I find it's easier to approach and work out the tricky parts using test-driven development. In this case, I'm using basic [minitest](https://rubygems.org/gems/minitest), a common Ruby testing framework. The first test is simply to read the SFX data extract and load it into a Ruby object in order to work with it. The full [test file](https://github.com/ualbertalib/sfx_scripts/blob/master/single_target_report/single_target_test.rb) begins with a simple set up, and then tests to see that our object ends up populated with e-journal records (my test data file contained 14 records; the full data set contains around 100,000):
+
+{% highlight ruby %}
+ def setup
+    @single_target_titles = SingleTargetTitles.new("test_sfxdata.xml")
+  end
+
+  def test_object_contains_records
+    refute_empty @single_target_titles.all
+    assert_equal 14, @single_target_titles.all.size
+  end
+
+{% endhighlight %}
