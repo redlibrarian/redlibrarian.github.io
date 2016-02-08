@@ -12,4 +12,6 @@ permalink: /contact/
 
 [Instagram](https://instagram.com/redlibrarian)
 
+[Soundcloud](https://soundcloud.com/redlibrarian)
+
 
