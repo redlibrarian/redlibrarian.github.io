@@ -90,7 +90,7 @@ not to matriculate, since 1870. In 1920, a new University statute
 granted women “full membership” of the university. These changes opened
 universities up to more diverse populations than simply the sons of the
 upper and middle classes, a move which has always been understood by
-bourgeois ideology as a “democratization” of the university, and this as
+bourgeois ideology as a “democratization” of the university, and thus as
 a social positive.
 
 During and after the Second World War, and into the long boom,
