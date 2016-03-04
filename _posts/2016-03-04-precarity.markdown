@@ -145,7 +145,7 @@ university departments or library schools. It is managed through the
 economic logic of capitalism itself. In order to maintain its position
 (indeed, often its existence) within the university, a department must
 continue to increase enrollment, partly for the tuition, partly for the
-portion of budgets from disbursed by university administration and the
+portion of budgets disbursed by university administration and the
 state, and partly, as I have suggested, due to an ideological position
 that sees always-increasing enrollment as equivalent to increased
 education and opportunity. Thus the cultural logic of capitalism uses
