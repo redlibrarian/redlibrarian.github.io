@@ -171,3 +171,21 @@ world and our position in it. The only way to resist the power of this
 total ideology is, as per Jameson’s exhortation in *The Political
 Unconscious*, to “always historicize!”
 
+*Erratum*
+The statement about scholarships for soldiers appearing after WWI came
+from a misreading (or rather a misremembering) of Robert Graves' memoir
+*Goodbye to All That*. After the war, Graves went to Oxford as what we
+would now call a "mature student". It turns out that he had simply
+deferred his university career until after the war; he would likely have
+attended anyway. However, he did not pay full tuition - he was a awarded
+a £60 "exhibition" (a kind of scholarship) to attend. Graves writes,
+
+>I had just finished with Charterhouse and gone up to Harlech, when
+>England declared war on Germany. A day or two later I decided to
+>enlist. In the first place, though the papers predicted only a very
+>short war - over by Christmas at the outside - I hoped that it might
+>last long enough to delay my going to Oxford in October, which I
+>dreaded. (Goodbye to All That, Penguin Classics, p. 60).
+
+The subsidizing of soldiers' tuition can probably best be dated to the
+Serviceman's Readjustment Act - known as the GI Bill - of 1944. 
