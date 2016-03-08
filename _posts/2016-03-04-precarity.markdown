@@ -171,7 +171,8 @@ world and our position in it. The only way to resist the power of this
 total ideology is, as per Jameson’s exhortation in *The Political
 Unconscious*, to “always historicize!”
 
-*Erratum*
+*Correction*
+
 The statement about scholarships for soldiers appearing after WWI came
 from a misreading (or rather a misremembering) of Robert Graves' memoir
 *Goodbye to All That*. After the war, Graves went to Oxford as what we
@@ -188,4 +189,5 @@ a £60 "exhibition" (a kind of scholarship) to attend. Graves writes,
 >dreaded. (Goodbye to All That, Penguin Classics, p. 60).
 
 The subsidizing of soldiers' tuition can probably best be dated to the
-Serviceman's Readjustment Act - known as the GI Bill - of 1944. 
+Serviceman's Readjustment Act - known as the GI Bill - of 1944, that is,
+to end of World War 2 and the beginning of the long boom.
