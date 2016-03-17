@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open World, Open Work"
-date:   2016-03-08
+date:   2016-03-17
 categories: introduction
 tags: featured
 image: /assets/images/mandolin.jpg
