@@ -10,7 +10,7 @@ image: /assets/images/mandolin.jpg
 I would like to propose a thought-experiment. Rather than the top-down,
 centralized library – either academic or public – in which decisions are
 made by a funding organization and implemented by library workers
-responsible, ultimately, to a chief librarian; rather than this
+responsible, ultimately, to a chief librarian; what if rather than this
 organizational structure, libraries were organized instead on a
 federated model of self-organizing units, coming together in larger
 committees as appropriate in order to fulfill the mandate of the library
