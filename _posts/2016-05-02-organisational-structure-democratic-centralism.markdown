@@ -124,8 +124,8 @@ The “human nature” argument will no doubt be raised here; that human
 beings are inherently lazy and hence some will work more than others in
 these self-governing communal units; that human beings “just aren’t like
 that”. I could respond to this criticism theoretically or through
-historical justification. But it is simpler to remind critics of another
-of Lenin’s sayings “he who does not work, does not eat”, which sounds
+historical justification. But it is simpler to remind critics of
+something else Lenin said (quoting St Paul):  “he who does not work, does not eat”, which sounds
 harsh, but simply removes the mystification of human labour under
 capitalism and openly reiterates an eternal truth of human life.
 
