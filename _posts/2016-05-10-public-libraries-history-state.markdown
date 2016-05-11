@@ -12,17 +12,14 @@ image: /assets/images/mandolin.jpg
 >to which the new institutions may bear a certain similarity. (Marx,
 >quoted in Lenin, *The State and Revolution*, 49)
 
-Pateman, in his “article” in *Off the Shelf*  [link] is not wrong 
-to see the origins of the public library lie in structures of
+John Pateman, CEO of Thunder Bay Public Library, in his article/blog-post in [*Open Shelf*](link) is not wrong to see the origins of the public library lie in structures of
 social control. But he takes this to be some kind of atomic fact,
 eternal and independent, bearing no relation to any other facts.
-Alistair Black, in his History of the British public libraries [link]
-and his work connecting public libraries to the concept of “social
-hygiene” has created a convincing argument against the idea of public
-libraries as agents of enlightenment or progress.
+Alistair Black, in his *New History of the English Public Library*
+(1996) and his work connecting public libraries to the concept of “social
+hygiene” ("The Library as Clinic", 2005) has created a convincing argument against the idea of public libraries as agents of enlightenment or progress.
 
-However, the idea that public libraries have “not fundamentally
-changed” in the last century and a half, while seeming to lead to a
+However, the idea that public libraries have “not changed fundamentally” in the last century and a half, while seeming to lead to a
 “historical analysis” of public libraries in the Western world, in fact
 ignores the reality of history itself. In the first place, it is
 patently absurd that any phenomena does not change over time, but in the
@@ -34,21 +31,21 @@ of social control, he carefully avoids identifying the party which
 controls and the party which is controlled.
 
 The public library became institutionally enshrined first in England,
-in the public libraries Act of 1851 [link]. The year is not accidental.
-The English capitalist class (or bourgeoisie) was the most advanced in
+in the [Public Libraries Act of 1850](https://en.wikipedia.org/wiki/Public_Libraries_Act_1850). The year is not accidental.
+The English capitalist class (bourgeoisie) was the most advanced in
 Europe, having demolished Feudalism 150 years before the French
 Revolution, in the English Civil War of the 1640s (now known as the War
 of the Three Kingdoms). In raising arms against the king, Cromwell and
 Parliament inaugurated the primacy of capital in Britain. By 1848, when
 the bourgeoisie consolidated power through revolution in the rest of
 Europe, the British capitalist class was in complete control of the
-country’s society, culture, and politics, a fact confirmed by the Reform
-Act of 1849 [link]. The period 1848-1851 saw the consolidation of power
-by capital across Europe (cf. Hobsbawm, *The Age of Capital*), and it is in
+country’s society, culture, and politics, a fact confirmed by the [Reform
+Act of 1832](https://en.wikipedia.org/wiki/Reform_Act_1832). The period 1848-1851 saw the consolidation of power
+by capital across Europe (cf. Eric Hobsbawm, *The Age of Capital*), and it is in
 this context that public libraries were endowed with political
 legitimacy.
 
-The Mechanics’ Institutes did provide a model for public libraries,
+The Mechanics’ Institutes *did* provide a model for public libraries,
 but their social function was completely different. The bourgeoisie –
 which included intellectuals and specialists at the upper-end of the
 working class – used Mechanics’ Institutes not only for self-education,
@@ -59,7 +56,7 @@ principle, the Mechanics’ Institutes occupied a similar position to
 coffee houses in Central Europe – they were a forum for the
 representation to itself of a class readying to take political and
 hegemonic control. They represented, in fact, the self-consciousness of
-the bourgeoisie to itself. (Cf. Habermas’ *Structural Transformation of
+the bourgeoisie to itself. (Cf. Jurgen Habermas *Structural Transformation of
 the Public Sphere*).
 
 With the victory of the revolutions of 1848-1851, however, the project
@@ -86,13 +83,13 @@ was small, as the doctrine of laissez-faire allowed capitalise
 enterprise to manage its own affairs. The end of the 19th century,
 however, saw the development of finance-capital to accompany, if not to
 supplant, large-scale industry. Hilferding, Bukharin, and Lenin himself
-in *Imperialism: The Highest Stage of Capitalism*,
+in *Imperialism: The Highest Stage of Capitalism* (1916/17),
 all trace the development of finance capital and the imperialist
 consequences of that endeavour. Imperialism, of course, led to larger
 state machinery, increased militarisation and, eventually the First
 World War. (Indeed, many historians see the First and Second World Wars
 as part of a single process of dealing with the fallout of the
-imperialist period [cf Hobsbawm, Age of Extremes]). Following the Second
+imperialist period [cf. Eric Hobsbawm, *The Age of Extremes*]). Following the Second
 World War, the state remained larger than in the liberal period, but the
 state machinery was refocused away from militarism towards social
 programs: the welfare state. The public library in this period became an
@@ -105,8 +102,8 @@ working classes and the poor, all of whom had been increasingly
 radicalised by the horrors of capitalism in the years 1914-1945.
 
 It should come as no surprise that other public institutions of this
-period include public broadcasting (e.g. the BBC (date, link) and the
-CBC (date, link)), and the rapid development of the two most active
+period include public broadcasting (e.g. the BBC (founded 1922)) and the
+CBC (1936), and the rapid development of the two most active
 sectors of the culture industry, the recording industry and Hollywood.
 The public library became only one of a number of public institutions of
 the welfare state, but it also increasingly found itself only one of a
@@ -153,3 +150,15 @@ and ignoring the rest, is in fact contributing to the circumspect
 destruction of public libraries from within, rather than attempting a
 good-faith reconstruction of a public library mission.
 
+In Pateman's subsequent post, ["Snuffy's
+Revenge"](http://www.open-shelf.ca/160415-snuffys-revenge/), he
+discusses an abstraction (like "The Traditional Public Library") he
+calls "The Community Led Library". Again, Pateman critique of public
+libraries may be in good faith, though they are again based primarily on
+vague stereotypes and strawman. However, even if Pateman is in good
+faith, the promotion of "community led libraries" can lead - as we have
+seen recently in the UK - to reduced government funding and the staffing
+of libraries by volunteers, once more supporting the neoliberal agenda of
+"small government". Pateman's critiques of "the traditional public
+library" and his crude promotion of a "community led" abstraction in the
+end simply contributes to the dismantling of public library systems.
