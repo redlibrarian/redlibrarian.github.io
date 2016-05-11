@@ -103,7 +103,7 @@ radicalised by the horrors of capitalism in the years 1914-1945.
 
 It should come as no surprise that other public institutions of this
 period include public broadcasting (e.g. the BBC (founded 1922)) and the
-CBC (1936), and the rapid development of the two most active
+CBC (1936)), and the rapid development of the two most active
 sectors of the culture industry, the recording industry and Hollywood.
 The public library became only one of a number of public institutions of
 the welfare state, but it also increasingly found itself only one of a
@@ -162,3 +162,12 @@ of libraries by volunteers, once more supporting the neoliberal agenda of
 "small government". Pateman's critiques of "the traditional public
 library" and his crude promotion of a "community led" abstraction in the
 end simply contributes to the dismantling of public library systems.
+
+EDIT: I've been asked to provide some references for the idea that
+"community-led" libraries can be a cover for the defunding/destaffing of
+public libraries. Here are few links:
+
+[From the
+Guardian](http://www.theguardian.com/society/2013/mar/25/libraries-volunteers-councils-save-money)
+[From Public Library News
+(UK)](http://www.publiclibrariesnews.com/campaigning/volunteer-run-libraries/cons)
