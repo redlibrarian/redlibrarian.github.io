@@ -172,7 +172,7 @@ Guardian](http://www.theguardian.com/society/2013/mar/25/libraries-volunteers-co
 [From Public Library News
 (UK)](http://www.publiclibrariesnews.com/campaigning/volunteer-run-libraries/cons)
 
-UPDATE: 17/05/2016 - John Pateman has [replied](https://journals.ala.org/ltr/article/view/5675)a query from [Jane
+UPDATE: 17/05/2016 - John Pateman has [replied](https://journals.ala.org/ltr/article/view/5675) to a query from [Jane
 Schmidt](https://twitter.com/janeschmidt) about the
 co-opting of the term "community-led" in the UK. His response implies an
 understanding that the term **is** being used in a neoliberal way, but
