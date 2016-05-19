@@ -22,7 +22,7 @@ do in an FP idiom.
 **Those Parentheses**
 
 First off, I want to tackle the question of the parentheses. Many people
-knew to FP will find themselves faced with something like 
+new to FP will find themselves faced with something like 
 
 ~~~clojure
 (defn word-count [x]
