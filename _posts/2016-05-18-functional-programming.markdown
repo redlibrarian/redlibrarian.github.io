@@ -150,7 +150,7 @@ check_weather_and_date("March 1")
   # "Today's date is March 1 and the temperature is -5 Celsius"
 ~~~
 
-We can see write away that, due to it's reliance on the variable
+We can see right away that, due to it's reliance on the variable
 @temperature, we can pass the same argument ("March 1") to the
 "check_weather_and_date" function and it will return different results.
 The @temperature variable is part of the program's *state*, and because
