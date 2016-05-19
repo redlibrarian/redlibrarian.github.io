@@ -108,10 +108,9 @@ I'll cover in this post - how does a functional program work?
 
 In object-oriented programming, the terms *function* and *method* are
 often used interchangeably, especially among people who have come from,
-for example, a procedural language like C. A function (like a mathematical function) takes in a
-value and returns another value based on a transformation defined within
-the function, while a method (usually attached to a class/object)
-doesn't have to return a value. So for example, our "square" function might be defined
+for example, a procedural language like C. A mathematical function maps one value to another through a mathematical transformation. In programming, a function can either return a value (like a mathematical function does) or it can have a side-effect (e.g. print to the screen or cause a change in program state) or both. A method is a function that is attached to an object in an object-oriented language. In FP, we try as far as possible to write *pure* functions, that is, functions which only return a value (i.e. that don't have side-effects) and *always* return a value (even if the value is "nil").
+
+So for example, our "square" function might be defined
 like this:
 
 ~~~ruby
@@ -186,9 +185,11 @@ simple functions:
 Through function composition, you can end up writing very sophisticated,
 powerful programs building up from very simple functions that you chain
 together, secure in the knowledge that all your functions a) don't
-depend on state and b) always return a value (i.e. aren't methods).
+depend on state and b) always return a value. Because functions always
+return a value, you can chain functions together so that they take the
+return value of one function as the input of another.
 
-I've only scratched the surface here, and haven't talked about
-side-effects, the lack of variables and variable assignment, or control
+I've only scratched the surface here, and haven't talked enough about
+side-effects and state, the lack of variables and variable assignment, or control
 structures and recursion, but hopefully this attempt to demystify
 functional programming will be useful.
