@@ -10,7 +10,10 @@ image: /assets/images/mandolin.jpg
 After making a workshop proposal to the [Access
 Conference](http://accessconference.ca), I began
 thinking of how I would approach explaining functional programming to
-programmers who "just don't get it". Since the proposal was rejected
+programmers who "just don't get it". When I first looked into functional
+programming, it made my head hurt - it was a different way of
+approaching programs. It took me several years before I finally got what
+FP was, and how I could think about working with it. Since the Access proposal was rejected
 this year, I thought I would try to get some of these ideas down here.
 This blog post isn't for experienced programmers, especially not for
 programmers who already know FP, or LISP, or
