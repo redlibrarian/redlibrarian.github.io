@@ -113,7 +113,7 @@ been borne out in my experience.
 >freedoms; and as such, they must be governed based on values rooted in
 >the public good and professional ethics and principles. 
 
-This, I’m afraid, is an opinion stated as a fact. As always the truth is more
+This, I’m afraid, is an opinion stated as a fact, with nothing to support it. As always the truth is more
 complicated than that. Leaving aside the question of what “democratic
 freedoms” we in fact possess, it can also be argued that academic
 libraries play a role in the management of the economy (through
