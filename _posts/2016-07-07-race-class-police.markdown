@@ -52,7 +52,7 @@ state-sanctioned monopoly on violence.
 
 We have seen, over the last few years, the increasingly militarization
 of the police (most notably in Ferguson, MO following the killing of
-MIchael Brown). To the Marxist this is an indication of the need for
+Michael Brown). To the Marxist this is an indication of the need for
 increased violence to maintain control over a society increasingly riven
 and fractured by social antagonisms.
 
