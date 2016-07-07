@@ -149,3 +149,7 @@ humanization for all. But we can start with listening, reading, and
 education ourselves, calling out hypocrisy and lies and recognizing the effect of
 generations of dehumanization on marginalized members of our
 communities. I also think a good start would be to ban guns outright.
+But we must also remain cognizant of the legitimacy, the requirement, to
+fight back against a state whose organization of violence can, perhaps,
+only be met by confrontation up to and potentially including  more violence before we eventually, hopefully, achieve
+peace.
