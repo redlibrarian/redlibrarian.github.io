@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations
+title: Selected Presentations
 permalink: /presentations/
 ---
 * ["Functional Programming with Clojure", Code4LibYEG Unconference, November 5-6, 2015.](http://redlibrarian.github.io/code4lib-clojure)
@@ -24,4 +24,26 @@ permalink: /presentations/
 * “Hackerspaces: The Cathedral vs. The Bazaar”, Common Space: Creating Community in Public Places. PLG Panel, Edmonton Public Library, Edmonton, April 2012.
 * “Discovery Systems and Services”, NEOS Discovery Workshop. Concordia University College, Edmonton, April 2012.
 * “Music, Identity, and Memory in Tarkovsky’s Mirror”, International Conference on Music in Russia and the Soviet Union: Reappraisal and Rediscovery. Durham, UK, July 2011.
+
+**Recorded Talks**
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Oyl_ZsxzUeE" frameborder="0"
+allowfullscreen></iframe>
+"Virtual Collaboration: Tips and Tricks for Working Together", with
+Sarah Simpkin, University of Ottawa. 2015 Access Conference.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/28_58XMjg_A" frameborder="0"
+allowfullscreen></iframe>
+"Coding, Humanism, Pedagogy", from the 2015 Digital Pedagogy Institute,
+University of Toronto - Scarborough.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/mQPGlykEZnU" frameborder="0"
+allowfullscreen></iframe>
+"Interoperability with Blacklight EDS and Fedora", from the 2013 Access
+Conference.
+
+
 

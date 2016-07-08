@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 permalink: /publications/
 ---
 * [Hacking and Making in the Library Community: Access and Code4Lib. Feliciter 60(1), 2014: 16-28.](http://www.cla.ca/feliciter/2014/1/Feliciter_1_Vol_60.pdf)
