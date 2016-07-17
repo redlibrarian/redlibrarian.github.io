@@ -37,7 +37,7 @@ value produced by workers is called surplus value, and the production
 of surplus value lies at the heart of capitalism. In order to remain
 competitive and to constantly maintain profits, the capitalist must
 always seek to increase the proportion of surplus-value time to the time
-he is paying for in wages. If a worker paid $100 per 8 hour work day (the
+he is paying for in wages. If a worker is paid $100 per 8 hour work day (the
 cost of maintaining the worker in her standard of living), and puts $100
 worth of value into the product in 4 hours, then the remaining 4 hours
 provides free value to the capitalist (i.e. the capitalist gets $100 for
