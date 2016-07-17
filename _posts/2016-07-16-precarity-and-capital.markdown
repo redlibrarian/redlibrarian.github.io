@@ -72,7 +72,7 @@ large numbers of the working class in Canada and the US has increased
 steadily above subsistence level. Due largely to labour action on the part of workers organized
 into unions, wages and benefits have risen along with the standard of
 living. That the entire working class has not benefited equally from this (i.e.
-people of colour and women) is undisputable, and there are solid
+people of colour and women) is indisputable, and there are solid
 economic (= capitalist) reasons for this. But for the majority of the
 working class, this has been the case, and capital has always looked for
 a way to get out of paying for much of this increase.
