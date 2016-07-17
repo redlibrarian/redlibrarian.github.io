@@ -33,7 +33,7 @@ source of capitalist profit in the exploitation of that labour. This
 exploitation takes place in the process of production, in which workers
 are paid a wage commensurate with their standard of living, but produce
 more value in a given working day than they are paid in wages. The extra
-values produced by workers is called surplus value, and the production
+value produced by workers is called surplus value, and the production
 of surplus value lies at the heart of capitalism. In order to remain
 competitive and to constantly maintain profits, the capitalist must
 always seek to increase the proportion of surplus-value time to the time
