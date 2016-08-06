@@ -46,8 +46,8 @@ idea of full employment, or of the nationalization of services.
 
 >It should be understood that under the current system of representative
 >government, the political parties can never accomplish any of these
->things, by they can talk about them, they can make them thinkable and
->conceivable once agian, they can plat the seeds and rekindle the
+>things, but they can talk about them, they can make them thinkable and
+>conceivable once agian, they can plant the seeds and rekindle the
 >possibility of imagining future praxis - and they can reestablish these
 >themes in their legitimate place in the public sphere.
 
@@ -90,14 +90,14 @@ for example, promoted by Donald Trump's election campaign.
 >[In Brazil] it is either fascist groups or drug cartels that offer a
 >place, arms, and organization for invisible youth from the favelas. The
 >articulation of a brand and belonging is produced by mafia or fascists,
->which, in the absense of a leftist brand, allows people from the lower
+>which, in the absence of a leftist brand, allows people from the lower
 >classes to recognize themselves as actors without depending on the
 >institutional recognition of the state. [...] The urgent task of
 >communist thinking is to break the vicious circle of desperate (and
 >failed) attempts to articulate clear positions and rethink the forms of
 >mass political organization.
 
-That is, libraries as dual power must provide a focal point, and
+That is, libraries as dual power must provide a focal point and
 identity through which our users can recognize our services and come to
 rely on us. Much has been written about the trust members of society
 have in the library (in the face of library closures over
@@ -111,5 +111,5 @@ possibility of a socialist or communist society. As such, it is an
 attempt to "talk socialism" when socialism is completely off the agenda,
 that is when socialism itself is considered a utopia. I want to
 recognize here all my colleagues who are also engaged in this work, in
-face of insuperable obstacles on the part of state power and bourgeois
+the face of insuperable obstacles on the part of state power and bourgeois
 ideology.
