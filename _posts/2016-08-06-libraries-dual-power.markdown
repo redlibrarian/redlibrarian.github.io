@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Libraries as Dual Power: A Utopia"
-date: 2016-08-06
+title: "Libraries as Dual Power: A Utopia (I)"
+date: 2016-08-06 12:54:00
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
