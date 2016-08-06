@@ -27,6 +27,10 @@ expense of other, less obvious, things. The counter to this argument, of
 course, was the supposed neutrality of libraries and collection
 policies, as well as the idea that we simply "give users what they want"
 (presuming that the wants of users are somehow not socially determined).
+The function of the library, I argued, was not in neutrally providing
+users access to content they somehow already desired, it was in
+producing and maintaining the desires for the commodities of capitalist
+culture itself.
 
 Lately, I've noticed how both public and academic libraries have begun
 to loan out material that explicitly seek to address
@@ -98,7 +102,7 @@ post-secondary students, as well as researchers in every discipline.
 Special libraries provide connections with the professions and the
 government. Law libraries are implicated within the legal profession and
 the judiciary; health libraries with the medical profession; government
-libraries with all levels of government, municipal, provincial, and
+libraries with all levels of government: municipal, provincial, and
 federal.
 
 What I am arguing is that libraries as a whole a) are already present in
