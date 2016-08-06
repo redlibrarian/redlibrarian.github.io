@@ -6,6 +6,9 @@ categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
 ---
+
+*(part one)*
+
 When I was in library school, our collection development class rehashed
 the [Berninghausen
 Debate](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&es_th=1&ie=UTF-8#q=berninghausen%20debate) (probably for the millionth time - sorry, Dr
