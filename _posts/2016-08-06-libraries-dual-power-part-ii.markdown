@@ -10,7 +10,7 @@ image: /assets/images/mandolin.jpg
 *(part two)*
 
 Blog posts are, by definition, "hot takes". But even as I finished [part
-one](/libraries-dual-power) I realized that I had not treated Libraries
+one](http://redlibrarian.github.io/article/2016/08/06/libraries-dual-power.html) I realized that I had not treated Libraries
 as Dual Power with anything like the depth it required. In this part, I
 want to dig a little deeper into some of the assumptions of part one.
 
