@@ -106,7 +106,7 @@ Special libraries provide connections with the professions and the
 government. Law libraries are implicated within the legal profession and
 the judiciary; health libraries with the medical profession; government
 libraries with all levels of government: municipal, provincial, and
-federal.
+federal. Imagine presenting your library card to receive medical care.
 
 What I am arguing is that libraries as a whole a) are already present in
 the lives of vast swathes of the Canadian population and b) are already
