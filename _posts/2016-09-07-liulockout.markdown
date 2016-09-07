@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LIULockout: Collegial Governance Part II"
-date: 2016-08-06 12:55:00
+date: 2016-09-07
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
