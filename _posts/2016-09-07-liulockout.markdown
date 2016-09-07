@@ -16,7 +16,7 @@ Paychecks'](http://redlibrarian.github.io/introduction/2016/05/31/collegial-gove
 And only a couple of months later we have the example of the [Long Island
 University faculty/librarian
 lockout](http://www.nytimes.com/2016/09/07/nyregion/liu-brooklyn-locks-out-professors-amid-contract-dispute.html?_r=0), which
-has several interesting features. One the one hand there's an almost
+has several interesting features. On the one hand there's an almost
 unprecedented (in academia) resorting to classic union-busting maneuvres (short-notice
 lockout, obstruction of communication through blocking access to faculty
 email, scab labour), but there's also a tactic which seems especially
