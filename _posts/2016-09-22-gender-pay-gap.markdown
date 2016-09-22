@@ -56,7 +56,7 @@ calls *surplus value*) can only come from value added to the commodity
 that workers sell their labour to capitalists on the free market? Surely
 the workers are capable of demanding the wage they want! (See here how
 the arguments for lower wages for women are the same as the arguments
-used against worker exploitation at the time Capital was written). The
+used to justify worker exploitation at the time Capital was written). The
 price of the commodity "labour power" (what the worker has to sell) is
 set on the market the same as everything else: it is the cost of all the
 commodities that went into its production, so the wages that a worker
