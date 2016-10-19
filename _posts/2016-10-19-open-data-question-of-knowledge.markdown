@@ -68,7 +68,7 @@ technological solutions.
 
 This kind of technocratic positivism reminds me of the state of
 musicology before the publication of Joseph Kerman's *Contemplating
-Music: Challenges to Musicology* (1985). Prior this, music was
+Music: Challenges to Musicology* (1985). Prior to this, music was
 considered autonomous, above and apart from social, economic, political,
 and even cultural determinations. Kerman's book was part of a movement
 towards situating musical culture within a social framework, that saw
