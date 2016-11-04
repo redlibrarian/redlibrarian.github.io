@@ -93,7 +93,7 @@ straw man.
 
 But there is something more interesting I want to bring up here: the
 question of ideology. Emily Drabinski, one of the librarians heavily
-involved in union organizing at LIU, wrote today about (her experience)[http://crln.acrl.org/content/77/10/488.full} on
+involved in union organizing at LIU, wrote recently about [her experience](http://crln.acrl.org/content/77/10/488.full) on
 the board of *Radical Teeacher*, beginning in 2008. At one point, she
 writes:
 
