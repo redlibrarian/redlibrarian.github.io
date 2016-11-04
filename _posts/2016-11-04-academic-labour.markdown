@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Academic Labour, Governance, and the State"
+title: "Academic Labour, Governance, and the Strike"
 date: 2016-11-04
 categories: article
 tags: featured
@@ -143,6 +143,9 @@ the struggle may change, the identity of those on either side do not
 change. As Marx put it in the *Communist Manifesto* more than 150 years
 ago, the workers have nothing to lose but their chains; they have a
 world to win.
+
+I see that this blog post is long enough already. I have some thoughts
+about the right to strike, but those will have to wait for a part two...
 
 *It should go without saying that I support the University of Manitoba
 Faculty Association in their ongoing strike.*
