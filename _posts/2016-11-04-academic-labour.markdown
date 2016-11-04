@@ -8,7 +8,7 @@ image: /assets/images/mandolin.jpg
 ---
 
 As I write this, the [University of Manitoba Faculty
-Association](http://www.umfa.ca/), which represented faculty members,
+Association](http://www.umfa.ca/), which represents faculty members,
 librarians, and other academic staff, is on day 4 of a strike. Today,
 they are leading a [march](http://www.cbc.ca/news/canada/manitoba/university-manitoba-strike-picket-march-1.3836215) to the Administrative Offices of the University to demand improved working conditions and job security. After interference from the [Government of Manitoba](http://www.cbc.ca/news/canada/manitoba/interference-collective-bargaining-university-manitoba-1.3831126), UMFA has agreed to move forward with mediation on [non-salary issues](http://aeses.ca/picketing-message-umfa-president/).
 
