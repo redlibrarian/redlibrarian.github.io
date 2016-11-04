@@ -19,7 +19,7 @@ for 12 days by their administration, who attempted to replace them with
 scab labour, many of whom - being non-unionized - had no choice but to
 comply. 
 
-In June, a library workers in Mississauga were on strike for [nearly
+In June, library workers in Mississauga were on strike for [nearly
 three
 weeks](http://www.mississauga.com/news-story/6778885-mississauga-library-workers-strike-ends-after-tentative-deal-reached-all-18-city-branches-remain-c/).
 Once you start looking, conflicts between administrators (whether
@@ -144,4 +144,5 @@ change. As Marx put it in the *Communist Manifesto* more than 150 years
 ago, the workers have nothing to lose but their chains; they have a
 world to win.
 
-
+*It should go without saying that I support the University of Manitoba
+Faculty Association in their ongoing strike.*
