@@ -28,6 +28,16 @@ permalink: /presentations/
 **Recorded Talks**
 
 <iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=d0R0QNGwYb8" frameborder="0"
+allowfullscreen></iframe>
+Libraries and IT (Panel). 2016 Access Conference.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=XWF-IiiM9YA" frameborder="0"
+allowfullscreen></iframe>
+Ignite Talks. 2016 Access Conference.
+
+<iframe width="560" height="315"
 src="https://www.youtube.com/embed/Oyl_ZsxzUeE" frameborder="0"
 allowfullscreen></iframe>
 "Virtual Collaboration: Tips and Tricks for Working Together", with
