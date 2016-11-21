@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Libraries and the State: A Discussion of Complictity and Dual
+title: "Libraries and the State: A Discussion of Complicity and Dual
 Power"
 date: 2016-11-21
 categories: article
