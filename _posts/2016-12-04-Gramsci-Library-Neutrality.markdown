@@ -11,7 +11,7 @@ This Friday, I was interviewed along with University of Alberta School
 of Library and Information Studies professor Michael McNally on the CJSR
 radio show ["Shout for
 Libraries"](http://www.cjsr.com/shows/shout-for-libraries/). We were interviewed by Celine
-Gareau-Brennan and Lorisia Macleo, two SLIS students. We began by
+Gareau-Brennan and Lorisia Macleod, two SLIS students. We began by
 discussing the age-old question of library neutrality. Neither Michael
 nor I support the idea of library neutrality and, while I have met
 rank-and-file librarians who hold this position, I find it mostly part
@@ -36,7 +36,7 @@ I think these ideas - around the non-neutrality of libraries, hegemony,
 and the role of intellectuals - are are part of a single coherent theory
 in Gramsci, where I've taken them apart and tried to discuss them
 separately (a failure of dialectics!). This blog post goes some way to
-bring these ideas back into a single stream.
+bring these ideas back into a single frame.
 
 In his analysis of the intellectual classes in Italy in the early 20th
 century, Gramsci identifies two main types - there are organic
@@ -80,7 +80,7 @@ state*. The liberal state required different things from he library than
 the welfare or neoliberal state. My argument in that case is more
 top-down rather than woven through the fortunes of the bourgeoisie. In
 Gramsci's view, intellectual work begins prior to, and proceeds
-independently of, the conquest of state power. It is function, in his
+independently of, the conquest of state power. It is a function, in his
 terminology, of civil society just as much as political society.
 
 How does this fit into the idea of library neutrality, and then into my
@@ -120,15 +120,12 @@ political society (the state)
 >group's "deputies" exercising the subaltern functions of social
 >hegemony and political government. (SPN, 12)
 
-What I would like to see, what I was calling for in my SLIS lecture, is
-nothing more than an increasing number of organic intellectuals
-corresponding to the rising [working] class within libraries. We have to
-be open and up-front about our orientation, we have to engage in
+In order to combat the dominance of capitalist ideology, library workers
+must be open and up-front about our orientation. We have to engage in
 "discursive battle" with every expression of bourgeois (capitalist,
-neoliberal) ideology, but not from the standpoint of bourgeois ideology
-itself. I would like to see a higher proportion of working-class
-intellectuals in the narrative of librarianship, working towards a new
-hegemony.
+neoliberal) ideology. At the same time, we must be careful that we
+aren't simply reproducing capitalist hegemony with a new face. And that,
+I think, is the trickiest part.
 
 I'm not sure why Gramsci was absent from my SLIS lecture. Perhaps there
 was something Freudian in it. Perhaps, on the other hand, there is
