@@ -76,7 +76,7 @@ of traditional intellectuals must be "conquered":
 
 Elsewhere, I've connected the changing form of the academic and public
 library with phases of the rise of the bourgeoisie *in the form of the
-state*. The liberal state required different things from he library than
+state*. The liberal state required different things from the library than
 the welfare or neoliberal state. My argument in that case is more
 top-down rather than woven through the fortunes of the bourgeoisie. In
 Gramsci's view, intellectual work begins prior to, and proceeds
@@ -112,7 +112,7 @@ classes of intellectuals, this is achieved by an insistence on
 maintenance of power by the ruling class. For Gramsci, civil society and
 political society (the state)
 
->correspond on the one hand to the functon of "hegemony" which the
+>correspond on the one hand to the function of "hegemony" which the
 >dominant group exercises throughout society and on the other hand to
 >that of "direct domination" or command exercised through the state and
 >"juridical" government. The functions in question are precisely
