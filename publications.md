@@ -3,6 +3,8 @@ layout: page
 title: Selected Publications
 permalink: /publications/
 ---
+* [Let's all join the army. International Socialism 153, January
+  2017](http://isj.org.uk/lets-all-join-the-army/)
 * [Hacking and Making in the Library Community: Access and Code4Lib. Feliciter 60(1), 2014: 16-28.](http://www.cla.ca/feliciter/2014/1/Feliciter_1_Vol_60.pdf)
 * [“Discovery Strategy Recommendation”, prepared for the Chief Librarian and the Senior Leadership Team, September 2013.](https://docs.google.com/document/d/1G8TzQjU4lBPnS30wJ-n7vt0mgrPXWLMumRD_6dC_RXE/edit?usp=sharing)
 * [Vinyl: The History of the Analogue Record (Book Review). CAML Review 41(2), 2013: 43-44.](http://pi.library.yorku.ca/ojs/index.php/caml/article/viewFile/37291/33857)
