@@ -31,7 +31,7 @@ understanding of library/user relationships and user experience. This
 was suggested on Twitter by @glam_librarian, and it made me start
 thinking about the connections between Marxist organization and/or
 movement building and how library workers understand and work with their
-users. With the substitution made above, I don't think the paragraph
+users. With the substitutions made above, I don't think the paragraph
 would be out of place in an article or book on library user experience
 or assessment.
 
@@ -39,7 +39,7 @@ It seems to me that the Maoist mass line is meant to provide an
 alternative to the "democratic centralist", vanguard party, view of
 leadership that comes out of the Leninist and Trotskyist traditions. For
 Mao, "the people, and the people alone, are the motive force in the
-making of world history", and that communists *must* work alongside (not
+making of world history", and communists *must* work alongside (not
 above, in front or - especially - behind) the people. Indeed, the
 library (society) can only serve the needs of its users (the people) if
 it is actively involved with, communicating with, and listening to, the
@@ -47,13 +47,13 @@ users. Library workers are put in the position - due to the structure of
 capitalist organizations - of being separate from their users: we are
 employees of a university, municipality, or other organization, and our
 users are not. We are tasked with and responsible for creating library
-services *for* them. In this was, the structure of the library's
+services *for* them. In this way, the structure of the library's
 relationship with its users mirrors the undemocratic (indeed
 anti-democratic) political systems of capitalism itself.
 
 Elsewhere I've written about the idea of employing (or deploying) "dual
 power" in libraries, and it seems to me that the concept of the mass
-line is a usual addition to this proposal. If, as library workers, we
+line is a useful addition to this proposal. If, as library workers, we
 seriously mean to make a difference in the lives of our users, then we
 can't continue to make top down decisions around services and service
 design and implementation. We have to figure out better ways of
@@ -64,4 +64,72 @@ library users, in a way that is foreign to many units and levels of
 library leadership. Indeed, the concept of library leadership itself
 comes under increasing attack if we accept the idea of dual power + mass
 line.
+
+One criticism of this view might be that Mao's language still seems to
+set up a separation between library workers and users that will lead to
+failure. As Erin Leach wrote in a [valuable recent blog
+post](https://unifiedlibraryscene.blogspot.ca/2017/01/youve-seen-it-all.html):
+
+>True engagement with user communities is hard. But creating structures,
+>systems, and services intended for their use without their input is a
+>waste of everyone's time and resources.
+
+I think one useful corrective to this problem might be to bear
+in mind Gramsci's distinction between traditional and organic
+intellectuals (indeed, it is useful to read Mao "through" Gramsci in
+this way in general). Historically, librarians have always belonged to the
+class of traditional intellectuals, intellectuals that the ruling class
+finds *already* on the scene, ready to help justify and support the
+cultural and ideological needs of the ruling class itself (i.e. its
+hegemony over the subaltern classes). What Mao is calling for, I think,
+is that those of us who do mass line work - who work with users - must begin to see ourselves as
+organic intellectuals, intellectuals whose responsibility is to the public - especially its most marginalized members - rather than to the ruling class.
+
+"True engagement with user communities", to my mind, means precisely
+this recognition of the class nature of the work that we do and the
+commitment to the needs and requirements of our users rather than to the
+hegemonic requirements of the ruling class and its ideology. This
+requires, in many ways, the political education of library workers,
+which is a topic for another time; but it also raises a question I have
+tried to address previously on this blog: the question of in what sense
+the wants and needs of user groups themselves are products of and
+support the ideological reproduction of capitalism.
+
+Library user experience discourse tends to regard user needs as
+spontaneous and essential, rather than constructed. This goes against
+the Marxist view of culture as reflecting (in some sense) the forces and
+relations of production present in a society at a given moment. If user
+needs *are* spontaneous and not constructed, then it makes sense that
+library user experience work need only hear, understand, and support the
+needs of the users as expressed by those users. But if, on the other
+hand, user needs are constructed and serve to support the ideological
+and hegemonic requirements of the ruling class, then library user
+experience work (indeed all library work) becomes much more complicated.
+
+Mao doesn't explicitly talk about ideology with respect to the mass line
+(again, in this case Gramsci is a better model to follow), but he does
+address the problem I have identified above. In his view, those of us
+working to support the needs of users must engage in education and
+social justice work in order to support real user requirements, rather
+than simply the needs of the ruling class. Again, this makes the task
+sound simpler and easier than it is. This is in fact extremely complex
+work, with many pitfalls (most of which involve thinking of library work
+with its attendant expertise as somehow privileging us with respect to
+the knowledge and desires of our users). Again, I think a corrective to
+this to recognize the class positions of all involved.
+
+This blog post raises more questions than it answers, but I think it
+points the way to potentially fruitful new directions in library/user
+relationship research, while also raising problematic ideas in the area
+of library management and leadership, and the concept of bourgeois
+hegemony itself. I will stop here, then, with a final "adjusted" quote from Mao:
+
+>We should go to the users and learn from them, synthesize their
+>experience into better, articulated principles and methods, then do
+>[education] among the users, and call upon them to put these principles
+>and methods into practice so as to solve their problems and help them
+>achieve liberation and happiness. (LRB, p. 129).
+
+*All quotations from Mao are from "Quotations from Chairman Mao
+Tsetung", [Beijing]: Foreign Languages Press, 1972.
 
