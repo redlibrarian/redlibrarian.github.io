@@ -105,3 +105,38 @@ Dostoyevsky's own concern for books, the importance he places on reading
 and writing as well as the physicality of publishing. This provides a
 refreshing break from the squalor of the novel - no matter how bad
 things get, all of Dostoyevsky's characters continue to read.
+
+---------
+
+The novel portrayal of the real lives of real people, in this case the
+poor and marginalized, places *Poor Folk* in the tradition of those
+books which expose the inhuman conditions to which various groups have
+historically been condemned. Turgenev's *Huntsman's Sketches* exposed
+the plight of the Russian serfs to such an extent that the book is
+credited with helping convince Tsar Aleksandr II to emancipate the
+serfs. Similarly, books like Ralph Ellison's *Invisible Man* recover and
+express the lost or repressed humanity of an oppressed group, making it
+- one hopes - no longer possible to ignore the humanity of those whom
+  the ruling classes consider not human. Paolo Freire, in his *Pedagogy
+of Hope*, writes that "while both humanization and dehumanization are
+realy alternatives, only the first is the people's vocation". He argues
+that "dehumanization" has never been the project or vocation of a
+society, though I think that Dostoyevsky and - for example - James
+Baldwin might disagree.
+
+The strange thing about Dostoyevsky, the thing that marks his later,
+more psychological and visionary novels as well as his first, is the
+strange lack of anywhere to place *the blame*. Freire goes on to say
+that "dehumanization... marks not only those whose humanity has been
+stolen, but also (though in a different way) those who have stolen it",
+and I think this is also a theme of Baldwin's. But for both Freire and
+Baldwin it is clear who the oppressor is. For Dostoyevsky this is never
+clear. Even in the famous Grand Inquisitor chapter from *The Brothers Karamazov*, the evil is somehow dispersed, dissipated, as if evil exists, and evil people exist, but these things are somehow merely contingent, tangential to the oppressive conditions in which people live.
+
+I'm tempted to think that I simply don't fully understand Dostoyevsky
+yet. It may be that I'm wrong, and there isn't some transcendent idea
+behind all the manifestations he left behind, but I hope that isn't the
+case. Dostoyevsky's work is too significant not to contribute at least
+to some extent to a project of humanization. Indeed, Dostoyevsky himself
+believed that that was precisely what his work was for. It remains to be
+seen, from my perspective at least, whether that hope will be born out.
