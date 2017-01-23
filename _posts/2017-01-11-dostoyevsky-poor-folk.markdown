@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dostoyevsky's Poor Folk"
-date: 2017-01-11
+date: 2017-01-07
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
