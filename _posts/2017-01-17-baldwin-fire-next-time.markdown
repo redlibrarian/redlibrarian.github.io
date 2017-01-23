@@ -13,7 +13,7 @@ Recently, in a Facebook exchange (on politics, of course), someone was
 ridiculed as a liberal for calling another person “unkind”, and I think
 there is something to this. To my mind liberals, just as much as
 conservatives, have things they want to preserve in the world; the world
-as it is is, fundamentally, even with all its faults, a place were
+as it is, fundamentally, even with all its faults, is a place worth
 holding on to and working on to try to fix it. For both liberals and
 conservatives too, these elements that they would like to preserve are
 sometimes real (in that they really exist, or existed at some point in
