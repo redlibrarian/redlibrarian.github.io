@@ -50,7 +50,7 @@ self-censorship in order to spare feelings, but Baldwin’s unflinching
 portrayal not only of his own childhood and youth in Harlem, but of the
 Nation of Islam, and the complicated (though in the end quite simple)
 dynamic of White guilt and White superiority, is always tinged – as
-these things are, for example, in Dostoyevsky – a forgiveness, a charity
+these things are, for example, in Dostoyevsky – with a forgiveness, a charity
 that goes beyond the simplistic virtues of the Christian (both Baldwin
 and Dostoyevsky had complicated relationships with Christianity), and
 has less in common with “love thy neighbour as thyself” than with what I
