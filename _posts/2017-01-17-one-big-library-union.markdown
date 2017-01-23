@@ -9,10 +9,10 @@ image: /assets/images/mandolin.jpg
 
 Although I was never a member of the Canadian Library Association, I -
 along with many other people - had some criticisms of it. One my my main
-concerns was that while it [official
+concerns was that while it [officially
 endorsed](http://cla.ca/wp-content/uploads/CLA_Intellectual_Freedom_Position_Stmt_27sept2015_ltrhd.pdf)
 intellectual freedom, its endorsement had - at least as far as I could
-see - no effect on the organizations that composed it. CAUT was active
+see - no effect on the organizations that composed it. CAUT is active
 in the academic world making sure that universities kept up their ends
 of various bargains, and had a power to sanction that CLA never had, and
 likely never wanted. In the end CLA came to represent the library
@@ -64,7 +64,7 @@ University's chief librarian at the time, argued that
 
 >librarians would be better served by forming a provincial union
 >inclusive of all librarians with a form of librarian status akin to
->academic status but focuse on conditions of work and promotion specific
+>academic status but focused on conditions of work and promotion specific
 >to the profession.
 
 Jacobs, Leona. "Academic Status for Canadian Academic Librarians: A
