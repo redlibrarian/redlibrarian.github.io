@@ -39,9 +39,9 @@ worthlessness. The kind of social change Baldwin calls for, hopes for,
 requires unkindness on the part of Blacks towards Whites. In its place –
 for Baldwin’s book is, in fact, full of virtue if not of kindness – is
 the virtue of humanization, but Baldwin recognizes that in a society
-founded on, needing in a deep psychological sense, seeing Black people
+founded on, needing (in a deep psychological sense), seeing Black people
 as non-human, no one is going to grant humanity to Blacks; it can only
-be one through struggle, that is, through unkindness.
+be won through struggle, that is, through unkindness.
 
 And I think this focus on something other than kindness, this focus
 on a broader – teleological, perhaps apocalyptic – sense of humanization
