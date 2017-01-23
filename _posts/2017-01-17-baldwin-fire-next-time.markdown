@@ -7,6 +7,8 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+Baldwin, James. *The Fire Next Time*. New York: Vintage, 1963.
+
 Recently, in a Facebook exchange (on politics, of course), someone was
 ridiculed as a liberal for calling another person “unkind”, and I think
 there is something to this. To my mind liberals, just as much as
