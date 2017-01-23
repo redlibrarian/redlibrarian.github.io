@@ -25,7 +25,7 @@ things – real or not – worth preserving, worth trying to cultivate in a
 world that has become, for various reasons, predominantly unkind.
 
 Now, Nietzsche already exposed this myth of kindness in the 19th
-century, including it in the “slave morality” of which
+century, making it a hallmark of the “slave morality” of which
 Christianity was the apex. It seems to me that Baldwin, among many
 others, would recognize this characterisation of “kindness” as a virtue
 designed to keep people in their places. “Slave” for Baldwin is a more
