@@ -111,7 +111,8 @@ that are outside what we might call the mainstream. Andrei Tarkovsky,
 Fyodor Dostoyevsky, Lawrence Durrell, John Fowles… not “outsider
 artists”, but artists who have a different world inside them that they
 are trying to get out.
-    The PKD interviews are interesting because they let us hear his own
+
+The PKD interviews are interesting because they let us hear his own
 voice which is similar in tone, but very different from the voice of his
 novels. Unlike Dostoyevsky, whose style is marked by a “polyphony” of
 identifiable and singular voices, Dick’s novels are somehow “flattened”
@@ -119,7 +120,8 @@ into something like a fax. This probably derives from his early days
 churning out pulp sci-fi for magazines, but it is also of a piece with
 his view of the world as somehow flat/muted and threatening at the same
 time, banal and sinister.
-    There is a pathos to Dick both in the details of his life and the
+
+There is a pathos to Dick both in the details of his life and the
 fact of his mental illness (I don’t think there can be any disagreement
 that he was mentally ill). He was an incredibly intelligent, flexible
 thinker, knowledgeable on many subjects and with a keen curiosity and a
