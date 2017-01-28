@@ -100,8 +100,8 @@ pertains to the category of means.”
 I think that Philip K Dick would agree with Weil on that last point.
 Also a mystic, Dick by end of his life believed that he had been taken
 over by the prophet Elijah, that the message from the divine had been
-revealed in two of his novels: cryptically in Flow My Tears, the
-Policeman Said (1974) and openly in Valis (1981). The Last Interview
+revealed in two of his novels: cryptically in *Flow My Tears, the
+Policeman Said* (1974) and openly in *Valis* (1981). The Last Interview
 contains not only the text of an interview conducted the night before
 the massive stroke that eventually killed Dick, but a number of other
 interviews from all points in his career. This book resonated for a
