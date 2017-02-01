@@ -13,7 +13,7 @@ made the best of a bad situation. I've used academic libraries for three
 degrees, and in general, they were fine - they served their purpose. But
 I've been thinking more and more lately about user experience, and also
 about the totality of how our systems work together to solve whatever
-problem their supposed to solve (note: I'm being purposefully vague
+problem they're supposed to solve (note: I'm being purposefully vague
 right now as to what that problem is).
 
 I think one of the reasons systems librarians think things are working
@@ -87,15 +87,17 @@ But we all know that under the hood, a vendor's cloud LSP is just
 hooking those pieces together (with duct tape and glue) the way we're
 doing it right now. Also, one of the major issues is quality and
 interoperability of metadata - publisher metadata, when it isn't of
-abysmally bad quality, doesn't necessarily follow any of the myriod
+abysmally bad quality, doesn't necessarily follow any of the myriad
 standards the library world has come up with. Two different vendor
 records for the same item can appear radically different. And since we
 trigger system behaviour off metadata (for example, constructing a link
-resolver URL), the presence or absense of a single field can bring the
+resolver URL), the presence or absence of a single field can bring the
 whole house of cards down.
 
 It's disheartening to think that the systems you work on are not only
-pretty crappy, but that there's no feasible way of fixing them. We may -
+pretty crappy, but that there's no feasible way of fixing them. We can't
+redesign our existing systems - they are already in production, and we
+have so much else on our plates. However, we may -
 as a profession - need to decide that we're going to tear everything
 down and start from scratch. But I'm afraid that the library world's
 solution will end up like the library's world's solution to
