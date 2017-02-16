@@ -157,7 +157,9 @@ website, but working with an OPAC in an ILS is painfully different from
 working on a webpage (and I have no expectation that this will be
 different with an LSP), so if we instead made the OPAC a website then,
 through systemic generality, anyone who works with the web can work with
-the OPAC and vice versa.
+the OPAC and vice versa. This helps build in-house capacity and reduce
+single-points-of-failure (though it still leaves the problem of small
+libraries, addressed below).
 
 Given that none of the proprietary LSPs (Alma, BlueCloud and, one
 assumed, FOLIO) can be expected to reduce complexity, as that would
