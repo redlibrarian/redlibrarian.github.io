@@ -7,6 +7,9 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+"simplicity buys you power" -- [Daniel
+Higginbotham](http://www.flyingmachinestudios.com/programming/hey-rubyists-try-clojure/)
+
 1. Complexity and the ILS
 
 At a recent presentation about FOLIO, I was reminded of conversations
