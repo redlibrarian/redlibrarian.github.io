@@ -182,3 +182,11 @@ library exceptionalism that plagues our culture (and not just in
 technology). For all libraries, big and small, it would reduce if not
 eliminate the stranglehold our technology vendors have on us and,
 through competition, ought to reduce costs as well.
+
+NOTE: I haven't talked about open-source ILSs in this post (Evergreen or
+Koha). My sense is, while conforming more to standards, best-practices,
+and generality, they still suffer from the probems of complectedness.
+They also have an ecosystem of support-vendors which has grown up
+alongside them. I'd be happy to hear from anyone who has recent
+experience with the open-source ILSs to know how that sector stands
+right now.
