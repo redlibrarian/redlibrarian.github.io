@@ -29,7 +29,7 @@ inherent with working with a legacy, proprietary ILS: we are not limited
 in data or document format, for example, nor on clunky, outdated,
 essentially pre-web UI technologies. We are also free, down the road, to
 switch out the ILS layer and keep our Blacklight implementation. Since
-Blacklight only required MARC records from the ILS (and some user-facing
+Blacklight only requires MARC records from the ILS (and some user-facing
 functions accessed via API), it is agnostic as to the underlying system.
 
 One of the things that came out of the FOLIO discussion was some more
