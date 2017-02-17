@@ -130,7 +130,7 @@ alongside one of the [programming
 epigrams](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) by Alan J. Perlis: it is
 better to have 100 functions operated on one data structure than 10
 functions on 10 data structures. In Clojure, rather than the myriad
-classes, arrays, and hashes that get created in a given object-oriented programming, Clojure
+classes, arrays, and hashes that get created in a given object-oriented programming [2], Clojure
 programming relies upon the use of a few very simple collection types.
 Rather than creating a new datatype (class) for a specific kind of data
 (i.e. describing or modeling your data with a class), you simply use
@@ -203,3 +203,9 @@ right now.
 [1] This has actually been confirmed for me by a few other people since
 I first put up this post. The BlueCloud documentation, then, is being at
 best disingenuous when it talks about the database layer.
+
+[2] OO languages "use the same constructs for modeling
+values as they do for identities, objects, and default to mutability,
+causing all but the most disciplined programmers to create many more
+identities than they should." [Values and Change: Clojure’s approach to
+Identity and State](https://clojure.org/about/state)
