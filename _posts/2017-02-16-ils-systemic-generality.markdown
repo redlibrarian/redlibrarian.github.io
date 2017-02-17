@@ -61,8 +61,8 @@ Even if this is the case, and they haven't based BlueCloud on Symphony,
 this is still problematic. The Symphony database can still only handle
 records in a small number of formats (i.e. MARC), its indexes are still
 built on outmoded conceptions of search, discovery, and access, and it
-still tightly couples the database design to a database implementation
-(can you use MongoDB with BlueCloud, or do you have to use Oracle).
+likely still tightly couples the database design to a database implementation
+(can you use MongoDB with BlueCloud, or do you have to use Oracle?).
 
 What is common in both these characterizations of the database or system
 layer is an insistence on the part of vendors for an encapsulated
@@ -112,7 +112,9 @@ different part of the workflow.
 The ILS (and the LSP) then, are not *complex* per se; they are
 *complected*, a word coined by Rich Hickey, the inventor of Clojure, to
 describe systems which are composed of simple things, but are made
-complex through entanglement of their simple pieces. In essence, the
+complex through entanglement of their simple pieces (see [Simple Made
+Easy](https://www.infoq.com/presentations/Simple-Made-Easy) and
+[Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) ). In essence, the
 "integratedness" of the integrated library system is the problem. Not
 only are many disparate technologies employed "under the hood" (a
 telling phrase) in the ILS, but this entangling is hidden from the
@@ -122,8 +124,10 @@ complex.
 
 Now, one of the principles of Clojure is simplicity, and one of the ways
 in which it is simple is through what has been called "systemic
-generality". In the *Programming Clojure* book, this is introduced
-alongside one of the programming epigrams by Alan J. Perlis: it is
+generality". In the [*Programming
+Clojure*](https://pragprog.com/book/shcloj2/programming-clojure) book, this is introduced
+alongside one of the [programming
+epigrams](http://www.cs.yale.edu/homes/perlis-alan/quotes.html) by Alan J. Perlis: it is
 better to have 100 functions operated on one data structure than 10
 functions on 10 data structures. In Clojure, rather than the myriad
 classes, arrays, and hashes that get created in a given object-oriented programming, Clojure
