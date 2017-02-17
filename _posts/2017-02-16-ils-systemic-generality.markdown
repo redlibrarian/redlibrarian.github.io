@@ -48,7 +48,7 @@ SirsiDynix' BlueCloud is a suite of services built on top of Symphony
 (one of SirsiDynix's ILSs), which raised a red flag for me, because
 marketing and selling a modern LSP which is fundamentally built on top
 of an out-of-date, basically obsolete application, seems at best a bad
-idea, at worst a scam. If the LSP is meant to take advantage of modern
+idea, at worst a scam [1]. If the LSP is meant to take advantage of modern
 archiectures and technologies, building it on top of a legacy ILS would
 be like putting a Tesla body on top of an Edsel. It turns out things
 aren't quite so dire - according to the BlueCloud documentation,
@@ -199,3 +199,7 @@ They also have an ecosystem of support-vendors which has grown up
 alongside them. I'd be happy to hear from anyone who has recent
 experience with the open-source ILSs to know how that sector stands
 right now.
+
+[1] This has actually been confirmed for me by a few other people since
+I first put up this post. The BlueCloud documentation, then, is being at
+best disingenuous when it talks about the database layer.
