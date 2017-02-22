@@ -143,4 +143,8 @@ value within an inherently exploitative capitalist system. Both
 open-access and copyright will become irrelevant as the crises of
 capitalism deepen. As librarians, we can support open-access just as we
 can support fair-dealing, but I think it is important to understand the
-socio-economic relationships underpinning each of them.
+socio-economic relationships underpinning each of them. As far as
+open-access gives more choice to the creator (author) in terms of
+greater flexibility in how their work is reproduced and shared, I think
+open-access is absolutely a plus. But it does not resist or circumvent
+the labour and property relations of which it is a part.
