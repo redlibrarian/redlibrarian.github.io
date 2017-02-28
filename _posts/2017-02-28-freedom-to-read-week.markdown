@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Responsibility to Read"
+title: "The Responsibility to Read"
 date: 2017-02-28
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
 ---
+
+Note: this post intersects with a post I wrote for Behind the Stacks on
+[Practice, Reading, and Fake
+News](http://www.behindthestacks.org/blog/practice-reading-and-fake-news)
 
 The last few years have seen the rise of a critical trend in
 librarianship towards "Freedom to Read Week", a period when libraries
