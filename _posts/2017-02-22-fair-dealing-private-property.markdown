@@ -22,7 +22,7 @@ context is a legal one (a framework of rights and responsibilities defined by le
 past-practice). We refer to the copyright system or the
 copyright regime, we refer to the rights of creators and the rights of
 users, and Copyright Librarian positions tend to ask for legal
-experience, sometimes even a law degree. Most of (again, librarians,
+experience, sometimes even a law degree. Most of us (again, librarians,
 publishers, etc) are not lawyers and have a very sketchy understanding
 of the law. Talking about copyright in isolation makes sense - it's a
 small, well-defined area of the law that we have a chance of getting our
