@@ -146,7 +146,10 @@ one time/place or
 another](http://lincolnlibraries.org/bookguide/booklists/banned-or-challenged-non-fiction/), all of which would - nowadays would be considered at worst anodyne and at best fundamentally important to modern citizenship and social justice Now, what if we added to this collection, say, a book by (David
 Irving)[https://en.wikipedia.org/wiki/David_Irving] whose work has been
 condemned as holocaust-denial, but who nevertheless had a long career as
-a respected historian. Evaluating Irving's work with intellectual
+a respected historian. The fact that his work is challenged by "our
+side" and on solid historigraphical and scholarly grounds disturbs the
+simplistic view of intellectual freedom we (librarians) espouse. But
+it's an important perturbation, one to be engaged with, not ignored. Evaluating Irving's work with intellectual
 honesty and rigour *requires* reading it, whether or not we want to read
 it or want others to read it. Including Irving in a display of Freedom
 to Read Week books would be a useful, necessary, challenge not only to
