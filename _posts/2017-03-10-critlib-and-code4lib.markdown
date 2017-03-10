@@ -45,7 +45,7 @@ charset="utf-8"></script>
 This unfortunately connects critlib with the narrative of, for example,
 Gamergate, Men's Right's Activists, and other deluded components of the
 "alt-right", for whom anyone who suggests that what they personally want isn't of
-primary concern must be a rabid "social justice warrior".
+primary concern must be a rabid "social justice warrior".)
 
 Within librarianship, then, I'm concerned about the idea that anyone who
 engages in critical theory must be a member of a "tribe", but even more
@@ -95,7 +95,7 @@ with a very critlib statement:
 > from returning to their homes; journalism and truth is being blocked.
 > (...) This is not a time for status quo, this is not a time for our silence
 >on these questions. (All quotations taken from Christina's [speaker
->notes](bit.ly/c4l17harlow )
+>notes](bit.ly/c4l17harlow ))
 
 This is precisely the attitude that the Social Responsibility Round
 Table takes with respect to the ALA (for example, the contentious issue
@@ -130,11 +130,18 @@ problems is ridiculous.
 
 The question this raises in Christina's talk is precisely how we can
 actually go about making concrete change in the world, how can we
-connect abstrac theories about things to practice and action. 
+connect abstract theories about things to practice and action.
 
 >The “making it work” spirit is another important aspect of code4lib for
 >me. We want to get stuff done, and iterate, and experiment, and tinker,
 >and build, and maintain - not just theorize, plan, or idealize.
+
+> I see every action I do, from spreadsheets to Git repositories to
+> staff meetings to workshops to documentation, as political - not in
+> terms of Republican or Democrat, but as a chance to be anti-fascist,
+> to be inclusive, to be open, to be working towards an evolving, shared
+> vision of a community. Each datum is a chance for meaningful action,
+> in my view, in everyday work.
 
 I really appreciated Christina's enumeration of the cultures and
 movements that have informed her (Riot Grrrl and Queercore), because we
@@ -167,8 +174,8 @@ areas is vitally important in order to improve, but we can only usefully
 fail if we do it openly and transparently. But Christina rightfully
 critiques our own unconscious bias in favour of closed vs. open.
 
->Openness for our information systems - in whichever way that manifests
->- is again, going against a bias that we know better than others what
+>Openness for our information systems -- in whichever way that manifests
+> -- is again, going against a bias that we know better than others what
 >the work is about or how to manage it. It is a community issue as much
 >as a day to day work issue - how often do you see closed processes,
 >tools, events even between our working areas within a library?
@@ -195,4 +202,7 @@ with members of many "tribes".
 >for shared, intersectional, engaged work based on our community’s goals,
 >ethics, politics and wishes.
 
-
+The idea that critlib isn't engaging with c4l17 is, to me, absurd on its
+face: I consider many of the code4lib talks, and Christina's keynote in
+particular, *to be critlib*. Nothing is gained by drawing arbitrary
+borders around permeable communities.
