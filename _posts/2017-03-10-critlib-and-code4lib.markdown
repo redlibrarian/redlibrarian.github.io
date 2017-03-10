@@ -9,7 +9,7 @@ image: /assets/images/mandolin.jpg
 
 Before getting down to it, I recommend watching the stream of Christina
 Harlow's c4l2017 keynote ["Resistance is Fertile: Building a Manualfesto
-for LibTech"](https://youtu.be/xRuPShYelm4?t=42m37s). While you're
+for LibTech"](https://youtu.be/xRuPShYelm4?t=42m37s). Go, do it now. While you're
 there, check out the rest of the c4l2017 talks too.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en"
@@ -80,6 +80,10 @@ are defined. But the first LIS_grievances tweet was decrying a lack of
 engagement between the "critlib tribe" and the code4lib conference. So,
 taking Christina's closing keynote to stand for the code4lib conference
 for the sake of space and argument, let's engage.
+
+[Caveat: there's no way I can do justice to everything Christina talks
+about in this keynote, so I reiterate the importance of watching her
+talk.]
 
 What struck me most about Christina's talk was how she more-or-less led
 with a very critlib statement:
@@ -170,8 +174,9 @@ critiques our own unconscious bias in favour of closed vs. open.
 >tools, events even between our working areas within a library?
 
 There isn't enough space here to engage with Christina's ideas at the
-level that they merit. [You should watch the video of the keynote
-yourself](https://youtu.be/xRuPShYelm4?t=42m37s). Needless to say,
+level that they merit. [Have I said you should watch the video of the keynote
+yourself](https://youtu.be/xRuPShYelm4?t=42m37s). There is so much more
+in Christina's talk than I can even remotely do justice to here. Needless to say,
 Christina's ideas are informed not only by Riot Grrrl and Queercore
 culture, but also by her experience within the profession and her deep,
 deep technical understanding of metadata, systems, and software
