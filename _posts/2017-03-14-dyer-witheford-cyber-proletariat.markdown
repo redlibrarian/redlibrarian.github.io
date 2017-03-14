@@ -87,3 +87,19 @@ us to consider precarious labourers, the incarcerated, students, and
 many other classes of people who are just as - if not more - oppressed
 by capitalism, but who are left out of many twentieth-century accounts
 of class struggle.
+
+This critical view of the technologies of "late capitalism" are of vital
+importance to librarians right now. Gone are the days when we could
+uncritically look at our automation systems and think solely of the
+efficiencies they would introduce to our workflows and the benefits to
+our users through unmediated access to systems and the consistency
+offered by automated and networked metadata systems (e.g. MARC). We have
+to be aware of how these technologies are contributing to a
+reproletarianzation of library workers and our user constituencies, but
+also how the technologies we rely on are themselves reliant on
+criminally exploitated labourers in cheap labour zones at the end of
+networked supply chains. We can no longer subscribe to the optimistic
+view of "the information society" with the liberating effect of its
+technology, as I was taught in library school. We have to recognize our
+- complicit - place in a global "vortex" of high-speed, high-tech,
+  forces and relations of production.
