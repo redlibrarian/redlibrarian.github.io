@@ -101,5 +101,5 @@ criminally exploitated labourers in cheap labour zones at the end of
 networked supply chains. We can no longer subscribe to the optimistic
 view of "the information society" with the liberating effect of its
 technology, as I was taught in library school. We have to recognize our
-- complicit - place in a global "vortex" of high-speed, high-tech,
+-- complicit -- place in a global "vortex" of high-speed, high-tech,
   forces and relations of production.
