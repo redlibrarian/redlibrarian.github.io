@@ -88,7 +88,7 @@ many other classes of people who are just as - if not more - oppressed
 by capitalism, but who are left out of many twentieth-century accounts
 of class struggle.
 
-This critical view of the technologies of "late capitalism" are of vital
+This critical view of the technologies of "late capitalism" is of vital
 importance to librarians right now. Gone are the days when we could
 uncritically look at our automation systems and think solely of the
 efficiencies they would introduce to our workflows and the benefits to
