@@ -86,7 +86,11 @@ broading out from the concept of a *working* working class. This allows
 us to consider precarious labourers, the incarcerated, students, and
 many other classes of people who are just as - if not more - oppressed
 by capitalism, but who are left out of many twentieth-century accounts
-of class struggle.
+of class struggle. For example, Dyer-Witheford draws on the "autonomist" tradition of
+*operaismo* (workerism), a strain of Marxism that developed in Italy in
+the 1960s, and which included early theorists of unwaged labour
+performed primarily by women in the name of the reproduction of
+labour-power.
 
 This critical view of the technologies of "late capitalism" is of vital
 importance to librarians right now. Gone are the days when we could
