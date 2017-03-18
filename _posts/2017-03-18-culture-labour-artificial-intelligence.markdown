@@ -92,8 +92,8 @@ until the algorithmic sophistication and computing power reached the
 stage were "immaterial labour" too came under the sway of automation.
 This is the position we are currently in.
 
-The image of the stock market trader on
-the floor of the NYSE, crying his trades in the crowd, is a fiction from
+The image of the stock market traders on
+the floor of the NYSE, crying their trades in the crowd, are fictions from
 another age: they too have been replaced with high-speed networks of machine
 learning algorithms.
 
