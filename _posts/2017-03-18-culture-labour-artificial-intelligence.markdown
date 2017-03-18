@@ -108,7 +108,7 @@ of murderous, hyper-exploitative, deregulated zones of free trade and
 cheap labour far from our comfortable universities.
 
 Finally, we have to be aware that the arrival of ultrasophisticated
-machine learning systems for intellectual and cultural work herald's
+machine learning systems for intellectual and cultural work heralds
 neither a monolithic dystopia nor a post-scarcity (eu|u)topia, but
 simply the next phase of the subsumption of human life to the implacable
 logic of capital accumulation. However, this awareness opens up
