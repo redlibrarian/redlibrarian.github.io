@@ -14,16 +14,16 @@ I kept coming back to a couple of things that are outside its scope, but
 relevant to the question that she asks. 
 
 Bourg is arguing, I think, that - given the fundamental changes in AI
-and machine learning - we need to drasticaly revision our services and
+and machine learning - we need to drasticaly re-vision our services and
 the goals and outcomes that guide them.
 
-> think we would be wise to start thinking now about machines and
+> I think we would be wise to start thinking now about machines and
 > algorithms as a new kind of patron  — a patron that doesn’t replace
 > human patrons, but has some different needs and might require a
 > different set of skills and a different way of thinking about how our
 > resources could be used.
 
-Libraries and librarians have been part of broader world of big data,
+Libraries and librarians have long been part of the broader world of big data,
 analytics, text mining, machine learning, and automation, but we have
 simply looked at those things as tools within our traditional workflows
 and models rather than as fundamentally informing changes to how and
@@ -34,10 +34,10 @@ what we do what we do.
 >on their own digital device is all we get from the digital revolution,
 >then it won’t have been much of a revolution.
 
-Which brings me to the question of culture. In my experience, speaking
+The idea of a "revolution in libraries" brings me to the question of culture. In my experience, speaking
 as an academic librarian, academic libraries continue to a) have a
 liaison model which is mired in traditional concepts of research and
-teaching which continue to have less and less validity and are
+teaching which continues to have less and less validity and is
 predicated on too much wasted effort; b) our systems and infrastructure
 is *slow* to change - with some exemplary exceptions we resist changes
 to our tools, processes, and workflows which means we are unable to
@@ -48,14 +48,14 @@ screwed up vendor ecosystem, which squats like a vampire on the
 possibility of innovation and advancement in library systems); c)
 perhaps most damningly, we have an ultra-hierarchical decision-making
 structure which owes its allegiance to the socio-political dynamics of
-university administratins rather than to libraries and librarians. Sites
+university administrations rather than to libraries and librarians. Sites
 that *could* be used to expand our understanding and use of, for
 example, machine learning - i.e. poorly-conceived "digital scholarship
 centres" - are exercises in branding and self-promotion rather than
 honest attempts to engage in new technologies and ideas.
 
 Bourg alludes to some of the reasons for resistence against the full
-adoption of machine learning (and its consequent culture) but I'm not
+adoption of machine learning (and its consequent culture-shift) but I'm not
 sure she gives enough weight to the inertia of library culture and
 tradition.
 
@@ -94,7 +94,7 @@ This is the position we are currently in.
 
 The image of the stock market trader on
 the floor of the NYSE, crying his trades in the crowd, is a fiction from
-another age: they too have been replaced with high-networks of machine
+another age: they too have been replaced with high-speed networks of machine
 learning algorithms.
 
 And we mustn't be too sanguine about the replacement of labour by
@@ -116,4 +116,10 @@ precisely the possibility of class struggle, the struggle to ensure that
 the adoption of AI does not erode "the values we care about (inclusion,
 privacy, democracy, social justice, authority, etc.)?", the struggle to
 harness and capture the tools of capitalist exploitation for our own
-needs.
+needs. The strategy of capital from the beginning has been to "eliminate
+the relationships between people". Insisting on these relationships is
+the core, I think, of class struggle - one which library workers are
+going to be inaugurated into via AI and machine learning whether they
+like it or not. This might sound bad, but I agree with Chris Bourg that
+the advent of AI in libraries actually opens up a broader scope for
+change, which can only be a good thing.
