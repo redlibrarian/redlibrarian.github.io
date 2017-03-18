@@ -76,7 +76,7 @@ devalued and rare
 and books, and between librarians and their community members
 
 I've been reading Nick Wyer-Witheford's two books *Cyber-Marx* (1999)
-and *Cyber-Proletariat*, in which he discusses the rise of vast,
+and *Cyber-Proletariat* (2015), in which he discusses the rise of vast,
 high-speed networks of automation - predicated on the constantly
 lowering cost of computing power as well as capital's need to replace
 human labour with machines - which drives, amongst other things, the
