@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data, Discovery, and Access"
-date: 2017-03-18
+date: 2017-04-04
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
