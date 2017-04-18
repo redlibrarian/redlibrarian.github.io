@@ -3,9 +3,25 @@ layout: page
 title: Selected Presentations
 permalink: /presentations/
 ---
+
+* "[Libraries and the State: A Discussion of Complicity and Dual
+  Power](https://redlibrarian.github.io/article/2016/11/21/slis-lecture.html)",
+  SLIS Research Colloquium, November 16, 2016.
+* "Linked Open Data", Edmonton Open Data Summit, October 15, 2016.
+* "Building presentations with Reveal.js and Markdown", Code4LibYEG
+  Workshop Day, June 17, 2016.
+* "Open Source Discovery Systems and Blacklight", invited talk, Ryerson
+  University, May 11, 2016.
+* "Blacklight and Open Source Software", SLIS 598, April 4, 2016.
+* "Library IT Ecosystem", invited talk, SLIS Brown Bag series, with
+  Jason Harris, February 10, 2016.
+* "Coding: Between Hacking and Engineering", Digital Scholar's Student
+  Group inaugural meeting, University of Alberta, January 21, 2016.
 * ["Functional Programming with Clojure", Code4LibYEG Unconference, November 5-6, 2015.](http://redlibrarian.github.io/code4lib-clojure)
 * ["Coding and Humanism", Digital Pedagogy Institute, Toronto, August 20, 2015.](http://redlibrarian.github.io/digital_pedagogy_institute)
 * ["Virtual Collaboration: Tips and Tricks for Working Together at a Distance Access", with Sarah Simpkin, Access Conference, Toronto, September 10, 2015.](http://redlibrarian.github.io/access_2015)
+* "Using the Twitter API", Code4LibYEG API Hackfest, Edmonton, July 17,
+  2015.
 * ["International Partnership in Vietnam: Experiences and Lessons", NEOS Miniconference, Macewan University, June 12, 2015.](http://redlibrarian.github.io/NEOSConference2015/)
 * ["Friction and Mystery: Open-Source Software and Information Literacy", ILPalooza, Macewan University, April 23, 2015.](http://redlibrarian.github.io/ilpalooza2015/)
 * "Keynote: Open-Source Adoption and Technological Capacity Building in Libraries", AAAL Fall Meeting, November 20, 2014.
