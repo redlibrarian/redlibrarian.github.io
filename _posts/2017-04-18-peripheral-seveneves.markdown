@@ -22,7 +22,7 @@ read *Neuromancer* and a few of the short stories. What I've read has
 generally left me cold, and a reread of *Neuromancer* a couple of years
 ago confirmed my suspicion: Gibson has the ability to match the right
 (high-)concept with the right elements of the zeitgeist to create a
-plausible world "twenty minutes into the future" (as Max Headeroom put
+plausible world "twenty minutes into the future" (as Max Headroom put
 it). *Neuromancer* is well worth reading for the vision of the future
 (our present, for the most part) that Gibson imagined, what he got right
 and what he got wrong. But it no longer has the power of *the new* that
