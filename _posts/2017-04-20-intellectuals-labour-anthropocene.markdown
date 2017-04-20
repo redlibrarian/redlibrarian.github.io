@@ -8,7 +8,7 @@ image: /assets/images/mandolin.jpg
 ---
 
 My proposal had been submitted last year and I had been planning to
-attend the [Libraries, Archives, and the Anthropocene
+attend the upcoming [Libraries, Archives, and the Anthropocene
 Colloquium](http://litwinbooks.com/laac2017colloq.php) hosted in New
 York by Litwin Books, but due to the unethical travel ban implemented
 since then by the US Government, [I have decided not to travel to the US
