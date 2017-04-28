@@ -106,3 +106,39 @@ real data models that are flexible enough to afford many different kinds
 of engagement. This is not new, I think, to anyone who works with
 library systems and data, but it is important, I think, to bear the
 "unreal" nature of all models in mind as we go along.
+
+And this is where I think the problem lies. There's a hermeticism to a
+lot of technical library work (whether that's systems, cataloguing, or
+metadata), that tries to ignore the broader social context of the
+decisions being made. We might be user-focused, we might try to
+future-proof our decisions, but fundamentally, we follow best practices
+that are based on professional practice and knowledge (metadata and
+cataloguing) or institutional culture (systems and development), all of
+which are
+slow to change and averse to changing too radically. If, indeed, we are
+going through a data turn, then in Marxist terms, our knowledge and
+practices are becoming fetters on the work that we need to do. But the
+main culprit, from my perspective, is an organizational culture that
+*has* no model, that is a collection of ad-hoc decision-making processes
+(almost exclusively top-down) that are focused on getting as much out
+neoliberal dynamics of university or municipality as possible, rather
+than on leading an organization into a position where we can explore and
+support the data infrastructure which enables scholarship and research,
+and is both methdology and object of study.
+
+Fundamentally, as [Rachel M Fleming noted this
+morning](https://twitter.com/RachelMFleming/status/857964516591710209)
+we need a much firmer grasp on the economics of our situation, both at
+the granular budgetary level and at the level of political economy. How
+we sign contracts, how we work with our vendors, how we engage with our
+administrations and our parent organizations, all of this is being done
+too positively, too hermetically, too naively. If we seriously want to
+change our library culture in order to support library work that will
+allow us to engage and work with researchers, teachers, students, we are
+going to have to make some serious changes, we have to recognize our
+collective power to force things to change (a lesson we need to learn on
+the labour front as well), and we will likely need to get our hands
+dirty. For, even if we are going through a turn towards (digital) data
+as the overarching model, we need to be materialists too, and
+understand, challenge, and employ the material conditions in which we
+work.
