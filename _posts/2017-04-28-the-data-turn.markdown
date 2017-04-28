@@ -120,8 +120,9 @@ going through a data turn, then in Marxist terms, our knowledge and
 practices are becoming fetters on the work that we need to do. But the
 main culprit, from my perspective, is an organizational culture that
 *has* no model, that is a collection of ad-hoc decision-making processes
-(almost exclusively top-down) that are focused on getting as much out
-neoliberal dynamics of university or municipality as possible, rather
+(almost exclusively top-down) that are focused on getting as much out of
+the
+neoliberal dynamics of a university or municipality as possible, rather
 than on leading an organization into a position where we can explore and
 support the data infrastructure which enables scholarship and research,
 and is both methdology and object of study.
