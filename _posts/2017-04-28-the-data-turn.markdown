@@ -93,7 +93,7 @@ goes on to say that
 >first consistent and self-conscious attempts to work out a philosophy
 >of models (constructed on the analogy with language): the
 >presupposition here is that all conscious thought takes place within
->the limis of a given model and is in that sense determined by it. (101)
+>the limits of a given model and is in that sense determined by it. (101)
 
 We must be aware that while *we* think of things in terms of the model
 (either a specific data model or *data as a model*), scholarship,
