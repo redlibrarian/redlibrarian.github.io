@@ -130,7 +130,8 @@ and is both methdology and object of study.
 Fundamentally, as [Rachel M Fleming noted this
 morning](https://twitter.com/RachelMFleming/status/857964516591710209)
 we need a much firmer grasp on the economics of our situation, both at
-the granular budgetary level and at the level of political economy. How
+the granular budgetary level ("*are* digital initative units better
+funded than public service units?") and at the level of political economy. How
 we sign contracts, how we work with our vendors, how we engage with our
 administrations and our parent organizations, all of this is being done
 too positively, too hermetically, too naively. If we seriously want to
