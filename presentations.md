@@ -4,7 +4,7 @@ title: Selected Presentations
 permalink: /presentations/
 ---
 
-* "The Teaching Factory, or, the Reserve Army of Academic Librarianship", *Precarious Academic Labour in the Age of
+* "[The Teaching Factory, or, the Reserve Army of Academic Librarianship](https://redlibrarian.github.io/article/2017/05/10/the-learning-factory.html)", *Precarious Academic Labour in the Age of
   Neoliberalism*, Okanagan College, Kelowna, May 5 & 6, 2017.
 * "[Libraries and the State: A Discussion of Complicity and Dual
   Power](https://redlibrarian.github.io/article/2016/11/21/slis-lecture.html)",
