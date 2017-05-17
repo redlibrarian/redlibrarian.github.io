@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Marx's Ecology"
 date: 2016-07-01
-categories: review
+categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
 ---

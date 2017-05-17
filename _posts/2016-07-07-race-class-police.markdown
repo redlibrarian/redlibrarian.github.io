@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race, Class, and the Police"
-date: 2016-07-03
+date: 2016-07-07
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
