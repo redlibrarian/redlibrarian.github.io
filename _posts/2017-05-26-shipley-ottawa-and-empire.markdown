@@ -100,7 +100,7 @@ exhortation:
 >Canadians need not be. It is my sincere hope that this book will compel
 >greater collaboration and solidarity between the social movements and
 >organizations confronting imperialism in Honduras and those in Canada.
->The need has never been greater.
+>The need has never been greater. (173)
 
 This is an important book, especially right now, when the left in Canada
 seems to be at an impasse, caught between a completely bankrupt party
