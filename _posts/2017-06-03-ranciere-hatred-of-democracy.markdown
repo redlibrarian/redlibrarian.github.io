@@ -104,9 +104,10 @@ aren't managers", nor do we hear about the "followers" required for
 would argue that this absence is based on precisely the same hatred of
 democracy present in society at large. The fiction of a natural
 hierarchy in our profession (of experts and... non-experts) is
-maintained precisely on the absence of the subservient term. The
+maintained precisely on the absence of the subservient term despite the
+physical presence of the people the term should describe. The
 principle of collegial governance, lacking but paid lip-service to, is
-predicted on exactly the capability of anyone to govern, which is
+predicated on exactly the capability of anyone to govern, which is
 exactly why it remains an impotent signifier within the structures of
 domination at play in academic libraries. The situation becomes even
 worse when we expand our scope beyond MLIS-holding librarians to the
