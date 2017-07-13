@@ -105,19 +105,19 @@ pluralism to the dominant ideology of librarianship. The notion of an
 framers of the ALA Code of Ethics, which attempts to enshrine the
 concept of value-neutrality by explicitly denying the relevance of
 ideologies to library work. The fact that the ALA Code of Ethics, like
-most normative ethical which support the status quo does not need to
+most normative ethics which support the status quo does not need to
 mention its liberal presumptions is merely a testament to liberalism's
 hegemony: it is such a "necessary truth" that it can allow itself to
 remain unmarked.
 
-Given that the library is a state institutions, perhaps the controversy
+Given that the library is a state institution, perhaps the controversy
 over last night's memorial boils down to an antagonism between those who
 see the public library as a *social* institution with social
 responsibilities, and those who see it as an institution of the state
 with political responsibilities. This, naturally enough, is yet another
 contradiction contributing to the identity of the public library. The
 contradiction between social responsibility and political responsibility
-boils down to the question of contradictory values: communal, humanist
+boils down, in my mind, to the question of contradictory values: communal, humanist
 values on the one hand, and liberal (i.e. individualistic,
 "value-neutral" values based on the sanctity of private property) on the
 other. These contradictions cannot be resolved through discussion,
@@ -125,3 +125,21 @@ though we might seek to expose them, de-mystifying the library as
 dialectical cateogory, and making our positions known. They can only be
 resolved over time, that is through a historical process, of
 ever-increasing crisis leading eventually to fundamental social change.
+
+It is futile to attempt to play it safe, to future proof, one's own
+social position through vague, unactionable "values", such as those
+which are typically propounded through library value statements. By
+default, vague values or values which pretend to neutrality support the
+unmarked, dominant, culturally hegemonic values of liberalism. One has
+to commit to a set of specific values while not losing sight of the fact
+that the world changes, moment after moment, and that we ourselves are
+the products of social contradictions and mediations. Understanding the
+dialectical nature of our relationships does not absolve us from taking
+a stand; "not taking a stand" means siding with the implicit values of
+liberalism. But the values that we commit to, while specific and
+actionable, have to be capable of change. Five years ago, the open and
+unapologetic use of public spaces by far-right white supremacist groups
+was not something we needed to worry about particularly. That time has
+gone, and we need to decide whether our values are social ones, which
+would deny oxygen to such groups, or political ones, which prioritize
+the maintenance of hegemony and power above all else.
