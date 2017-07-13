@@ -128,7 +128,7 @@ ever-increasing crisis leading eventually to fundamental social change.
 
 It is futile to attempt to play it safe, to future proof, one's own
 social position through vague, unactionable "values", such as those
-which are typically propounded through library value statements. By
+which are typically propounded by library value statements. By
 default, vague values or values which pretend to neutrality support the
 unmarked, dominant, culturally hegemonic values of liberalism. One has
 to commit to a set of specific values while not losing sight of the fact
