@@ -136,7 +136,7 @@ that the world changes, moment after moment, and that we ourselves are
 the products of social contradictions and mediations. Understanding the
 dialectical nature of our relationships does not absolve us from taking
 a stand; "not taking a stand" means siding with the implicit values of
-liberalism. But the values that we commit to, while specific and
+liberalism and the state. But the values that we commit to, while specific and
 actionable, have to be capable of change. Five years ago, the open and
 unapologetic use of public spaces by far-right white supremacist groups
 was not something we needed to worry about particularly. That time has
