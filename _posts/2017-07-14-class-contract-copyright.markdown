@@ -132,3 +132,12 @@ that is our government's aesthetic, and it cries out for demystification
 at every turn. However, we too are forced by the logic of capitalist
 production and exchange to take what we can get. It may not be fair - to
 any of the parties involved - but it's currently all we have.
+
+Addendum (July 15, 2017): I realize that in the above I didn't spell out
+the conclusion strongly or clearly enough. Given that creators and users
+are both exploited in the current situation, one through the inability
+to contractually exchange their work for revenue, the other through the
+prohibitive barrier to use caused by the prices of the resources being
+exchanged, it seems clear that the only way to resolve this
+contradiction is not to tinker with the details of copyright legislation or the fair dealing exception, but to fundamentally overturn the property relations that underpin them. Creators will always be at the mercy of exploitative market forces as well as being more and more alienated from the (very personal) products of their labour, and users will always be seeking non-contractual or illegal workarounds to use the resources they need for work and study. The only solution, really, is for both sides of to come together, recognize their common interest, organize, and work towards the overthrow of capitalist economic and social relations.
+dealing 
