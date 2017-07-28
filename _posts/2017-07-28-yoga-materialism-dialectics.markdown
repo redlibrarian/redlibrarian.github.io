@@ -8,6 +8,8 @@ publised: false
 image: /assets/images/mandolin.jpg
 ---
 
+*Caveat: The dharma that can be spoken is no dharma at all.*
+
 I've been thinking/reading a lot about dialectics lately, especially the
 relationship between Hegel's idealist dialectic and the materialist
 dialectic of Marx and Engels. But I've also been doing a lot of yoga -
