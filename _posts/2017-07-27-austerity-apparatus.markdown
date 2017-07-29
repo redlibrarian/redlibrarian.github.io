@@ -4,7 +4,6 @@ title: Review - Austerity Apparatus
 date: 2017-07-27
 categories: article
 tags: featured
-publised: false
 image: /assets/images/mandolin.jpg
 ---
 
