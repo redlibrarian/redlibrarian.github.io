@@ -19,7 +19,7 @@ foundations of society intact.
 >conscious of the irreconcilable antagonism of their interests to the
 >whole of the modern political and social system.
 
-An intact capitalism leads, we we know, to increased alienation,
+An intact capitalism leads, as we know, to increased alienation,
 ever-worsening economic crises, and eventual collapse. *In the
 meantime*, capitalism remains based on inequality and exploitation
 supported by domination and oppression. Our understanding of social
@@ -60,7 +60,7 @@ the feeling that they are accomplishing something practical - something
 ostensibly "left wing" institutions (unions, the NDP, the Communist
 Party of Canada) have completely ignored for as long as I can remember.
 
-Much of the encouragement comes from a frustration with attempts (and I
+Much of the impetus behind punching Nazis comes, I think, from a frustration with attempts (and I
 used the word advisedly) to argue with far-right fascists. They are
 experts at using the language and arguments of social justice against
 us, even when they are interesting in arguing at all, and not merely
