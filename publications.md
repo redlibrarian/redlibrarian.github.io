@@ -3,6 +3,9 @@ layout: page
 title: Selected Publications
 permalink: /publications/
 ---
+
+* [Coding and Professional Development-Part 1: A Study in Contradictions](https://journal.lib.uoguelph.ca/index.php/perj/article/view/3961#.Wbayt9QrLrE), *Partnership: The Canadian Journal of Library and Information Research and Practice*, Vol 12, No 1 (2017).
+* [Coding and Professional Development-Part 2: A Case Study of Grassroots Change](https://journal.lib.uoguelph.ca/index.php/perj/article/view/3962#.WbayiNQrLrE), *Partnership: The Canadian Journal of Library and Information Research and Practice*, Vol 12, No 1 (2017).
 * "'Ruthless Criticism of All That Exists': Marxism, Technology, and
   Library Work", in *The Politics of Theory and the Practice of Critical
 Librarianship*, Edited by Karen Nicholson and Maura Seale, Sacramento:
