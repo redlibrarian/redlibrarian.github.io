@@ -35,7 +35,7 @@ we're generally happy for our labour to contribute to the public good.
 But brand management and virality are typically *not* part of the public
 good, but private betterment, that is - profit. We tend to get pretty
 riled at the idea of our publicly funded work being used to further
-private interested.
+private interests.
 
 A few years ago when the [Future of Libraries is
 Open](https://www.folio.org/) (FOLIO) project was announced, it caused a bit of
