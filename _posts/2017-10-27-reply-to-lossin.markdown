@@ -153,7 +153,7 @@ argument is the idea that the episodes she mentions
 I would argue that, with technology being such an integral part of the
 process of capitalist accumulation, both of value and of ideology and
 culture, we can't escape some form of techno-fetishism. Indeed, the very
-qualtiies of the printed book Lossin writes about mark a
+qualities of the printed book Lossin writes about mark a
 techno-fetishism of her own, since the printed book is itself a
 technology. All this may make it sound as if I am unsympathetic to
 Lossin's argument, but I'm not. I agree that reading something in print
