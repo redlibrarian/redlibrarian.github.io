@@ -16,7 +16,8 @@ Rights, through to the debates around intellectual freedom and social
 responsiblity in the 1960s and 1970s, and continuing to this day in the
 various forms and emphases of the Progressive Librarians Guild, the
 critical librarianship (#critlib) movement, and the work being done by
-Library Juice Press, to name just a few tendencies. In some ways,
+Library Juice Press, to name just a few tendencies - tend to seem rather
+provincial against the backdrop of broader left critique. In some ways,
 Lossin's critique - an intervention in the name of the printed book -
 aligns with at least some of these movements. But Lossin's portrayal of
 a homogeneous, monolithic library profession is at odds with the
