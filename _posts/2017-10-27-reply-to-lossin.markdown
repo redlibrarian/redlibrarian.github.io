@@ -94,7 +94,7 @@ this would defeat the purpose.
 
 The majority of electronic books acquired by libraries are born digital,
 that is, they exist electronically alongside a print version; indeed the
-print version is often produces from - and after - the electronic
+print version is often produced from - and after - the electronic
 version. In this sense then, the question of the shift from print books
 to electronic books becomes one of the lowering the cost of the means of
 production, and changing the nature of labour involved, that is, it
