@@ -70,7 +70,7 @@ Leaving aside the fact that "book" remains an integral part of the
 vocabulary of librarianship (and the silent elision of "book" with "codex"), ascribing a (putative) devaluing of the book to a single cause - digitization - oversimplifies matters.
 
 Have print codex collections declined, or at least slowed? It's likely -
-University of Alberta Libraries' has an "electronic preferred" copy
+University of Alberta Libraries has an "electronic preferred" policy 
 where, absent any counterargument, an electronic copy will be acquired
 if one exists. I'm not a collections librarian and I haven't done the
 number crunching, but it seems likely that some material formerly
