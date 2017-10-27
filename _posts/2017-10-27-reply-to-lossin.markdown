@@ -40,7 +40,7 @@ so when Lossin remarks that
 >'rebranding' the library via Facebook - which still, unfortunately, has
 >the word 'book' in it. They even found a way to rename books: as
 >budding information professionals, we were encouraged to use the unsexy
->- if still suffestive - term 'information package' instead.
+>-- if still suffestive -- term 'information package' instead.
 
 This makes it sound as if everyone except Lossin, professors and
 students alike, form a homogeneous bloc fully and enthusiastically in
