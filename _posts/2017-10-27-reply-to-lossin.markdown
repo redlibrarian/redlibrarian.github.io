@@ -138,7 +138,7 @@ But there are no pure spaces untouched by capitalist logic,
 exploitation, and domination.
 
 Lossin's account of the various destructive processes that have taken
-place throughout the history of libraries is not wrong - indeed, the
+place throughout the history of libraries is not *wrong* - indeed, the
 destruction and repurposing of paper (and of rags to make paper) is as
 old as the book itself. I'm just not sure what her point is - librarians
 don't destroy books because we hate paper and love whatever the new
