@@ -157,7 +157,7 @@ qualities of the printed book Lossin writes about mark a
 techno-fetishism of her own, since the printed book is itself a
 technology. All this may make it sound as if I am unsympathetic to
 Lossin's argument, but I'm not. I agree that reading something in print
-is different (and, in my opinion) worse than reading it electronically.
+is different (and, in my opinion, worse) than reading it electronically.
 But Lossin's view seems to oversimplify and overgeneralize the process
 she is describing, and ignores the hegemonic realities librarians live,
 work, and struggle in. I think it also ascribes single causes to what
