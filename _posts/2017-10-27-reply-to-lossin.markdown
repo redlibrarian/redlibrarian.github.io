@@ -171,7 +171,7 @@ world. And this, I think, is at the heart of my critique of Lossin's
 argument: she posits too many false dichotomies - information
 specialists vs. librarians, the status quo vs. her solitary voice, print
 vs. electronic. The truth is that both the symptoms which she diagnoses
-- which in general I agree with - and the causes of those symptoms are
+-- which in general I agree with -- and the causes of those symptoms are
   much more complex than she allows. Like librarianship itself.
 
 This blog post can't do justice to everything in Lossin's article, which
