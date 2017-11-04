@@ -24,7 +24,7 @@ What sparked this conversation was a presentation at Educause 2017 on
 Learning
 Analytics"](https://events.educause.edu/~/media/files/events/user-uploads-folder/e17/sesso21/closing-the-data-gap--presentation-part-1.pdf).
 Two of the questions posed in this presentation was "Are there correlations between
-library use and student success measures? And how do you measure success?" The presenters argued that by integrating library use(r) data with other campus data, we could prove the value of library use. One ofthe slides contains the following quote:
+library use and student success measures? And how do you measure success?" The presenters argued that by integrating library use(r) data with other campus data, we could prove the value of library use. One of the slides contains the following quote:
 
 >[The Libraries] are critical to supporting student
 success, which is one of our highest priorities at the
@@ -75,7 +75,7 @@ journal, argued that this point of view stripped particular developments
 function within the struggle between labour and capital, which led to
 seeing these things as objectively valuable, useful, and good, and only
 put to bad use by exploitative capitalists. The dominant federation of
-labour union at the time maintained this position, seeing "time and
+labour unions at the time maintained this position, seeing "time and
 motion studies, 'human relations', even the restructuring and
 parcellisation of the labour process [i.e. the assembly line]" as
 possessing "an intrinsic rationality and necessity which their current
