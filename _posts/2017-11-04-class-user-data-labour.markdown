@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Class, Data and Objectivity"
+title: "Class, User Data and Labour"
 date: 2017-11-04
 categories: article
 tags: featured
