@@ -40,3 +40,10 @@ One of the most telling aspects of this legislation is that infractions committe
 >The provisions of the statutes of labourers as to contracts between master and workman, regarding giving notice and the like, which allow only a civil action against the master who breaks his contrcact, but permit, on the contrary, a criminal action against the worker who breaks his contract, are still in full force at this moment. [Until 1875, in fact]" (902-903).
 
 We see here the early history of state intervention into labour disputes *on the part of the employer*. Back-to-work legislation, a legal way to abrogate the hard-won right to strike, is simply the modern form of state power wielded on behalf of the capitalist class. Let there be no mistake: illegal or wildcat strikes, refusing to obey back-to-work legislation would bring the full force of the law down on non-complying workers. The Spanish state recently used military force to put down rebellion in Catalonia; such is the real face of the power of capital.
+
+Obviously we will see in the next week or so what comes out of any of
+this. Hopefully OPSEU will be able to gain some concessions from the
+CEC, but the CEC's commitment to good-faith bargaining seems to be
+fairly minimal, and this will likely reach a legislated, rather than a
+negotiated or arbitrated settlement. Good luck to all the faculty,
+librarians, and staff involved.
