@@ -123,3 +123,22 @@ positive, as almost anything must be better than what we have now, but
 in the short term, the ramifications for all areas of the library,
 especially public services, are enormous, and the implications for
 privacy unnerving.
+
+Update 24/11/2017:
+
+In a conversation last night, [Ruth
+Collings](https://twitter.com/collingstruth) pointed out that another
+way vendors can/will benefit from the fracturing of authentication
+systems is by continuing the trend of building walled-gardens. As we've
+soon over the last few years, the library vendor ecosystem has been
+consolidating into fewer and fewer hands. One strategy in this
+consolidation seems to be to acquire as many user tools as possible
+(discovery system, citation management, knowledge base, etc) in order to
+keep libraries, faculty, and students locked in to a single vendor's
+system. In this sense, the vendors are simply following the model of,
+say, Apple or Google, in which proprietary hardware and software, and
+closed protocols and applications, serve to lock users in to a single
+corporate system. By fracturing the authentication/access landscape, it
+is only too plausible that vendors will use their own, proprietary,
+authentication system to lock a particular library into their own suite
+of closed systems and services.
