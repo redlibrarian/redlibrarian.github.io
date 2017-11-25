@@ -15,7 +15,7 @@ Cover Design: Kyle Geske.
 href="http://www.lulu.com/shop/sam-popowich/the-bone-pursuit/hardcover/product-20632736.html"><img
 src="http://static.lulu.com/browse/product_thumbnail.php?productId=20632736&resolution=320"></a>
 (2012) (<a href="/assets/docs/TheBonePursuit.pdf">PDF</a>)<br />
-Cover Design and Painting: Marie-Claire Simard.
+Cover Design and Painting: MC Simard.
 
 <a href ="http://www.lulu.com/shop/as-popowich/immortal-treasons/hardcover/product-22567612.html"><img
 src="http://static.lulu.com/browse/product_thumbnail.php?productId=22567612&resolution=320"></a>
