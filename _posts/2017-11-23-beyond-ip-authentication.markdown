@@ -130,7 +130,7 @@ In a conversation last night, [Ruth
 Collings](https://twitter.com/collingstruth) pointed out that another
 way vendors can/will benefit from the fracturing of authentication
 systems is by continuing the trend of building walled-gardens. As we've
-soon over the last few years, the library vendor ecosystem has been
+seen over the last few years, the library vendor ecosystem has been
 consolidating into fewer and fewer hands. One strategy in this
 consolidation seems to be to acquire as many user tools as possible
 (discovery system, citation management, knowledge base, etc) in order to
@@ -142,3 +142,16 @@ corporate system. By fracturing the authentication/access landscape, it
 is only too plausible that vendors will use their own, proprietary,
 authentication system to lock a particular library into their own suite
 of closed systems and services.
+
+Update 27/11/2017:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en"
+dir="ltr">Hey Sam. As I recall, RA21 is effectively an application
+profile of Shibboleth, so really there are two: straight-up Shibboleth
+and an RA21-profiled Shibboleth. Thanks for the mention of Google&#39;s
+CASA; that was a new one for me.</p>&mdash; Peter Murray (@DataG) <a
+href="https://twitter.com/DataG/status/935239933685583873?ref_src=twsrc%5Etfw">November
+27, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
