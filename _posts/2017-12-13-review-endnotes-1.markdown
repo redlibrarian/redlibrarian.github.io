@@ -33,7 +33,7 @@ the kind of movemenism Moufawad-Paul critiques in *The Communist
 Necessity*, but I think that there's plenty to engage with here.
 
 *Endnotes 1* isn't really written by the Endnotes collective, as issues
-2 - 4 are. Other than a brief introduction and conclusiong, the text is
+2 - 4 are. Other than a brief introduction and conclusion, the text is
 composed of articles in a debate between Gilles Dauv&eacute; and the
 group Th&eacute;orie Communiste, which took place between 1998 and
 approximately 2008, over the categorization of and reasons for "failed"
