@@ -49,7 +49,7 @@ Strangely, it reminded me a lot of Steinbeck's *East of Eden* - another
 novel I put off for a long time but ended up loving. Bront&euml;'s
 characters are, so
 to speak, modern archetypes in the same way that Steinbeck's are. The
-interlocking pair of characters, the multigenerational struggles, the
+interlocking pairs of characters, the multigenerational struggles, the
 circumscribed society, even the name and complexity of "Cathy" are
 shared between the two books. Steinbeck's is perhaps more explicitly
 biblical, but *Wuthering Heights* shares a certain Old Testament
