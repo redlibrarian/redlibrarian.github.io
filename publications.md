@@ -3,7 +3,8 @@ layout: page
 title: Selected Publications
 permalink: /publications/
 ---
-
+* [Did Marx Base *Capital* on Dante's
+  *Inferno*? International Socialism 157, January 2018](http://isj.org.uk/did-marx-base-capital-on-dantes-inferno/)
 * [Coding and Professional Development-Part 1: A Study in Contradictions](https://journal.lib.uoguelph.ca/index.php/perj/article/view/3961#.Wbayt9QrLrE), *Partnership: The Canadian Journal of Library and Information Research and Practice*, Vol 12, No 1 (2017).
 * [Coding and Professional Development-Part 2: A Case Study of Grassroots Change](https://journal.lib.uoguelph.ca/index.php/perj/article/view/3962#.WbayiNQrLrE), *Partnership: The Canadian Journal of Library and Information Research and Practice*, Vol 12, No 1 (2017).
 * "'Ruthless Criticism of All That Exists': Marxism, Technology, and

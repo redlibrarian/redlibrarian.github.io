@@ -88,3 +88,7 @@ Dostoyevsky's *House of the Dead* and Margaret Laurence's *Stone Angel*
 are within a stone's throw of completion. I'll probably review those two
 as, despite not finishing them (yet), I think there's stuff to comment
 on in both books.
+
+EDIT (January 21, 2018): My review of Roberts' *Marx's Inferno* has
+appeared in [International
+Socialism](http://isj.org.uk/did-marx-base-capital-on-dantes-inferno/)
