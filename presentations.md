@@ -3,7 +3,12 @@ layout: page
 title: Selected Presentations
 permalink: /presentations/
 ---
-
+* "What Marx Can Tell Us About Climate Change", *Rebel Knowledge 2018*,
+  Guelph University, February 11, 2018.
+* "Embracing Anarchy? A Code4LibYEG Retrospective", with Lydia
+  Zvyagintseva and Dana Ouellette. *Netspeed*, October 4, 2017.
+* "Beyond the Boolean: Modern Algorithms for Search and Discovery",
+  *Netspeed*, Edmonton, October 3, 2017.
 * "[The Teaching Factory, or, the Reserve Army of Academic Librarianship](https://redlibrarian.github.io/article/2017/05/10/the-learning-factory.html)", *Precarious Academic Labour in the Age of
   Neoliberalism*, Okanagan College, Kelowna, May 5 & 6, 2017.
 * "[Libraries and the State: A Discussion of Complicity and Dual
