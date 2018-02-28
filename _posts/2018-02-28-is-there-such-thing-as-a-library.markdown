@@ -104,7 +104,7 @@ all is that services open to subgroups - even if that subgroup is not
 defined - tend to benefit those who understand and work within the
 system best. Only universalized services are able to resist the workings
 of various forms of privilege, even if that makes them open to "abuse",
-a charge which, to my mind, is nothing but a right-wing strawman.]
+a charge which, to my mind, is nothing but a right-wing strawperson.]
 
 So there's one criterion that might get us beyond the contradictions
 inherent in perspectivism that comes out of the crisis of role and
