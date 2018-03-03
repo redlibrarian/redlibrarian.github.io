@@ -9,7 +9,7 @@ Chapters in Edited Books
 * ["'Ruthless Criticism of All That Exists': Marxism, Technology, and
   Library Work"](https://doi.org/10.7939/R3RF5KV47), in *The Politics of Theory and the Practice of Critical
 Librarianship*, Edited by Karen Nicholson and Maura Seale, Sacramento:
-Library Juice Press, March 2018.
+Library Juice Press, March 2018: 39-66.
 * "Agile Open-Source Discovery: Blacklight with the Ebsco Discovery
   Service", in *Exploring Discovery: The Front Door to Your Library's
 Licensed and Digitized Content*, edited by Kenneth J. Varnum, Chicago:
