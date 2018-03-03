@@ -6,8 +6,8 @@ permalink: /publications/
 
 Chapters in Edited Books
 
-* "'Ruthless Criticism of All That Exists': Marxism, Technology, and
-  Library Work", in *The Politics of Theory and the Practice of Critical
+* ["'Ruthless Criticism of All That Exists': Marxism, Technology, and
+  Library Work"](https://doi.org/10.7939/R3RF5KV47), in *The Politics of Theory and the Practice of Critical
 Librarianship*, Edited by Karen Nicholson and Maura Seale, Sacramento:
 Library Juice Press, March 2018.
 * "Agile Open-Source Discovery: Blacklight with the Ebsco Discovery
