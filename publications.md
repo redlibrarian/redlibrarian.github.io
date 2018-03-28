@@ -17,6 +17,9 @@ ALA, 2016: 73-82.
 
 Articles and Reviews
 
+* [Libraries, Labour, Capital: On Formal and Real
+  Subsumption](https://journal.radicallibrarianship.org/index.php/journal/article/view/25), *Journal
+  of Radical Librarianship* 4 (2018): 6-9.
 * [Did Marx Base *Capital* on Dante's
   *Inferno*? International Socialism 157, January 2018](http://isj.org.uk/did-marx-base-capital-on-dantes-inferno/)
 * [Coding and Professional Development-Part 1: A Study in Contradictions](https://journal.lib.uoguelph.ca/index.php/perj/article/view/3961#.Wbayt9QrLrE), *Partnership: The Canadian Journal of Library and Information Research and Practice*, Vol 12, No 1 (2017).
