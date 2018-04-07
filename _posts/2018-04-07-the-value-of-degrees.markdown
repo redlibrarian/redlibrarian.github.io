@@ -51,6 +51,12 @@ certificate. If we want to transfer more value to the commodity (ie.
 cause the price to go up), then we want to underpay PhDs, rather than
 overpay library technicians.
 
+In this view, of course education is not about educating citizens,
+education is not *even* the commodity universities are selling. What is
+being sold is the "graduated worker" or the "worker-with-degrees.
+Library labour can then be understood as itself a value-input into the
+exchange-value of this commodity.
+
 What I find interesting in all these discussions in the library world is
 that we substitute "is" language for "ought" language. The theme of this
 year's ALC conference is a good example: "We stand up: we inspire hope,
