@@ -75,7 +75,7 @@ mind, it never had any intention to honour), then it cleared much of the
 land of making way for European and immigrant settlement as well as
 future development. And finally, when push really comes to shove, the
 government has not been above using its monopoly of the use of force to
-protect capitalist private property rights -  when I was kid, the most important event in
+protect capitalist private property rights -  when I was a kid, the most important event in
 this category was the Oka 'crisis' of 1990. More recently, we have
 seen Indigenous sovereignty claims ignored in the case of the
 Trans-Mountain pipeline. The government has been careful (so far) in
@@ -119,7 +119,7 @@ Librarians, faced with an article their institution doesn't have a
 license for, will often ask someone at another institution for a copy.
 This is small potatoes *but it violates capitalist property relations*.
 We should keep doing it. And we should do more things like it (like the
-quiet waving of fines, for example). Yes, there are legal options like Interlibrary
+quiet waiving of fines, for example). Yes, there are legal options like Interlibrary
 Loan, and there are options which appear to be illegal on a mass scale
 (like SciHub). But if we want eventually to challenge capitalism on a
 larger scale, we need to get comfortably challenging, subverting, and
