@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Copyright and Property
-date: 2018-04-24
+date: 2018-05-09
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
