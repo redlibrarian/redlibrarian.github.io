@@ -3,6 +3,12 @@ layout: page
 title: Selected Presentations
 permalink: /presentations/
 ---
+* "Labour, Solidarity, and Libraries", Panel (with Jennifer Dekker and
+  John Fink), CAPAL Conference, May 30, 2018.
+* "Theory as Material Force: Marxism and the Challenge of Academic
+  Librarianship", CAPAL Conference, May 29, 2018.
+* "“Agents of change”: Books and Marxist theories of history and
+  technology", Bibliographic Society of Canada, May 28. 2018.
 * "What Marx Can Tell Us About Climate Change", *Rebel Knowledge 2018*,
   Guelph University, February 11, 2018.
 * "Embracing Anarchy? A Code4LibYEG Retrospective", with Lydia
