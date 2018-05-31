@@ -9,6 +9,8 @@ permalink: /presentations/
   Librarianship", CAPAL Conference, May 29, 2018.
 * "“Agents of change”: Books and Marxist theories of history and
   technology", Bibliographic Society of Canada, May 28. 2018.
+* "Building Websites with GitHub Pages and Jekyll", Code4Lib Edmonton
+  Workshop, May 25, 2018.
 * "What Marx Can Tell Us About Climate Change", *Rebel Knowledge 2018*,
   Guelph University, February 11, 2018.
 * "Embracing Anarchy? A Code4LibYEG Retrospective", with Lydia
