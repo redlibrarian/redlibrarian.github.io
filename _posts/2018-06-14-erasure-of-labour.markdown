@@ -53,7 +53,7 @@ coincidence, due to its presence next to a book they knew about. Or the
 discovery of important books in a location (stack) they thought to
 visit. The presence of the books on a particular shelf in a particular
 order, devoid of the noise of outdated or irrelevant material, is of
-course no accident, happy or otherwise. But the objective experience of
+course no accident, happy or otherwise. But the subjective experience of
 the browser is no less real for all that. There are two kinds of
 serendipity being employed here, and Seeber's dismissal of the
 subjective experience of the browser is due to his only recognizing one
