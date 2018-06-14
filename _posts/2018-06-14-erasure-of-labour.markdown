@@ -28,7 +28,7 @@ capitalist subsumption of academic and library labour itself.
 There are other reasons to quibble. When Seeber says that he "didn't
 think that speed of access was as much of a concern for humanists who
 spend years preparing a monograph", he seems to betray, I think, a misunderstanding
-of the *writing* process, a artistic process (yes, even scholarly writing) that is intuitive and extremely sensitive to the kinds of flows and disruptions Seeber discounts.
+of the *writing* process, an artistic process (yes, even scholarly writing) that is intuitive and extremely sensitive to the kinds of flows and disruptions Seeber discounts.
 
 But the part of the blog post I really want to focus on is what Seeber
 says about "serendipity". He writes:
