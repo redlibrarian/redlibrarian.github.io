@@ -142,4 +142,5 @@ examples of how hate speech can be handled *without* calling down
 unlimited government censorship, *listen* to what others are telling you
 about *their* experience as people who have never been able to assume or
 rely on freedom, intellectual or otherwise. Or, as someone else put it
-on the OIF blog, get out of the way.
+on the OIF blog, get out of the way. Because if "intellectual freedom"
+does not really exist, then what matters is to fight for something else.
