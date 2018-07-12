@@ -13,7 +13,7 @@ Hathcock](https://aprilhathcock.wordpress.com/2018/07/11/my-bought-sense-or-ala-
 and [Carrie
 Wade](http://seadoubleyew.com/rethinking-intellectual-freedom/) have
 both written more important and significant contributions, which you
-should before (or instead of) mine.
+should read before (or instead of) mine.
 
 ---
 
