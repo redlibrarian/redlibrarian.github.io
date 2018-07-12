@@ -156,3 +156,10 @@ by Katie Elson Anderson
 
 [The American Library Association: Neutrality, Civility, and What Comes
 Next](https://beerbrarian.blogspot.com/2018/07/the-american-library-association.html)
+
+UPDATE: I focused here on the question of race, as that seems to me the
+clearest historical example of the fallacy of "freedom" in a "free
+republic", but I should make it clear that the hate groups in question
+are not only racist, but sexist, anti-semitic,
+homophobic, and in general against anything that marks people as
+*different*.
