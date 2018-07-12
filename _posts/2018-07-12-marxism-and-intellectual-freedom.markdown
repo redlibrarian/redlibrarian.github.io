@@ -142,10 +142,17 @@ examples of how hate speech can be handled *without* calling down
 unlimited government censorship, *listen* to what others are telling you
 about *their* experience as people who have never been able to assume or
 rely on freedom, intellectual or otherwise. Or, as someone else put it
-on the OIF blog, get out of the way. Because if "intellectual freedom"
+on the [OIF blog](https://www.oif.ala.org/oif/?p=14997), get out of the way. Because if "intellectual freedom"
 does not really exist, then what matters is to fight for something else.
 
 EDIT:
+
+[ALA OIF Responds to Library Bill of Rights Meeting Room Interpretation
+update](http://www.ala.org/news/press-releases/2018/07/ala-oif-responds-library-bill-rights-meeting-room-interpretation-update)
+
 [Letter to ALA
 OIF](https://katieanderson.camden.rutgers.edu/2018/07/12/letter-to-ala-oif/)
-by Katie Elson Anderson.
+by Katie Elson Anderson
+
+[The American Library Association: Neutrality, Civility, and What Comes
+Next](https://beerbrarian.blogspot.com/2018/07/the-american-library-association.html)
