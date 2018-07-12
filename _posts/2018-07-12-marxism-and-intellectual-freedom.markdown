@@ -144,3 +144,8 @@ about *their* experience as people who have never been able to assume or
 rely on freedom, intellectual or otherwise. Or, as someone else put it
 on the OIF blog, get out of the way. Because if "intellectual freedom"
 does not really exist, then what matters is to fight for something else.
+
+EDIT:
+[Letter to ALA
+OIF](https://katieanderson.camden.rutgers.edu/2018/07/12/letter-to-ala-oif/)
+by Katie Elson Anderson.
