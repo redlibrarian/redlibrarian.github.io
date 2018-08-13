@@ -16,7 +16,7 @@ wall of
 shame](https://medium.com/@OmnesRes/the-biorxiv-wall-of-shame-aa3d9cfc4cd7)
 and hinges on questions of what constitutes a preprint, what the purpose
 of a preprint is, and when is the ethically appropriate point to deposit
-a preprint (i.e. make it publically available). None of these questions
+a preprint (i.e. make it publicly available). None of these questions
 are settled and they are still points of contention. It seems to me,
 however, that there are two points which I don't see discussed in the
 literature. The first is the question of (private) property, and the
