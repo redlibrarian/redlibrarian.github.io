@@ -66,7 +66,7 @@ between preprints and published versions (i.e. through policies
 preventing accepted manuscripts from being deposited as preprints) and
 c) through selective manipulation of open-access mechanisms such as
 Creative Commons licensing (as the recent Elsevier discussion
-illustrates).
+illustrates - see the ALA Scholcomm listserv archive for details).
 
 This is all a good example of how capitalism coopts non-capitalist
 procedures and values (e.g. peer-review as knowledge validation) for
@@ -78,7 +78,8 @@ methodological reasons, but thereby end up contributing to an ecosystem of
 private property and profit.
 
 This all becomes clear when we consider the vilification of postprint
-deposit (again, relating back to the Elsevier CC "loophole"). For
+deposit (again, relating back to the [Elsevier CC
+"loophole"](https://www.jcel-pub.org/jcel/article/view/7415)). For
 instance, when Jordan Anaya
 [writes](https://medium.com/@OmnesRes/the-biorxiv-wall-of-shame-aa3d9cfc4cd7)
 that "the fact that you can post a bunch of postprints to bioRxiv, then
