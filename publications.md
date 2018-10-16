@@ -21,7 +21,7 @@ Peer-Reviewed Articles
   Subsumption](https://journal.radicallibrarianship.org/index.php/journal/article/view/25), *Journal
   of Radical Librarianship* 4 (2018): 6-9.
 
-Non-Peer Reviewed Articles
+Non-Peer-Reviewed Articles
 
 * What Marx Can Tell Us About Climate Change. *Not Your Textbook:
   Research & Action at OPIRG Guelph*, Fall 2018. Ontario Public Interest
