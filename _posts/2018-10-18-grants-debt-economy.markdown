@@ -60,7 +60,8 @@ argument - using employment insurance as an example - is that
 
 Not only does one have to be the kind of person who knows how to follow
 the instructions required to *apply* for funding (and here we come up
-against the perennial debates in librarianship on professionalism, class
+against the perennial debates in librarianship on professionalism,
+class,
 race, and gender), to *convince* the funding agency of one's worthiness
 to receive and hold their credit, but one also also has to be the kind
 of person who will tailor their life, work, and behaviour to the
@@ -72,7 +73,7 @@ It is precisely at these "obvious" points of "common sense" (why not
 have someone else pay for your work?) that we become most tightly
 enrolled in the system of domination of financial capitalism, that we
 become forced to adjust our very subjectivity to conform to the
-requirements of exploitation and dehumanization. Therefore, it is with
+requirements of exploitation and dehumanization. Therefore, it is
 precisely these obvious points of common sense that we have to
 challenge, even if it's hard for anyone to understand the challenge. As
 Dostoyevsky argued in *Notes from Underground*, the right to "go against
