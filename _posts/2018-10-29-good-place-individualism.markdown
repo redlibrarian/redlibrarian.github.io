@@ -7,6 +7,9 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+*NOTE: This post contains some details about a recent episode of The
+Good Place that could be construed as a spoiler.*
+
 In season three, episode four of *The Good Place*, Simone tries to help
 Eleanor understand what's wrong with her by explaining that she never
 really got past the "me vs. us" problem ("The other possible medical
