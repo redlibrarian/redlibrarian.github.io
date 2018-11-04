@@ -142,7 +142,7 @@ early-19th century socialists): that in order achieve a society not
 based on exchange, the tyranny of economic "fairness", and exploitation,
 we have to give up this idea of debt, repayment, value, equality,
 measure, etc., and live together as a community rather than - as the
-bourgeios economists would have us believe that we are - an aggregation
+bourgeois economists would have us believe that we are - an aggregation
 of individuals bound together solely by economic bonds (that is,
 exchange relationships). Jesus argues for this kind of perspective time
 and time again. Turning the other cheek is not (or not only) about
