@@ -269,3 +269,7 @@ through my mind.
 
 I have a few other books on the go right now, but it's unlikely I'll
 finish them before the end of December...
+
+EDIT: Oh right, I forgot one: Peter MacKinnon, *University Commons
+Divided: Exploring Debate & Dissent on Campus*, which I reviewed for
+CJAL (review forthcoming, I assume).
