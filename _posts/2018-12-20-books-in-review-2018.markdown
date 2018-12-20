@@ -20,7 +20,8 @@ I've also done a lot of writing, which contributes both to not reading
 quite as much, and reading a lot more lighter fiction as a way to unwind
 at the end of the day. Also, as opposed to last year, I didn't resolve
 to write a review of each book I finished. I've therefore included some
-brief notes on each book here.
+brief notes on each book here. I realize how many of these books are
+written by white men - I obviously have more to think about here.
 
 Total books read: 22 (5 non-fiction; 17 fiction). This is down from 27
 books read last year, where the majority were non-fiction (16
