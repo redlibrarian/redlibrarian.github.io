@@ -23,7 +23,8 @@ to write a review of each book I finished. I've therefore included some
 brief notes on each book here. I realize how many of these books are
 written by white men - I obviously have more to think about here.
 
-Total books read: 22 (5 non-fiction; 17 fiction). This is down from 27
+Total books read: 22 (5 non-fiction; 17 fiction) (EDIT: with the
+MacKinnon, it's actually 23 (6/17). This is down from 27
 books read last year, where the majority were non-fiction (16
 non-fiction; 11 fiction).
 
