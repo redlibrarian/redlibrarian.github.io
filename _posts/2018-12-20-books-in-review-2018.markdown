@@ -91,7 +91,7 @@ this was the day Frimme Hersh buried Rachele, his daughter") lets the
 image do most of the heavy lifting, allowing the text itself to make a
 virtue of its simplicity. The whole volume was fantastic to read.
 
-<img src="/assets/images/eisner.jpg" />
+<img src="/assets/images/eisner.jpg">
 
 Philip K. Dick. *The Divine Invasion*.
 
