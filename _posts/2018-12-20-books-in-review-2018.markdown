@@ -23,9 +23,8 @@ to write a review of each book I finished. I've therefore included some
 brief notes on each book here. I realize how many of these books are
 written by white men - I obviously have more to think about here.
 
-Total books read: 22 (5 non-fiction; 17 fiction) (EDIT: with the
-MacKinnon, it's actually 23 (6/17). This is down from 27
-books read last year, where the majority were non-fiction (16
+Total books read: 24 (7 non-fiction; 17 fiction) This is only slightly down from 27
+books read last year, but the breakdown is quite different. Last year, the majority were non-fiction (16
 non-fiction; 11 fiction).
 
 Emily Bront&euml;, *Wuthering Heights*.
@@ -268,9 +267,22 @@ particular conjunctions. I'll need to re-read this to make sense of it
 properly, but it helped clarify a bunch of things that had been floating
 through my mind.
 
-I have a few other books on the go right now, but it's unlikely I'll
-finish them before the end of December...
+Peter MacKinnon, *University Commons Divided*.
 
-EDIT: Oh right, I forgot one: Peter MacKinnon, *University Commons
-Divided: Exploring Debate & Dissent on Campus*, which I reviewed for
-CJAL (review forthcoming, I assume).
+Basically lays out the hegemonic liberal conception of academic freedom,
+using a set of case studies from the last few years. Nothing particulary
+new here - I have a CJAL review forthcoming.
+
+Raymond Geuss, *Public Goods, Private Goods*
+
+Geuss continues his critique of liberalism by performing a "genealogy"
+of the concept of public and private. Looking first at three historical
+case studies (Diogenes of Sinope, Caesar, and St. Augustine) and the
+different ways they conceived of and problematized the distinction
+between the public and the private, Geuss moves on to critiquing liberal
+views of a *unitary* dividing line between the two (looking specifically
+at Mill and Dewey). In the end, Geuss' realist view is that deciding on
+a theoritically singular (and likely abstract) dividing line and then making political
+decisions gets things the wrong way around: we need to decide what
+concrete context private/public is necessary for, and then build on that
+basis. A very short book, but quite interesting.
