@@ -3,6 +3,9 @@ layout: page
 title: Selected Presentations
 permalink: /presentations/
 ---
+* ["Libraries and Democracy: A
+  Critique"](https://redlibrarian.github.io/libraries_and_democracy), Ontario Library
+  Association, Toronto, January 31, 2019.
 * "Labour, Solidarity, and Libraries", Panel (with Jennifer Dekker and
   John Fink), CAPAL Conference, May 30, 2018.
 * "Theory as Material Force: Marxism and the Challenge of Academic
