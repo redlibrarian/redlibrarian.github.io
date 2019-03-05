@@ -7,6 +7,14 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+>In Descartes, as in the 'new science,' oncee it has separated itself
+>from the spurious elements of philosophical development, the trust in
+>method attaind an almost mythical status and takes on a Promethean
+>force, defining itself - along with its commitment to scientific
+>verification - as a sort of heroic, originary ingenuity.
+
+Negri, <em>Political Descartes</em>
+
 One of the most insidious aspects of the triumph of instrumental reason
 under neoliberalization is its quantification, not only of natural
 phenomena, but of the self. Methodological individualism - the idea that
@@ -215,8 +223,10 @@ political commitment on the part of libraries - something that might
 help prevent policies like [Winnipeg Public Library's](https://globalnews.ca/news/4965496/millennium-library-security-screening/), itself predicated
 on a parochial separation between the state and its citizens - but in
 addition to this we need a commitment to our own self-definition of
-goals and values predicated on our sense of community. But in order to
-achieve a sense of community, we need to destroy all those insidious
+goals and values predicated on our sense of community. 
+
+In order to
+achieve such a sense of community, however, we need to destroy all those insidious
 processes, like instrumental rationality itself, whose function is to
 separate, isolate, and alienate us from each other. This may not be
 possible without a revolution, but in the mean time we have to face some
