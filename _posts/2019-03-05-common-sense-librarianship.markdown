@@ -7,7 +7,7 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
->In Descartes, as in the 'new science,' oncee it has separated itself
+>In Descartes, as in the 'new science,' once it has separated itself
 >from the spurious elements of philosophical development, the trust in
 >method attaind an almost mythical status and takes on a Promethean
 >force, defining itself - along with its commitment to scientific
