@@ -138,4 +138,8 @@ around for decades, but which has only really come into its own since 2011. Capi
 and automation, and the misery of the working class must continue to
 increase, and we must go through yet more cycles of economic crisis,
 before the final conflict between profit and human life finally comes to
-a resolution. 
+a resolution.
+
+NOTE: the copy of the *Grundrisse* I'm working from is the Allen
+Lane/Penguin/New Left Review edition from 1973, translated by Martin
+Nicolaus.
