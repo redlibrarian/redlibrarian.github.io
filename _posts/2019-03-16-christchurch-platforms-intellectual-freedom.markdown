@@ -35,7 +35,7 @@ disclosure: Dale is my boss) and Christina de Castell, are holding a
 panel discussion on "Social Responsibility & Neutrality in Libraries" at
 the Alberta Library Association Conference.
 
-Now, I don't want to prejudge April's panel, but I do want to point out
+Now, I don't want to prejudge the ALC panel, but I do want to point out
 the extreme homogeneity of voices in all these panels. By my count the
 panels have consisted of:
 
