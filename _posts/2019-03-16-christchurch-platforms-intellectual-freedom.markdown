@@ -71,7 +71,7 @@ a discussion of social responsibility *has* to begin with a complete
 disavowal of the notion of neutrality. The demoralization I felt at the
 EPL event was primarily around the safe comfortable moderateness of the
 terms of the debate. If the ALC panel is going to talk (yet again!)
-about "whether libraries are neutral" then I am fairly the sure the
+about "whether libraries are neutral" then I am fairly sure the
 panel will do a disservice to the profession and to the conference
 attendees. There are dozens of alternative voices who could have posed a
 real challenge to this idea, voices who are not embedded at the top of
