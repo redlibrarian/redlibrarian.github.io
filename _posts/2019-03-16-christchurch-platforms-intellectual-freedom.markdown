@@ -7,6 +7,14 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+>These books seemed to be about a life he had never encountered - a life
+>where there were no barracks, no strict-regime camps, no brigade
+>leaders, no armed guards, no security officers, no systems of internal
+>passpoers, and none of the sufferings, anxieties, and passions that
+>made up the lives of everyone around him.
+
+Vasily Grossman, *Everything Flows*.
+
 The schedule for this year's Alberta Library Association conference is
 up, and I see that Pilar Martinez, CEO of Edmonton Public Library, and
 Jim Turk, Director of Ryerson's Centre for Free Expression are on the
