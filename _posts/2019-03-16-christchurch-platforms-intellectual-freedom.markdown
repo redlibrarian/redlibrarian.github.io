@@ -17,7 +17,7 @@ post](https://redlibrarian.github.io/article/2018/09/11/intellectual-freedom-val
 where I said that the whole experience of was demoralizing.
 
 In January of this year, Jim Turk received the Les Fowlie Intellectual
-Freedom award at the Ontario Library Conference in January. He was also
+Freedom award at the Ontario Library Conference. He was also
 on the Intellectual Freedom Spotlght panel with - again - Pilar and
 Micheal Vonn, entitled "What is Hate Speech, and What Do We Do About
 It?"
