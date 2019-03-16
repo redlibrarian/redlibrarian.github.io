@@ -56,9 +56,9 @@ suppression of the most vile right-wing, white-supremacist material will
 go unlamented except by those who want to murder with impunity.
 
 Toni Samek noted at the EPL panel that such debates pitting social
-responsibility against intellectual freedom reoccur approximately every
+responsibility against intellectual freedom recur approximately every
 thirty years. But such recurrence should not make us complacent about
-it. Capitalist crises recur at approximately the same right, but only
+it. Capitalist crises recur at approximately the same rate, but only
 the most hardened apologist for human misery would suggest that this
 should be a reason not to worry too much about crisis.
 
