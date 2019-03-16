@@ -94,7 +94,7 @@ for the current social and political conjuncture.
 The time for platitudes is over, the time for asking whether libraries
 are "neutral" is long over. The time for new voices in the intellectual
 freedom field has come. I realize that the convenors of these panels -
-whether Pilar Martinez or someone else - has no requirement to include
+whether Pilar Martinez or someone else - have no requirement to include
 alternative, diverse, challenging voices, but the panelists and
 convenors must be prepared for criticism from those of us who see an
 absolute liberal intellectual freedom as intimately linked with the
