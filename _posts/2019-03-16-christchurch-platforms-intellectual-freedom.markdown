@@ -14,7 +14,7 @@ road again. Last September, Pilar convened a panel at EPL with Jim Turk, Toni
 Samek and Gail DeVos, moderated by Alvin Schrader on Intellectual
 Freedom. I wrote about that event in a [blog
 post](https://redlibrarian.github.io/article/2018/09/11/intellectual-freedom-value-ethics.html),
-where I said that the whole experience of the panel was demoralizing.
+where I said that the whole experience of was demoralizing.
 
 In January of this year, Jim Turk received the Les Fowlie Intellectual
 Freedom award at the Ontario Library Conference in January. He was also
