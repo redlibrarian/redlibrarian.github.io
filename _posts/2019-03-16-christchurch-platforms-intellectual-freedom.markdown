@@ -37,7 +37,7 @@ Civil Liberties Association).
 * The chief librarian of a large academic library.
 * The chair of a library school.
 
-Gail DeVos is a bit of an outlier here, as she is not at the top of a
+Gail DeVos and Alvin Schrader are a bit of an outlier here, as they are not (currently) at the top of a
 hierarchical organization committed to a single particular
 interpretation of intellectual freedom. This interpretation - the
 liberal interpretation - is currently being heavily challenged not only
