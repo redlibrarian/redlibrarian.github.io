@@ -87,6 +87,12 @@ systems of power - could none of them be found to participate? Or is
 that somehow outside the purview (or comfort zone) of the Jim and Pilar
 Roadshow?
 
+Or is it that the point is not to debate the question of intellectual
+freedom or neutrality at all, but to present a common front, to
+reinforce the standard professional discourse of liberal hegemony? The
+homogeneity of the panels suggests that radically different points of
+view are not of major concern or interest.
+
 At the OLA Superconference, I presented a critique of the mythological
 connection between libraries and democracy, and I argued that the usual
 liberal bromides and platitudes are based on a presumption that people
