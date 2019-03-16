@@ -10,7 +10,7 @@ image: /assets/images/mandolin.jpg
 >These books seemed to be about a life he had never encountered - a life
 >where there were no barracks, no strict-regime camps, no brigade
 >leaders, no armed guards, no security officers, no systems of internal
->passpoers, and none of the sufferings, anxieties, and passions that
+>passports, and none of the sufferings, anxieties, and passions that
 >made up the lives of everyone around him.
 
 Vasily Grossman, *Everything Flows*.
