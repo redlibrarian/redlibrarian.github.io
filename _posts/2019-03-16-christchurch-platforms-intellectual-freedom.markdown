@@ -24,7 +24,7 @@ It?"
 
 And so again, in April, Pilar and Jim - along with Dale Askey (full
 disclosure: Dale is my boss) and Christina de Castell, are holding a
-panel discussin on "Social Responsibility & Neutrality in Libraries" at
+panel discussion on "Social Responsibility & Neutrality in Libraries" at
 the Alberta Library Association Conference.
 
 Now, I don't want to prejudge April's panel, but I do want to point out
