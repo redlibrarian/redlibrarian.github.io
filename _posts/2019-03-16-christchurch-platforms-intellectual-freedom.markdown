@@ -57,9 +57,10 @@ intellectual freedom roadshow.
 As people are pointing out right now, we've stopped hearing from Milo
 Yiannopoulous since he was successfully deplatformed. Media outlets are
 refusing to share the Christchurch murderer's "manifesto", and many
-people are pointing out how much that screed owes to the proliferation
+people are pointing out how much that screed [owes to the proliferation
 of far-right, anti-semitic, Islamophobic, white-supremacist information
-in the last few years. Deplatforming works, and surely the
+in the last few
+years](https://www.bellingcat.com/news/rest-of-world/2019/03/15/shitposting-inspirational-terrorism-and-the-christchurch-mosque-massacre/). Deplatforming works, and surely the
 suppression of the most vile right-wing, white-supremacist material will
 go unlamented except by those who want to murder with impunity.
 
