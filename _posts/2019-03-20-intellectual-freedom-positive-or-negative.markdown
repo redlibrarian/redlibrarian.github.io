@@ -28,7 +28,7 @@ Declaration states that:
 
 >Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
 
-This article conflation what are sometimes thought
+This article conflates what are sometimes thought
 of as two separate rights: intellectual freedom per se, and freedom of
 expression. It also suggests that opinions can somehow be held "without
 interference" (is education interference?), and that the only
