@@ -88,7 +88,7 @@ matter how rational and "individual". So the positive exercise of
 "freedom to hold and express an opinion" automatically comes up against
 a negative freedom, the freedom *from* being exposed to toxic,
 dehumanizing views. This freedom is not enshrined in the Human Rights
-Declaration - it maybe a liberty we can conceive of, but it is not
+Declaration - it may be a liberty we can conceive of, but it is not
 entrenched in legislation as a right under article 19. 
 
 However, if we define negative liberty as freedom from discrimination -
