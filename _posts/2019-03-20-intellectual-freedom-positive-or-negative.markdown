@@ -35,7 +35,7 @@ interference" (is education interference?), and that the only
 significant obstacles to access to information are media and frontiers.
 The article does not recognize the social provenance of opinions
 (perhaps drawing on a Lockean theory of the human mind as a blank
-slate), nor does it recogize the social nature of information access,
+slate), nor does it recognize the social nature of information access,
 except with regard to media and borders.
 
 But what I find most interesting here is that information freedom is
