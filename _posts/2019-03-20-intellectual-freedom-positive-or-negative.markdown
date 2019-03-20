@@ -12,8 +12,8 @@ intellectual freedom, a view which arises out of a mainly unquestioned
 liberal perspective. My main criticism is that this view employs an
 abstract value - "freedom" - divorced from social, political, and
 material realities in an attempt to intervene in real social, political,
-and material relationships and processes. As a Marxist, I don't believe
-such a separation is possible in practice, and that promotion of an
+and material relationships and processes. As a Marxist, I believe
+such a separation is impossible in practice, and that promotion of an
 abstract or neutral conception of freedom merely serves to hide or
 obscure underlying - often unconscious - social and political values,
 allegiances, and ideologies.
