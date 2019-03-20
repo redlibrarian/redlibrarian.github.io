@@ -120,7 +120,7 @@ freedom, then, is quite powerless, quite ineffective, at a total loss
 when faced with very real consequences of opinions and ideas in the real world.
 Liberal philosophy can make no connection between
 white-supremacist ideas and the murder of Black people; between the
-denial of climate science and the growing climate catastrophe; between
+denial of climate science and the approaching climate catastrophe; between
 transmisic opinions and the suicide of trans people. The liberal
 conception of intellectual freedom is *inadequate* to a world in which
 ideas have real consequences; it is inadequate for the real world
