@@ -89,9 +89,11 @@ matter how rational and "individual". So the positive exercise of
 a negative freedom, the freedom *from* being exposed to toxic,
 dehumanizing views. This freedom is not enshrined in the Human Rights
 Declaration - it maybe a liberty we can conceive of, but it is not
-entrenched in legislation as a right under article 19.
+entrenched in legislation as a right under article 19. 
 
-However, Article 7 *does* offer such a protection, reframed as a
+However, if we define negative liberty as freedom from discrimination -
+a modern spin on Berlin's coercion, but not, I think, an unwarranted
+one, then *Article 7* of the HRD *does* offer such a protection, reframed as a
 positive right:
 
 >All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.
