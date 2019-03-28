@@ -87,7 +87,7 @@ form, as the inaguration of the "general intellect" predicted by Marx.
 It seems clear, then, that the Bayesian revolution is precisely the site
 of a (class) struggle. On the one hand we have the prediction of the
 liberation of labour and human
-subjectivity predicted by both Cognitive Capitalism theorists *and*
+subjectivity by both Cognitive Capitalism theorists *and*
 those at the forefront of machine learning, who feel that a
 rationalization of human decision-making and human action will result in
 a technological utopia. On the other hand, there is the prediction that
@@ -106,7 +106,7 @@ that:
 
 For many years, the two visions present within Marx' *Grundrisse* have
 been presented as a chronological process: first the capitalist utopia,
-then the victory of general intellect and the emancipatio of labour.
+then the victory of general intellect and the emancipation of labour.
 However, this strikes me as just as deterministic as the "productive
 force determinism" of the Second International. Instead, what Marx
 identifies is the the site of antagonism *within* the phase of general
