@@ -25,7 +25,7 @@ human worker has been almost entirely replaced by machine, but is still
 caught within the web of oppressive commodity production relationships.
 Essentially, Marx sees the constant drive to replace living labour by
 dead labour as giving capital a vision of a future society in which
-profit continues to be produced with the worker reduced to all about
+profit continues to be produced with the worker reduced to all but
 zero. However, this "capitalist utopia", as Nick Dyer-Witheford calls it,
 contains within it the seeds of its own transformation into a capitalist
 nightmare. The less labour is needed to produce surplus value, the freer
