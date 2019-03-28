@@ -44,7 +44,7 @@ the human body, and has now turned its sights on the human mind.
 
 For Marx, the individual productivity of a given worker was immaterial;
 what mattered was the aggregate, average labour-power expended
-throughout the mode of productivity. We can think of this as a
+throughout the mode of production. We can think of this as a
 statistical understanding of material work, rather than an individual or
 phenomenological one. Given this way of thinking about aggregate labour,
 can we also think of the rapid expansion of machine learning, with its
