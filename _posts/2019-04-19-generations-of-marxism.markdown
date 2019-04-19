@@ -69,7 +69,8 @@ Marxism that were the product of the Cold War.
 
 The Soviet Union means nothing in terms of my Marxism (though Lenin
 does), just as
-industrial labour means nothing to my work experience. I'm part of
+industrial labour means nothing to my work experience. I owe no
+emotional allegiance to either; they are of historical interest only. I'm part of
 perhaps the first generation where non-industrial labour was the norm:
 my own work experience has ranged from tertiary-sector service work to
 white-collar "cognitive", all of which have significant immaterial and
