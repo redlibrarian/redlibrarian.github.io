@@ -3,6 +3,13 @@ layout: page
 title: Selected Presentations
 permalink: /presentations/
 ---
+* "Big Data, Class Composition, and the Multitude", Canadian Political
+  Science Association annual conference, Vancouver, June 4, 2019.
+* "Libraries, Labour, and the Strike," 1919-2019: Building a Better
+  World: Commemorating the 100th Anniversary of the Winnipeg General
+  Strike, Winnipeg, May 9, 2019.
+* "Two Ways of Looking at Artificial Intelligence: Lessons from Italian
+  Marxism", Open Ideas conference, University of Alberta, April 5, 2019.
 * ["Libraries and Democracy: A
   Critique"](https://redlibrarian.github.io/libraries_and_democracy), Ontario Library
   Association, Toronto, January 31, 2019.

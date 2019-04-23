@@ -23,6 +23,10 @@ ALA, 2016: 73-82.
 
 Peer-Reviewed Articles
 
+* “'The Power of Knowledge, Objectified': Immaterial Labor, Cognitive
+  Capitalism, and Academic Librarianship", *Library Trends*, forthcoming
+  2019.
+
 * [Libraries, Labour, Capital: On Formal and Real
   Subsumption](https://journal.radicallibrarianship.org/index.php/journal/article/view/25), *Journal
   of Radical Librarianship* 4 (2018): 6-9.
