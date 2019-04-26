@@ -120,3 +120,14 @@ the counterweight to absolute freedom, or commitment to a cause as a
 counterweight to neutrality. As a result, intellectual freedom
 becomes a tool to support the hegemony of liberal-modernity, bourgeois
 culture, and the capitalist mode of production itself.
+
+*References*.
+
+Samir Amin, *Eurocentrism: Modernity, Religion, and Democracy: A
+Critique of Eurocentrism and Culturalism*, 2nd Ed., 2011, New York:
+Monthly Review Press.
+
+Benedict De Spinoza, *Ethics*, 1996 [1677], London: Penguin Classics.
+
+Karl Marx, *The 18th Brumaire of Louis Bonaparte*, 1963 [1852], New
+York: International Publishers.
