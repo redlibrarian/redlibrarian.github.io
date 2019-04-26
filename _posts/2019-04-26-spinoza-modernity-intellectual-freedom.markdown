@@ -108,8 +108,8 @@ police and the military) while at the same time euphemized out of polite
 discourse ("a man died" somehow...). Indeed "neutrality", in
 librarianship and elsewhere, is meant as the
 neutralization of power itself, a prospect which lies at the heart of
-liberal modernism but is soundly rejected by the anti-modernist
-genealogy. As Nietzsche once wrote, "My formula for happiness: a Yes, a
+liberal modernity but is soundly rejected by the anti-modern
+tradition. As Nietzsche once wrote, "My formula for happiness: a Yes, a
 No, a straight line, a goal" - this is the complete opposite of a
 purported neutrality.
 
