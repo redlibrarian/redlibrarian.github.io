@@ -25,7 +25,7 @@ Having said that, I admit that in the last couple of blog posts I have
 leaned very heavily (perhaps too heavily) on the idea of structure and
 determination, in order to contrast it with what I see as a concept of
 absolute freedom that comes out of liberal philosophy, and which stands
-as an unquestioned assumption of many current debates within
+as an unquestioned assumption in many current debates within
 librarianship, especially debates around intellectual freedom. Lenin
 referred to this kind of exaggeration as "bending the stick", so I
 should probably clarify that "absolute determination" is just as
@@ -49,7 +49,7 @@ which takes upon itself the right to judge, condemn, and execute. But
 there is a very significant difference between Hobbes' state and
 Spinoza's.
 
-Both Hobbes' and Spinoza agree that reason and human nature require than
+Both Hobbes and Spinoza agree that reason and human nature require that
 individual human beings seek for their own advantage, and do everything
 they can to further their own interests and preserve their own
 wellbeing. (Spinoza is not immune from the liberal individualism of the
@@ -102,7 +102,7 @@ caricature of communist society). For Negri,
 
 >The passage to society is not represented by any concession of right as it is in seventeenth-century absolutist thought; rather it is presented in a leap forward that integrates being, from solitude to multitude, to sociability that, in itself and for itself puts an end to fear. (Negri, The Savage Anomaly, 204)
 
-In this view, the multitude “does not tend to become a totality”, that is, a class, nation people, or mass, but remains “a set of singularities, an open multiplicity” (Negri, *Insurgencies*, 14). It is this openness that places the constituent power (*potentia*) in conflict with the constituted power (*potestas*) of the state, and which generates the possibility of political action. The multitude constantly produces, creates, and thereby develops new social relationships, new ethical and social norms and rights. These in turn create a social power “through the logic of immediate, collective, and associative relations” which becomes an “ethics of collective passions, of the imagination and desire of the multitude” (Negri, *Insurgencies*, xv). It is this self-created constituent power which funs afoul of the constituted power of politics, religion, etc. In Spinoza’s radical conception of democracy, “power does not exist… except to the extent that it is a constituent power, completely and freely constituted by the power of the multitude” (Negri *Insurgencies*, xvi).
+In this view, the multitude “does not tend to become a totality”, that is, a class, nation, people, or mass, but remains “a set of singularities, an open multiplicity” (Negri, *Insurgencies*, 14). It is this openness that places the constituent power (*potentia*) in conflict with the constituted power (*potestas*) of the state, and which generates the possibility of political action. The multitude constantly produces, creates, and thereby develops new social relationships, new ethical and social norms and rights. These in turn create a social power “through the logic of immediate, collective, and associative relations” which becomes an “ethics of collective passions, of the imagination and desire of the multitude” (Negri, *Insurgencies*, xv). It is this self-created constituent power which funs afoul of the constituted power of politics, religion, etc. In Spinoza’s radical conception of democracy, “power does not exist… except to the extent that it is a constituent power, completely and freely constituted by the power of the multitude” (Negri *Insurgencies*, xvi).
 
 When Spinoza writes, against what we would now call a libertarian
 perspective, that
@@ -119,13 +119,20 @@ oversimplified, reductionist binary.
 
 Indeed, in class society, "common decision" is impossible; all decisions
 arise from the interplay of a limited individualism and the structures
-of class, nation, etc. In other words, all decisions as *political* and
+of class, nation, etc. In other words, all decisions are *political* and
 do not arise from what Spinoza calls reason. Human beings cannot be
 "guided by reason" so long as scarcity, want, competition remain the
 priorities of a world whose ruling-class profits on the isolation of all
 people from each other, profits from the prevention of the formation of
 the multitude Spinoza described, and from the radical - non-liberal -
-democracy constituted by its self-activity.
+democracy constituted by its self-activity. Indeed, from this
+perspective "intellectual freedom" is a meaningless bromide which serves
+to obscure the structures of power and control that always-already
+determine our intellectual interests, curiosities, capacities, and
+desires. Only in the kind of society envisaged by Spinoza and Negri (and
+Marx) would "intellectual freedom" mean anything at all, but as Rory
+pointed out, Spinoza's "freedom" may be different from what we might
+expect.
 
 *References*.
 
