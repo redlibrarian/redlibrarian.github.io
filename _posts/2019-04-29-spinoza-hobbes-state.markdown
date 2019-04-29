@@ -104,6 +104,29 @@ caricature of communist society). For Negri,
 
 In this view, the multitude “does not tend to become a totality”, that is, a class, nation people, or mass, but remains “a set of singularities, an open multiplicity” (Negri, *Insurgencies*, 14). It is this openness that places the constituent power (*potentia*) in conflict with the constituted power (*potestas*) of the state, and which generates the possibility of political action. The multitude constantly produces, creates, and thereby develops new social relationships, new ethical and social norms and rights. These in turn create a social power “through the logic of immediate, collective, and associative relations” which becomes an “ethics of collective passions, of the imagination and desire of the multitude” (Negri, *Insurgencies*, xv). It is this self-created constituent power which funs afoul of the constituted power of politics, religion, etc. In Spinoza’s radical conception of democracy, “power does not exist… except to the extent that it is a constituent power, completely and freely constituted by the power of the multitude” (Negri *Insurgencies*, xvi).
 
+When Spinoza writes, against what we would now call a libertarian
+perspective, that
+
+>A man who is guided by reason is more free in a state, where he lives
+>according to a common decision, than in solitude, where he obeys only
+>himself. (Spinoza, Ethics, p. 154).
+
+he also undercuts the atomic, autonomous individualism of liberalism.
+The pure abstract individual liberty that underpins "intellectual
+freedom" does not - cannot - understand the idea of a "common decision";
+the only poles of decision-making are the state and the individual, an
+oversimplified, reductionist binary.
+
+Indeed, in class society, "common decision" is impossible; all decisions
+arise from the interplay of a limited individualism and the structures
+of class, nation, etc. In other words, all decisions as *political* and
+do not arise from what Spinoza calls reason. Human beings cannot be
+"guided by reason" so long as scarcity, want, competition remain the
+priorities of a world whose ruling-class profits on the isolation of all
+people from each other, profits from the prevention of the formation of
+the multitude Spinoza described, and from the radical - non-liberal -
+democracy constituted by its self-activity.
+
 *References*.
 
 Antonio Negri, *Insurgencies Constituent Power and the Modern State*,
