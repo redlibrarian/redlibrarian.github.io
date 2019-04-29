@@ -7,6 +7,8 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+*Spinoza, Modernity, and Intellectual Freedom, part two.*
+
 In my [previous blog post](https://redlibrarian.github.io/article/2019/04/26/spinoza-modernity-intellectual-freedom.html), I (following Negri) included Spinoza in an anti-modern genealogy which included Machiavelli and Marx. Rory Litwin  [considered](https://twitter.com/rorylitwin/status/1121839329863589888) my reading of Spinoza odd, especially since Spinoza (who I contrasted with Locke) "believed liberal democracy would be the best form of government". Rory's points are well taken, and I think my perspective on them deserves to be clarified here.
 
 In the first place, I consider Spinoza's "freedom" to be, paradoxically
