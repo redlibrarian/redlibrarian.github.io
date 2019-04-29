@@ -14,7 +14,7 @@ perhaps, deterministic. We are free to conform to God/nature's place for
 us in nature itself. This is the freedom of someone thrown overboard in
 the middle of the ocean. They are indeed free to do whatever they
 choose, but there are only a limited number of actions (swimming, for
-example), they can take in order to survive. In the *Ethics*, Spinoza ofte uses the expression
+example), they can take in order to survive. In the *Ethics*, Spinoza often uses the expression
 "power to act", which sounds like freedom to decide or choose but, to
 use another analogy, I see this as the kind of power needed to lift a
 barbell. The more power you have, the higher you can lift the weight,
