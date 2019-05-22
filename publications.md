@@ -33,6 +33,8 @@ Peer-Reviewed Articles
 
 Non-Peer-Reviewed Articles
 
+* Book Review: [Peter MacKinnon, *University Commons Divided: Exploring
+  Debate and Dissent on Campus*, *CJAL* 5, 2019](https://cjal.ca/index.php/capal/article/view/31476).
 * What Marx Can Tell Us About Climate Change. *Not Your Textbook:
   Research & Action at OPIRG Guelph*, Fall 2018. Ontario Public Interest
   Research Group - Guelph.
