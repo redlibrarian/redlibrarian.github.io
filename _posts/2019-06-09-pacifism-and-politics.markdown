@@ -54,14 +54,14 @@ extension of that.
 I'm making this point explicitly, because for me, the following position
 is incoherent:
 
-<img src="../assets/images/gibson.png" />
+<img src="/assets/images/gibson.png" />
 
 "Increasing glorification of war" means that a certain amount of
 glorification of war is acceptable, that there is such a thing as just
 and honourable war, and that it is only when a certain tipping point is
 reached that war (or its glorification at any rate) becomes a problem.
 
-<img src="../assets/images/gibson2.png" />
+<img src="/assets/images/gibson2.png" />
 
 The belief in a just and honourable war that *becomes* overly
 politicized or corrupted is a myth, just as the idea of a democratic
