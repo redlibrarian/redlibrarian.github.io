@@ -10,6 +10,8 @@ permalink: /presentations/
   Strike, Winnipeg, May 9, 2019.
 * "Two Ways of Looking at Artificial Intelligence: Lessons from Italian
   Marxism", Open Ideas conference, University of Alberta, April 5, 2019.
+* "Exploring Critical Librarianship", OCULA Webinar (with Karen
+  Nicholson), February 28, 2019.
 * ["Libraries and Democracy: A
   Critique"](https://redlibrarian.github.io/libraries_and_democracy), Ontario Library
   Association, Toronto, January 31, 2019.
