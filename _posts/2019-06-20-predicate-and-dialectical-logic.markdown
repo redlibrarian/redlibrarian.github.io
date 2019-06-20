@@ -213,6 +213,16 @@ comforting, but it has particular social and political effects, and
 these effects are generally pernicious precisely because they are not in
 line with the way the social or the material world actually works.
 
+Addendum: I should add that what I said above about algorithmic systems
+being being conditioned by predicate logic is also true of knowledge
+representation systems in general. If predicate logic underpins how we
+intellectually relate to the world, then it underpins how we *know* and
+how we represent knowledge. Many of our social relationships get reified
+first as stable identities and then in our KR systems. Many of the
+problems identified with classification systems like Dewey and LCSH come
+down to the reification of particular racist, sexist, and colonial
+identities through predicate logic.
+
 NOTE: Two books which I found really helpful on the relationships
 between predicate logic, dialectical logic, and materialism are:
 
