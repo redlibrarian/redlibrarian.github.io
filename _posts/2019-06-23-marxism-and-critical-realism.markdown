@@ -154,7 +154,7 @@ known" is "the very starting point of critical realism" (129).
 >production of knowledge by means of knowledge'... and on the other, the
 >things to which they, sometimes tentatively, and always fallibly, reach
 >out. For Bhaskar, critical realism is not some high-flown philosophical
->conoction, but a down-to-earth reflection of what scientists actually
+>concoction, but a down-to-earth reflection of what scientists actually
 >do and think. (129).
 
 Returning to the blog post mentioned above, it is interesting to
