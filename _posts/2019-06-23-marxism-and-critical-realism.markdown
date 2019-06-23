@@ -113,7 +113,7 @@ Bhaskar reconciles the problem of structure vs. agency by proposing his
 own model of society/individual interaction which avoids giving primacy
 either entirely to society or entirely to individual action. Like his
 theory of natural science, however, Bhaskar argues that critical
-naturalism can only produce knowledge if we recognize ontological
+naturalism can only produce knowledge if we recognize an ontological
 distinction between society and individuals. Individuals are not simply
 completely determined by social structures (as in
 naturalism/structuralism), nor are they completely free (as in a
