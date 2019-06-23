@@ -103,7 +103,7 @@ Marxisms on offer.
 The highest expression within Marxism of the naturalistic or scientific
 paradigm is that of Louis Althusser, whose whole philosophical project
 was concerned with legitimating Marxism as a science. What Althusser
-came up with, under the aegis of the victorious structurqlism of the
+came up with, under the aegis of the victorious structuralism of the
 time, has come to be known as "structural Marxism", a Marxism in which
 social structures are everything and individual agency is nothing. The problem of
 which takes priority, structure or individual agency, is still a
