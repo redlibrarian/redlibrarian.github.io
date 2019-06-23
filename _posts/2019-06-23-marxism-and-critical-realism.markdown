@@ -71,7 +71,7 @@ which I began this post, "to what extent can society be studied in the
 same way as nature?". He calls this question "the primal problem of the
 philosophy of the social sciences", and argues that naturalism (or
 positivism) and hermeneutics represent the two dominant ways of
-answering this question (yes and no, respectively).
+answering this question ("completely" and "not at all", respectively).
 
 >Positivism, in assuming the mantle of the Enlightenment, associates
 >itself with a tradition whose Galilean roots lie in the new Platonism
