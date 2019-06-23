@@ -144,7 +144,7 @@ us to recognize the reality of the social world (structures) while not
 reducing human agency to those structures.
 
 At the heart of Bhaskar's critical realism (the name for the combination
-of transcendental realism and critical naturalism) is precisely
+of transcendental realism and critical naturalism) is precisely the
 distinction between knowledge (which is always socially produced) and
 the objects of knowledge, which are real. Malm writes that
 distinguishing the object of knowledge from the "means by which it is
