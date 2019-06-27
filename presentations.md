@@ -3,6 +3,9 @@ layout: page
 title: Selected Presentations
 permalink: /presentations/
 ---
+* ["Introduction to Machine Learning Using
+  Ruby"](https://redlibrarian.github.io/rubyml/index.html), Code4LibYEG,
+  July 5, 2019.
 * "Big Data, Class Composition, and the Multitude", Canadian Political
   Science Association annual conference, Vancouver, June 4, 2019.
 * "Libraries, Labour, and the Strike," 1919-2019: Building a Better
