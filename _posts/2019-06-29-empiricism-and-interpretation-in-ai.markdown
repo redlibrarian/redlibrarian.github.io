@@ -116,4 +116,4 @@ assumptions of empiricist/positivist science and social science are one
 of the vectors by which biases and values get encoded in technological
 systems. In the library world, we would do well to become more familiar
 with alternative philosophies of science as an aid to understanding how
-this systems get designed and operate.
+these systems get designed and operate.
