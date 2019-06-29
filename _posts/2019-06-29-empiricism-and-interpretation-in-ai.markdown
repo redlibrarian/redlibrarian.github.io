@@ -99,6 +99,17 @@ systems (which by definition build their ontologies based on what is
 practice, the limit to "anyone can say anything about any subject" is a
 positivist preference for present facts.
 
+What is missing in the positivist conception of data-as-presence is the
+idea of data (and individual data points) as semiotic, as holding
+meaning. Positivism disallows "meaning" (like values) from the outset
+because they do not fit its ontology or its epistemology. Meanings come
+"from outside" or "from before", they are not present. In order to
+challenge the presumptions of positivism, we have to understand and
+recognize *meaning* in code, data, in social relationships, etc. In
+other words, we have to learn to *interpret* code and data, to
+understand their meaning beyond their immediate, value-free significance
+as code or data in isolation.
+
 I'm not philosopher enough to get into the metaphysics of
 presence/absence here, but suffice it to say that the implicit
 assumptions of empiricist/positivist science and social science are one
