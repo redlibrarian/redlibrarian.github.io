@@ -85,7 +85,7 @@ design of machine learning systems.
 By *a priori* excluding explanatory causes "from outside" the closed
 system of the program or data set, programmers are able see their
 systems and its data as closed, isolated systems. Similarly to the way
-methodological individualism sees people, every data point, and every algorithmic decision-point is seen as as self-contained, unrelated (except perhaps in a schematic sense) from all the others. So, to take Safiya Noble's example of a Google image search, a search for "doctor" brings up images of almost exclusively white people, while "thug" brings up images of exclusively young Black men. Empiricism/positivism sees each image in isolation - no commonality is allowed to disturb the "individualism" of each data point. So it becomes either an unexplainable accident, or worse a reflection of social "truth" that all doctors are white and all thugs are Black. Empiricism/positivism is unable to understand how its own assumptions and methods contibute to building up and reinforcing these particular (erroneous and dangerous) views of the world. 
+methodological individualism[^1] sees people, every data point, and every algorithmic decision-point is seen as as self-contained, unrelated (except perhaps in a schematic sense) from all the others. So, to take Safiya Noble's example of a Google image search, a search for "doctor" brings up images of almost exclusively white people, while "thug" brings up images of exclusively young Black men. Empiricism/positivism sees each image in isolation - no commonality is allowed to disturb the "individualism" of each data point. So it becomes either an unexplainable accident, or worse a reflection of social "truth" that all doctors are white and all thugs are Black. Empiricism/positivism is unable to understand how its own assumptions and methods contibute to building up and reinforcing these particular (erroneous and dangerous) views of the world. 
 
 Similarly, when programmers seek to build a system, we are taught to
 build the system based on the specs of the data we have. Do not
@@ -117,3 +117,8 @@ of the vectors by which biases and values get encoded in technological
 systems. In the library world, we would do well to become more familiar
 with alternative philosophies of science as an aid to understanding how
 these systems get designed and operate.
+
+[^1]: "Methodological individualism is the doctrine that facts about
+  societies, and social phenomena generally, are to be explained solely
+in terms of facts about individuals." Bhasker, *Possibility of
+Naturalism*, 34.
