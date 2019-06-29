@@ -118,7 +118,4 @@ systems. In the library world, we would do well to become more familiar
 with alternative philosophies of science as an aid to understanding how
 these systems get designed and operate.
 
-[^1]: "Methodological individualism is the doctrine that facts about
-  societies, and social phenomena generally, are to be explained solely
-in terms of facts about individuals." Bhasker, *Possibility of
-Naturalism*, 34.
+[^1]: "Methodological individualism is the doctrine that facts about societies, and social phenomena generally, are to be explained solely in terms of facts about individuals." Bhaskar, *Possibility of Naturalism*, 34.
