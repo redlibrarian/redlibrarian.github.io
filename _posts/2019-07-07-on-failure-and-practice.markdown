@@ -132,3 +132,16 @@ society at large. In order to overcome the dialectic of success/failure
 and socio-economic value, in order to return failure to a mode of
 learning and knowledge production, we have to fundamentally reshape
 society itself.
+
+UPDATE: I don't want to downplay the importance of discourse and
+performance in our social relationships. Discourse and performance are
+not bad in and of themselves, and are important strategies in political
+struggle. In "Marx as a Critical
+Discourse Analyst", Fairclough and Graham argue that:
+
+>The diffusion, operationalisation, enactment and inculcation of
+>discourses is crucual in the integration of different scales of
+>economic activity. If the socio-economic order is discourse- and
+>language-based in this sense - and we must assume it is - understanding
+>of it, resistance to it, and struggle against it must also incorportate
+>a significant discursive element.
