@@ -130,7 +130,10 @@ parts of a decision-making governor is predicate logic, the logic on
 which all computation and software are built. The IF-THEN-ELSE branches
 and FOR loops of computer programming are the crudest representation of
 human decision making, and the simplest version of it necessary for
-controlling computers/robots.
+controlling computers/robots. The list of steps into which a problem or
+task is decomposed is the *algorithm*; there is nothing mysterious or
+nefarious about algorithms (though they do, of course, encode human
+values, biases, and prejudices).
 
 As the work we require of our machines becomes more sophisticated, so
 too do the control mechanisms. We find that the logical and object
