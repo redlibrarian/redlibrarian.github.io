@@ -65,7 +65,7 @@ the computer. For Turing, in his 1938 paper on the Entscheidungsproblem
 in which he defines the Turing machine, the computer is a virtual
 machine whose purpose is computation. For Norbert Wiener, on the other
 hand, the computer is a control mechanism for the performance of work.
-In *Cybernetics*, Wiener writes that:
+In *The Human Use of Human Beings: Cybernetics and Society*, Wiener writes that:
 
 >The development of these computing machines has been very rapid since
 >the war. For a large range of computational work, they have shown
@@ -171,3 +171,17 @@ more precarity, proletarianization and immiseration. In the case of
 immigrants, it suits the capitalist's purposes to lie; in the case of
 technology, it suits their purpose to tell the truth - but the purpose
 remains the same.
+
+*Reference*
+
+Boden, Margaret. *Artificial Intelligence and Natural Man* (New York:
+Basic Books, 1977).
+
+Dyer-Witheford, Nick, Atle Mikkola Kjøsen and James Steinhoff. *Inhuman
+Power: Artificial Intelligence and the Future of Capitalism* (London:
+Pluto Press, 2019).
+
+Marx, Karl. *Capital, Volume 1* (London: Penguin Books, 1976).
+
+Wiener, Norbert. *The Human Use of Human Beings: Cybernetics and
+Society* (Boston: Da Capo, [1950] 1954).
