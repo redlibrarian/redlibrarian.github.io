@@ -145,7 +145,8 @@ parallelizable, and more efficient. In no sense do AI technologies
 "think", "reason", or "understand" - not even by metaphor or analogy. At
 best, they automate a small piece of work (perception, classifying, etc.)
 that had, until now, been the work of a human being. This places this
-process squarely within what Marx calls the subsumption of labour under
+process squarely within what Marx calls the
+[subsumption](https://journal.radicallibrarianship.org/index.php/journal/article/view/25) of labour under
 capital.
 
 So why call them AI? Why create a
