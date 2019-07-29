@@ -46,7 +46,7 @@ notwithstanding). In the second place, robots were originally
 physical operation of parts, rather than by a separate, programmed
 control mechanism (software). (Early computers operated like this too,
 of course, but Turing's theoretical papers consigned this fact to a
-historical curiosity, easily ignore). The fact that robots are now
+historical curiosity, easily ignored). The fact that robots are now
 software-driven is ignored in maintaining a hard distinction between a
 computer and a robot. In fact, there is pretty much no difference: a
 robot can be understood as a computer with a particular set of
