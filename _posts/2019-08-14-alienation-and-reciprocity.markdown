@@ -78,7 +78,7 @@ institutions and dynamics also lead us to treat everything (ourselves,
 each other, the natural world) as *instrumental* in the achievement of
 some kind of goal, effect, or profit. As long as settler-colonialism is
 capitalist, as long as we continue to make private property and
-commodity production the basis of our economic, society, and politics,
+commodity production the basis of our economies, society, and politics,
 we will continue to be *incabable* of reciprocal relationships or of
 treating our relationships as anything but instrumental. This
 instrumentality lies at the heart of all extractive activity, from the
