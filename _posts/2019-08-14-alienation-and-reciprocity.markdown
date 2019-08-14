@@ -117,8 +117,8 @@ organic, reciprocal, responsible relationships between human beings, and
 self-interest, than callous 'cash payment'" (82). This "cash nexus" is
 the antithesis of reciprocal relationships, and we can see this every
 time we pay someone rather than have to enter into some kind of
-dialogue. The cash nexus - alienation - is one of, if not *the* most
-corrosive aspects of capitalist culture, and it is *this*, the idea that
+dialogue. The cash nexus - alienation - is perhaps  *the* most
+corrosive aspect of capitalist culture, and it is *this*, the idea that
 every relationship must be one of self-interest, of extraction, of
 non-reciprocity, that prevents settlers from engaging with Indigenous
 people the way that we should.
