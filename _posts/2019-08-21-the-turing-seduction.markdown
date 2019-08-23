@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Turing Seduction
-date: 2019-08-16
+date: 2019-08-21
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
