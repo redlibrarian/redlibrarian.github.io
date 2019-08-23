@@ -111,7 +111,7 @@ AI seeks to encode onto a human programmer/user.
 Furthermore, the ability to a computer programme to change itself, to
 depart from its encoded rules, is not evidence of any kind of
 intelligence, as Turing would "presume", but is a well-understood
-property of certain kinds of programming languages that are by no-means
+property of certain kinds of programming languages that are by-no-means
 considered "intelligence". This property is called "homoiconicity",
 which means that the code and the data share a single representation.
 
