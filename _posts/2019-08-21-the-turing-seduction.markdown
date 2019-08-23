@@ -209,3 +209,12 @@ intelligence leads to many things, many of them bad. The idea of machine
 intelligence itself needs debunkers; if the debunkers are proven wrong
 in the long run, it can only improve the field of AI. But if we are
 right...
+
+EDIT: I just realized that the paragraphs on symbolic and connectionist
+AI aren't explicit about their relationship to self-modifying
+programmes. Both symbolic and connectionist AI have ways to self-modify
+to a limited extent: the ability to automatically infer new statements from existing
+ones (in symbolic AI), and the ability to automatically modify neuronal
+weights (in connectionism). The criticism that self-modification in
+itself does not lead to intelligence is not negated by this limited
+ability, just as it is not negated by the existence of homoiconicity.
