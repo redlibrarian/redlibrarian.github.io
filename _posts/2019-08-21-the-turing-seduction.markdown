@@ -48,7 +48,7 @@ Dartmouth meeting was to "proceed on the basis of the conjecture that
 every aspect of learning or any other feature of intelligence can in
 principle be so precisely described that a machine can be made to
 simulate it". In this way, Turing's conjecture was enshrined within
-commputer science research where it remains to this day.
+computer science research where it remains to this day.
 
 The mention of "learning" in the Dartmouth proposal is significant, not
 only because we live in an age of "machine learning", "deep learning",
