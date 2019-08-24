@@ -218,3 +218,17 @@ ones (in symbolic AI), and the ability to automatically modify neuronal
 weights (in connectionism). The criticism that self-modification in
 itself does not lead to intelligence is not negated by this limited
 ability, just as it is not negated by the existence of homoiconicity.
+
+*Update: August 24, 2019*
+
+In a discussion on Twitter, Kyle Geske
+([@stungeye](https://twitter.com/stungeye)) and Dave Mayo
+([@pobocks](https://twitter.com/pobocks)) both mentioned that
+homoiconicity is not required for self-modifying code. Homoiconicity
+may make the self-modification of code easier in some respects, but
+plenty of languages are capable of some kind of self-modification that
+don't display homoiconicity. In that case, then, the examples of
+homoiconicity above should be read as illustrative examples of the ways
+in which code can be treated as data, and thus lead to self-modifying
+programmes, rather than the canonical example of self-modifying code as
+such.
