@@ -102,4 +102,10 @@ allowfullscreen></iframe>
 Conference.
 
 
+*Interviews*
+
+["Politics of Libraries", *No Librarians Allowed*, Episode 3, April 1,
+2018](https://soundcloud.com/lydia-zvyagintseva/episode-3-no-librarians-allowed)
+["Politics in the Library", *SHOUT for Libraries*, s01e04, January 20,
+2017](https://soundcloud.com/cjsrfm/shout-for-libraries-politics-in-the-library)
 
