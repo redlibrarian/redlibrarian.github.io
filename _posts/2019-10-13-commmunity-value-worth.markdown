@@ -86,7 +86,7 @@ What I find most worrisome about Bowles' restatement of the VPL position
 is not that they are so fundamentally similar: public librarians share
 the same professional and political education, and their libraries serve
 the same role as apparatus of the state, so it is unsurprising that they
-should share views. But in that case, why has TPL not learned fromm the
+should share views. But in that case, why has TPL not learned from the
 VPL experience? VPL, after many years working to gain the support and
 trust of marginalized communities in Vancouver destroyed those
 relationships at one stroke. As a result Vancouver Pride banned VPL from
@@ -111,7 +111,7 @@ controlled, dictated to, not
 listened to or learned from. This is because the relationship of the
 library to its community is *not* one of value, but one of worth. The
 library has *value* to its parent institution, but is supposed to be
-*worth something* (and *worthy of*) its community. Because libraries are
+*worth something to* (and *worthy of*) its community. Because libraries are
 capitalist institutions, they can only understand, subscribe to, and
 participate fully in one of these relationships: the relationship of
 exchange, or as Marx and Engels put it, the relationship of "callous
