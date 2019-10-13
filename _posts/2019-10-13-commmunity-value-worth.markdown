@@ -33,7 +33,7 @@ public to make the same connection between the library and other kind of
 speakers. What's fascinating to me here - and extremely troubling - is
 that while public libraries seem to expect the public to intuitively
 understand when a particular speaker is not speaking on behalf of or
-whether the support of the library, they insist on vetting presentations
+with the support of the library, they insist on vetting presentations
 made by their own workers, or policing their speech for fear they might
 be mistaken for representing the library, thus denying them their own intellectual freedom
 in order to protect their image. At best this is cognitive dissonance,
