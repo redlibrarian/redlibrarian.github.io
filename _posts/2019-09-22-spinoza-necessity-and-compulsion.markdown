@@ -7,6 +7,11 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+>"Men believe that they are free, precisely because they are conscious
+>of their volitions and desires; yet concerning the causes that have
+>determined them to desire and will they have not the faintest idea..."
+>Spinoza, __Ethics__, Appendix to Part One.
+
 After writing the last post on [*Necessity and (Intellectual)
 Freedom*](https://redlibrarian.github.io/article/2019/09/18/necessity-and-intellectual-freedom.html),
 I realized how much that perspective had to do with Spinoza. I'm not
