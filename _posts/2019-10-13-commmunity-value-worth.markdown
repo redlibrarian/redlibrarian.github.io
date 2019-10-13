@@ -42,9 +42,9 @@ of this as well. The idea that a "third party rental" is merely a
 cash/exchange relationship - a contract - and therefore carries no
 social, political, or moral charge, is a precept of capitalism in
 general and neoliberal capitalism in particular. What the library
-doesn't understand is that while they are operating firmly in the mode
-of a value-free exchange relationship, this human community of which
-they are a part sees things very differently indeed.
+doesn't understand is that while it is operating firmly in the mode
+of a value-free exchange relationship, the human community of which
+it is a part sees things very differently indeed.
 
 In terms of community support, this is upheld by VPL's own set of [core
 values](https://www.vpl.ca/about), which includes "community-led
