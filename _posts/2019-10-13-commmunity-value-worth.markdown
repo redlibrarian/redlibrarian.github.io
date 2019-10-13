@@ -109,7 +109,7 @@ the security theatre of Winnipeg Public Library, and the pro-cop
 "both-sidesism" at Halifax Public - is there to be disciplined,
 controlled, dictated to, not
 listened to or learned from. This is because the relationship of the
-library to its community is *not* one of value, but one of worth. The
+library to its community *cannot* be one of value, but must be one of worth. The
 library has *value* to its parent institution, but is supposed to be
 *worth something to* (and *worthy of*) its community. Because libraries are
 capitalist institutions, they can only understand, subscribe to, and
