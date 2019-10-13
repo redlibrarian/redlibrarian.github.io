@@ -82,6 +82,11 @@ is no freedom - intellectual or otherwise - that is divorced from
 necessity. People make their own history, Marx wrote, but they do not
 make it just as they choose.
 
+I suspect, though I'm not necessarily commited to this point, that such
+a larger totality would owe its ethical commitments not to deontology or
+coonsequentalism, but to [virtue
+ethics](https://redlibrarian.github.io/article/2018/09/11/intellectual-freedom-value-ethics.html).
+
 In practical terms, this would mean making policy decisions based on the
 embeddedness of libraries in particular communities, recognizing that
 libraries and library workers are not separate from, independent of
