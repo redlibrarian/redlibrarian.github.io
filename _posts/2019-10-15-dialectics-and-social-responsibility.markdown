@@ -25,9 +25,9 @@ In the first place, I think it is important to begin with the following
 proposition: that intellectual freedom and social responsibility are not
 two separate things, but a single thing. The fact that LIS considers
 them two separate phenomena can be seen in, for example, the independent
-existence of the ALA's Office of Intellectual Freedomm and the Social
+existence of the ALA's Office of Intellectual Freedom and the Social
 Responsibility Round Table. The maximalist IF position takes the view
-that it's sole responsibility is is to IF itself, and that social
+that its sole responsibility is to IF itself, and that social
 responsibility must make its own way in the world. The two phenomena are
 antagonistic, I suppose, in the sense of the American legal system,
 where two lawyers each making their own best arguments are supposed to
@@ -105,12 +105,13 @@ perspective of social justice, such harm, such injury can never be
 allowed to stand.
 
 So I suppose in the end, I don't support intellectual freedom as it is
-currently formulated. Instead, I reject the atomistic logic predicate of IF that suppresses relationality, and put my weight behind dialectical
+currently formulated. Instead, I reject the atomistic predicate logic of IF that suppresses relationality, and put my weight behind dialectical
 reconciliation of intellectual freedom and social responsibility that I
 think of in terms of social justice. Issues that keep arising in the
 library world that *appear to be* conflicts between IF and social
 justice are, in reality, the contradictions that arise from our partial,
-incomplete, isolated perspective on each of them. If we as a profession
+incomplete, isolated perspective on each of them, ultimately derived
+from material inequalities and oppression. If we as a profession
 want to move past these periodic crises of IF and SR, we have to
 recognize their fundamental interrelatedness, the value of a dialectical
 and totalizing perspective on these issues. Only in this way can we work
