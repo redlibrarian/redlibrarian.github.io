@@ -95,9 +95,9 @@ fabrice. In this way, the library would be in a position (finally) to
 recognize harm and injury done to its community and take a stand
 accordingly. It is one thing for a community-member to look for
 information on feminism and transgender rights, and libraries have
-techniques and strategies to weed out the harmfull, non-authoritative,
-and irrelevant; because by relying on those strategies access to that information is unlikely to be
-harmful. It is another thing entirely to turn library space over to
+techniques and strategies to weed out the harmful, non-authoritative,
+and irrelevant; because by relying on those strategies access to that information we can mitigate the 
+harm. It is another thing entirely to turn library space over to
 someone who means direct harm to members of the community. This can only
 be justified in the name of an isolated intellectual freedom that has
 no thought for social responsibility. From the higher, integreated
