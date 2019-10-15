@@ -106,7 +106,7 @@ merely a contractual relationship. Also, in an age of information
 abundance, surely the library has a responsibility to distinguish
 between those who already have a platform to spread their ideas (such as
 a podcast) and those who genuinely rely on the library as a place to air
-any of their ideas. Indeed, I think this would be a self-fulling policy:
+any of their ideas. Indeed, I think this would be a self-fulfilling policy:
 insofar as we do not know someone's ideas, they should be aired and, if
 necessary, challenged; in so far as someone already has a platform, we
 neither need to nor want to hear their views again.
