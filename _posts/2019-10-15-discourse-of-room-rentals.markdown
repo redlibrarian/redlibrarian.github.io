@@ -59,7 +59,8 @@ My old friend, positivism. Positivism in natural and social science
 holds, essentially, that only something that *positively* exists counts
 as evidence. This raises the question of where you look for such
 positive phenomena. In this case it means taking the room rental request
-at face value, and never looking at additional evidence. So while it
+at face value, and never looking at additional evidence (in order to
+come to what you might "reasonably believe"). So while it
 might be the case that Twitter banning Meghan Murphy has no immediate
 implication here (since, as the statement points out, Twitter is a
 private corporation), it's understandable that people would expect TPL
@@ -111,9 +112,20 @@ insofar as we do not know someone's ideas, they should be aired and, if
 necessary, challenged; in so far as someone already has a platform, we
 neither need to nor want to hear their views again.
 
->We would also suggest that engaging in respectful civil discourse with people of opposing views may be a more productive strategy than abstaining from public library events. 
+>We would also suggest that engaging in respectful civil discourse with people of opposing views may be a more productive strategy than abstaining from public library events.
 
 Back to liberal dogma. As I've argued in my book, people are dying and
 time is running out. The bourgeois insistence on endless debate,
 discussion, consensus-building, etc, is deplorable in the face of both
 these phenomena.
+
+Going back to the question of phenomena and the lack of awareness of
+social and political context, by doubling down on the concept of "Free
+Speech" in this statement, TPL *must* recognize how they are
+discursively aligning themselves with the alt-right. And whether the
+library wants it or not, the alt-right *will* weaponize that discursive
+alignment. Libraries need to overcome the naive
+[innocence](https://redlibrarian.github.io/article/2019/02/07/on-innocence.html)
+with which they approach the social world, or they will rapidly find -
+as Vancouver Public and Winnipeg Public have - that they have lost the
+trust of those communities it is their "democratic mandate" to support.
