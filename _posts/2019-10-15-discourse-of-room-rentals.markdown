@@ -7,6 +7,12 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+This is part three of a series of blog posts written in response to
+Meghan Murphy's room booking at Toronto Public Library. Read [part
+one](https://redlibrarian.github.io/article/2019/10/13/commmunity-value-worth.html)
+and [part
+two](https://redlibrarian.github.io/article/2019/10/15/dialectics-and-social-responsibility.html).
+
 The debate around Toronto Public Library's room rental to Meghan Murphy
 continued over the long weekend, and today TPL responded with a [new
 statement](https://torontopubliclibrary.typepad.com/news_releases/2019/10/city-librarian-statement-on-upcoming-third-party-room-rental-event-.html).
