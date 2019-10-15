@@ -125,7 +125,7 @@ time is running out. The bourgeois insistence on endless debate,
 discussion, consensus-building, etc, is deplorable in the face of both
 these phenomena.
 
-Going back to the question of phenomena and the lack of awareness of
+Going back to the question of positivism and the lack of awareness of
 social and political context, by doubling down on the concept of "Free
 Speech" in this statement, TPL *must* recognize how they are
 discursively aligning themselves with the alt-right. And whether the
