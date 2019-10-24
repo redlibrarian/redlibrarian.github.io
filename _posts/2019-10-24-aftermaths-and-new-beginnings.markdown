@@ -23,7 +23,7 @@ who spoke, at great cost and risk, against the Meghan Murphy room booking. My fr
 
 In *Black Reconstruction in America*, a classic of social justice and of
 historical materialism, W.E.B. Du Bois' concern is with the aftermath of
-the Civil War and "the part which Black folk pl;ayed in the attempt to
+the Civil War and "the part which Black folk played in the attempt to
 reconstruct democracy in America". He devotes the first two chapters to
 the condition of Black workers (both slaves and free) and poor immigrant
 white workers. He argues that, partly through competition, and partly
