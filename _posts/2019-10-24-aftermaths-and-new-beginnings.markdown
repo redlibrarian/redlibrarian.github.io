@@ -94,7 +94,7 @@ born.
 
 We must also reject the idea of the liberal state: the state is not a
 force for mediating the conflicts between worldviews to allow pluralism
-to flourish. It is, as Marx wrote, nothing but the committee for manaing
+to flourish. It is, as Marx wrote, nothing but the committee for managing
 the affairs of the bourgeoisie as a class. Any purported neutrality, or
 mediatedness, or guarantee for pluralism on the part of the state is
 merely a figleaf behind which lurks the power of capital to create
