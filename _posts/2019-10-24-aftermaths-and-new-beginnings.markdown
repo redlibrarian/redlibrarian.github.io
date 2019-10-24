@@ -62,7 +62,7 @@ according to their ability, to each according to their need".
 A similar zero-sum problem arises in the case of intellectual freedom.
 Librarians and "free speech" advocates believe that the job of the state
 (e.g. libraries) is to
-maintain some kind of constistant ("neutral") balance between competing
+maintain some kind of consistent ("neutral") balance between competing
 values and worldviews. This view of the role of the state arises out of
 liberal social contract theory of the 17th century, specifically John
 Locke, who saw the state as a moderating force standing above the
