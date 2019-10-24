@@ -48,7 +48,8 @@ same position as those white labour leaders were: rights under
 capitalism are considered a scarce commodity. Like competition for jobs,
 competition for rights is seen as a zero sum game. If an immigrant gains
 a job, it must be at the expense of a citizen; if a trans woman gains a
-right, it must be at the expense of a cis woman. Trans exclusionary
+right, it must be at the expense of a cis woman. Both are lies told to
+reproduce capitalist social and economic relations. Trans exclusionary
 feminism cannot see that the solution is not to participate in this
 patriarchal-capitalist-devised competition, but to transcend it, to
 recognize that the struggle for rights is not a zero sum problem, that
