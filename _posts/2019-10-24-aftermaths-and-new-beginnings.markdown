@@ -157,7 +157,12 @@ Twitter](https://twitter.com/atrumbled/status/1187180193397362689), we
 have to figure out our relationships to our communities, to our
 associations, our institutions, and with each other. For academic
 librarians, this issue is coming in the form of campus "free speech"
-regulations and the necessary limits of academic freedom. There are many
+regulations and the necessary limits of academic freedom. We have to
+figure out how to ensure that public library workers who disagree with
+the positions of their leadership are able to speak freely without
+repercussion. It is not the least painful irony about the defenders of
+free speech in public libraries that such freedom is denied their own
+employees. There are many
 aftermaths, and they just keep on coming.
 
 But I think this may also be time for a new beginning, a refoundation of
