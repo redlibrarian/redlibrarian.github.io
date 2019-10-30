@@ -79,7 +79,7 @@ multitude, the community itself, to decide its own values, its own
 direction, its own fate is strictly limited by the act of
 constitutionalizing power itself. Such limitations are done to protect
 capital, patriarchy, white supremacy, ableism, and a host of other
-inequalities. What we say last night, on the other hand, was the
+inequalities. What we saw last night, on the other hand, was the
 spontaneous expression of real democratic power, of a community coming
 together to act according to its values. They ran face to face with the
 power of the constituted state, the power of the public library as state
@@ -115,7 +115,7 @@ no indication that the constituted power of librarianship recognizes the
 divide or sees any validity in any of the critics. The speed and
 alacrity with which our professional organizations, public library CEOs,
 and even *consultants* have closed ranks against having to think about
-any of this, repeating ad nauseam they same tired old trops about
+any of this, repeating ad nauseam they same tired old tropes about
 democracy and free speech, means there is little hope to be found in
 constituted power, as always. As always, however, the road forward must
 lie in constituent power, the constituent power that was on display last
