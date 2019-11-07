@@ -15,7 +15,7 @@ rhetorical move was at best naive, at worst calculating and dangerous,
 since it changed the nature of the argument from one of deplatforming
 (not censorship) and the struggle between conflicting library values, to
 one of right-wing propaganda, bringing the weight of bigots on the right
-down on the heads of anyone who challenged TPL's authority.
+down on the heads of anyone who challenged Bowles' authority.
 
 The irony - or perhaps the tragedy - of this rhetorical move, and of"free speech" absolutism more generallt, is that
 its adherents, in libraries and in the alt-right, claim speech as the
