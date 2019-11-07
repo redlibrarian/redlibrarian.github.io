@@ -84,7 +84,7 @@ Jordan Peterson, anyone who writes for Quillette can safely deny the
 causal power of words because they wield an even greater power: the
 power of wealth, class, gender, race - the privileges that have
 insulated them their entire lives from any of the violence that attends
-those without such prvilege, marginalizined people, poor people, queer
+those without such privilege: marginalizined people, poor people, queer
 people, people of colour. In short, they can deny the causal power of
 words because they are never on the receiving end of the kinds of
 violence that, for example, trans people face daily. When brought face
