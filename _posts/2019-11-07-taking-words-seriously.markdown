@@ -92,7 +92,7 @@ to face with testimony to such violence, as Vickery Bowles and the TPL
 board were last month, they are incapable even of recognizing it, let
 alone understanding it or changing because of it. Indeed, free-speech
 absolutists like Vickery Bowles are able to deny the power of words
-because the are immune to them - quite literally, words are wasted on
+because they are immune to them - quite literally, words are wasted on
 them.
 
 On the political side, the denial of the power of words is bound up with
