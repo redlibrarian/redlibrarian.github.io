@@ -7,7 +7,17 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
-The irony - or perhaps the tragedy - of "free speech" absolutism is that
+In an early defense of TPL's platforming of a transphobic speaker,
+Vickery Bowles made the rhetorical move from the usual library term,
+"intellectual freedom", to "free speech", a term with particular
+political connotations, and a set of adherents who range from centrist liberals to the most rabid alt-right white supremacist. This
+rhetorical move was at best naive, at worst calculating and dangerous,
+since it changed the nature of the argument from one of deplatforming
+(not censorship) and the struggle between conflicting library values, to
+one of right-wing propaganda, bringing the weight of bigots on the right
+down on the heads of anyone who challenged TPL's authority.
+
+The irony - or perhaps the tragedy - of this rhetorical move, and of"free speech" absolutism more generallt, is that
 its adherents, in libraries and in the alt-right, claim speech as the
 ultimate overriding freedom while fundamentally not believing that words
 or the ideas they convey have any power at all. It is doubly ironic that
