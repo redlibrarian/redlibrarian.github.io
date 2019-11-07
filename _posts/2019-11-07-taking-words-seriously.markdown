@@ -10,7 +10,7 @@ image: /assets/images/mandolin.jpg
 In an early defense of TPL's platforming of a transphobic speaker,
 Vickery Bowles made the rhetorical move from the usual library term,
 "intellectual freedom", to "free speech", a term with particular
-political connotations, and a set of adherents who range from centrist liberals to the most rabid alt-right white supremacist. This
+political connotations and a set of adherents who range from centrist liberals to the most rabid alt-right white supremacist. This
 rhetorical move was at best naive, at worst calculating and dangerous,
 since it changed the nature of the argument from one of deplatforming
 (not censorship) and the struggle between conflicting library values, to
