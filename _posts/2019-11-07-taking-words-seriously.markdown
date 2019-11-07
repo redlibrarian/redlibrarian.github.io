@@ -17,7 +17,7 @@ since it changed the nature of the argument from one of deplatforming
 one of right-wing propaganda, bringing the weight of bigots on the right
 down on the heads of anyone who challenged Bowles' authority.
 
-The irony - or perhaps the tragedy - of this rhetorical move, and of"free speech" absolutism more generallt, is that
+The irony - or perhaps the tragedy - of this rhetorical move, and of "free speech" absolutism more generally, is that
 its adherents, in libraries and in the alt-right, claim speech as the
 ultimate overriding freedom while fundamentally not believing that words
 or the ideas they convey have any power at all. It is doubly ironic that
