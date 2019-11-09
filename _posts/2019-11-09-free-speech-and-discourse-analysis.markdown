@@ -87,7 +87,8 @@ Kamm was asked to "name a major moral, political or intellectual issue
 on which you've ever changed your mind?", and his response was
 "Realising that the crucial distinction in politics is not between Left
 and Right, as I had once tribally thought, but between the defenders and
-the enemies of an open society." "Free speech" is therefore part of the
+the enemies of an open society." This disavowal of "right" and "left" is
+a hallmark of political populism. More to the point, "Free speech" is therefore part of the
 "militant liberalism" Kamm espouses. In the piece Schrader quotes, Kamm
 concludes by writing:
 
