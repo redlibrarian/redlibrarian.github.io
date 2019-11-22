@@ -8,7 +8,7 @@ Forthcoming Book
 
 <em>[Confronting the Democratic Discourse of Librarianship: A Marxist
 Approach](http://litwinbooks.com/books/confronting-the-democratic-discourse-of-librarianship/),</em>
-Library Juice Press. Expected May 2019.
+Library Juice Press, August 2019.
 
 Chapters in Edited Books
 
