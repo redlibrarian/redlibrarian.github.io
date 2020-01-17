@@ -134,7 +134,7 @@ a positioned enshrined in the social contract theorists, notably Hobbes.
 The version of intellectual freedom I am proposing is less a noun -
 static, present, a defensible status quo - than it is a verb:
 intellectual freedom must mean *the freeing of the intellect*, the
-*leading out* (ex-docare, educating) of intellectual activity from
+*leading out* (ex-ducere, educating) of intellectual activity from
 ignorance and prejudice. Liberal intellectual freedom is passive, it
 waits to be manipulated by charlatans and bigots and calls that
 neutrality; the kind of intellectual freedom I am thinking about is
