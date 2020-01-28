@@ -76,7 +76,7 @@ concrete realities of neoliberal power relations and ways of knowing.. However, 
 neoliberalism has channeled these forms of resistance entirely *into* critique
 in order to neutralize them. Neoliberalism is amazingly adept at
 dismissing critique as just another perspective of which it is
-"tolerant". (We can see here an example of postmodern pluralismm as the
+"tolerant". (We can see here an example of postmodern pluralism as the
 "cultural logic of late capitalism"). If we think of libraries as sites of
 knowledge production, not only the passive "foundations" of knowledge
 acquisition, then IF-absolutism falls squarely into what Bacevic
@@ -121,7 +121,13 @@ However, libraries are concerned only with the *form*
 these opinions take (reducing every perspective to a homogeneous "critique") rather than their content. The ambiguities and ambivalence arise
 precisely from the contradiction between such views and the reality that
 libraries are an integral element in the social and intellectual
-reproduction of capitalist society itself. IF-absolutism and neutrality
+reproduction of capitalist society itself, a society rife with
+intolerance, cruelty, and exploitation. Again, liberalism sees the state
+as mediating these antagonisms, but it is not the state's place to *do*
+anything about them (see above on the "infrastructural" view of the
+library's role). 
+
+In this sense, then, IF-absolutism and neutrality
 are the means by which the libraries hide this contradiction from
 themselves; and, indeed, "social responsibility" and critical librarianship are the
 means by which libraries' self-criticism is defanged and brought back
@@ -147,7 +153,7 @@ Secondly, the screening of an
 documentary at public libraries puts libraries in a very dangerous
 position. While TPL board members were unmoved by testimony by
 trans women of the dangers they face in Canadian society, the lives of
-trans people continue to be at risk; dismissal of this reality as simply "being offended" marks trans lives as worth less than other. Public libraries seem satisfied with
+trans people continue to be at risk; dismissal of this reality as simply "being offended" marks trans lives as worth less than others. Public libraries seem satisfied with
 supporting reactionary and dangerous opinions when trans people are
 being hurt, but what happens when people the library actually cares
 about start to die? Will libraries continue their misguided
@@ -167,7 +173,7 @@ One final thought: IF-absolutists often argue that critics of bourgeois
 IF are crypto-fascists or quasi-totalitarians, happy to let state
 censorship into the library. This, however, is the horseshoe theory
 taken to its utmost extreme. I, for one, already see the library as an agent of
-the state; what I am arguing for - what many people are arguing for - is *commmunity* decisionmaking,
+the state; what I am arguing for - what many people are arguing for - is *commmunity* decision-making,
 *community* guidance, grassroots allegiances, and anti-authoritarian
 relationships. Looked at in this light, the formalism of public
 libraries must be challenged, actions that appear (formally) to be the
