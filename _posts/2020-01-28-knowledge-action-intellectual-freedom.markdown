@@ -36,7 +36,13 @@ questions of freedom and necessity, are things *other people* are
 implicated in, while the library "simply" provides a framework. In
 other words, the library sees itself as separate from and independent of
 both the social forces in which it is embedded and the social effects of
-its work.
+its work. This is a natural consequence of the liberal theory of the
+state which sees state institutions as outside of and above the
+antagonisms of social relationships, mediating between them, but not
+taking part in them. It is an extremely paternalistic view of state
+institutions, one we see reflected in librarianship to this day. As we
+will see below, however, there is no "outside" to neoliberal capitalist
+social and power relations.
 
 What this means is that on the one hand defenders of IF-absolutism (and,
 implicitly, libraries) see the ability to "to
