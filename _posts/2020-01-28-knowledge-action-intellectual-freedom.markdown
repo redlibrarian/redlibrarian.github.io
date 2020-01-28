@@ -110,8 +110,15 @@ Libraries believe, in the first place, that different or unusual (or
 offensive) views and opinions are by definition critiques of the status
 quo, and secondly that by providing a neutral platform for these views,
 libraries are contributing to this critique, holding (neoliberal)
-capitalist society to account. They are concerned only with the *form*
-these opinions take (critique) rather than their content. The ambiguities and ambivalence arise
+capitalist society to account. This is because, in a postmodern sense,
+a plurality of micronarratives by definition challenges the primacy of
+"grand narratives", the totalitarian closure of modernism. More opinions
+are considered politically effective because they challenge the single
+hegemonic position of the state or dominant culture. Libraries, in this
+sense, are quintessentially (neo)liberal and postmodern institutions. 
+
+However, libraries are concerned only with the *form*
+these opinions take (reducing every perspective to a homogeneous "critique") rather than their content. The ambiguities and ambivalence arise
 precisely from the contradiction between such views and the reality that
 libraries are an integral element in the social and intellectual
 reproduction of capitalist society itself. IF-absolutism and neutrality
