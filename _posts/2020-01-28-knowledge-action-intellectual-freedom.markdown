@@ -23,7 +23,7 @@ Furthermore, the CFLA statement on intellectual freedom states that:
 >Libraries have a core responsibility to safeguard and foster free expression and the right to safe and welcoming places and conditions. To this end, libraries make available their public spaces and services to individuals and groups without discrimination. 
 
 "Foundations for achieving social justice", "safeguard and foster",
-"mmakes available" - these are all passive, infrastructural ways of
+"makes available" - these are all passive, infrastructural ways of
 describing libraries' role in society, and even though many supporters
 of IF-absolutism deny that
 neutrality remains at the heart of Canadian librarianship ("To my
