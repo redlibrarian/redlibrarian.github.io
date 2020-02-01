@@ -86,8 +86,8 @@ are private exchanges with the library as landlord, and so they continue
 to rely on the discourse of IF, professional ethics, and democracy. And
 they (as we now know) rely on the institutional authority of, for
 example, the Ryerson Centre for Free Expression which, after the release
-of documents this week under the Freedom of Information Act, show the
-CFE as little more than shilling for its friends. The democratic
+of documents this week under the Freedom of Information Act,
+we know is just shilling for its friends. The democratic
 importance of intellectual freedom is reduced to an underhanded defense
 of the public library as landlord.
 
