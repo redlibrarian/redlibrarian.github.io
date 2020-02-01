@@ -77,7 +77,7 @@ of space for rent. To bring professional ethics to bear on (basically)
 one's activities as *landlord* is perverse, but it also exposes a sharp
 contradiction in how libraries see their role under capitalism.
 Discursively, they want to remain "arsenals of democratic culture", but
-in reality, they want to participate in the *private* economy of rent.
+in reality, they want to participate in the *private* and *undemocratic* economy of rent.
 
 This contradiction, I think, lies at the heart of the confusion public
 libraries have, not only around their values, but around their responses
