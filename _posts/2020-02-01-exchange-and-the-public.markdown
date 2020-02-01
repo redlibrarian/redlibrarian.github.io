@@ -118,7 +118,7 @@ is that so much of it is black and white, leaving no room for the kind
 of nuance many critics of absolutist IF bring to the discussion. As long
 as those critics are routinely ignored and dismissed out of hand, the
 kind of uncritical use of professional ethics to justify harmful
-activities and private exchange, will continue to devalue the
+activities and private exchange will continue to devalue the
 profession.
 
 I should make it clear that nothing I've written here should be read as
