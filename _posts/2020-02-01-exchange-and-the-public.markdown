@@ -75,7 +75,7 @@ services are generally understood. In the case of room rentals, then,
 the library is not acting as "Public Library" but as the private owner
 of space for rent. To bring professional ethics to bear on (basically)
 one's activities as *landlord* is perverse, but it also exposes a sharp
-contradiction in how library's see their role under capitalism.
+contradiction in how libraries see their role under capitalism.
 Discursively, they want to remain "arsenals of democratic culture", but
 in reality, they want to participate in the *private* economy of rent.
 
