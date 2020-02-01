@@ -111,7 +111,7 @@ to the information, it was not censorship, and it did not contravene the
 *Charter*.
 
 Obviously, libraries need to be careful about the ways in which
-information access can and is restricted (for exammple, we still need to
+information access can and is restricted (for example, we must continue to
 address issues of digital divide), but this is not an all or nothing
 question. Indeed, part of the problem with IF discourse in librarianship
 is that so much of it is black and white, leaving no room for the kind
