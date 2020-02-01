@@ -8,7 +8,7 @@ image: /assets/images/mandolin.jpg
 ---
 
 I've been rereading the [Weld v. Ottawa Public
-Library](http://canlii.ca/t/j2dt3) Ontario Superior Court case, as well
+Library](http://canlii.ca/t/j2dt3) Ontario Superior Court decision, as well
 as [Allana Mayer's post about
 it](https://allanamayer.tumblr.com/post/188589979137/libraries-and-room-rentals)
 and the more I think about it, the more I think this decision completely
@@ -106,7 +106,7 @@ given by someone with a website and podcast),
 
 >The Ottawa Public Library has no power or authority over the applicants.  They are free to seek out another venue for screening the movie. In fact, the applicant, Valerie Thomas, was able to see the movie in another location in another city.
 
-Since denial of a room rental did not precent Thomas from gaining access
+Since denial of a room rental did not prevent Thomas from gaining access
 to the information, it was not censorship, and it did not contravene the
 *Charter*.
 
