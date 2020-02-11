@@ -73,7 +73,7 @@ pointed out it has a long history. There is a threshold to be reached
 before something impinges on the national or international professional
 consciousness. That many librarians in Canada or the US are unaware of
 things that are happening in BC schools should not really be surprising.
-Again, we also aren't required to weigh in on everything.
+Again, we can't weigh in on everything.
 
 As Jameson has pointed out, an awareness of history is one of the main
 casualities of neoliberal cultural logic. Public libraries and their
