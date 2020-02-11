@@ -61,8 +61,8 @@ isn't happening. There are many different ways to engage, and we are not
 required to be consistent simply to satisfy the whataboutery of the
 CFE.
 
-(To be fair, the whataboutery works both ways: where is the CFLA
-committee's statement criticizing Winnipeg's draconian security
+(To be fair, the whataboutery works both ways: where is the CFLA or CFE
+statement criticizing Winnipeg's draconian security
 policies? Or does intellectual freedom not pertain to the marginalized
 populations of downtown Winnipeg?)
 
