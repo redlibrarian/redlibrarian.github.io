@@ -45,12 +45,12 @@ fighting, "by law or by force":
 
 >The first way is natural to men, and the second to beasts. But as the
 >first way often proves inadequate one must needs have recourse to the
->second. So a prince must understand how to make a nuce use of the beast
->and the man. The ancieent writers taught princes about this by an
+>second. So a prince must understand how to make a use of the beast
+>and the man. The ancient writers taught princes about this by an
 >allegory, when they described how Achilles and many other princes of
 >the ancient world were sent to be brought up by Chiron, the centaur, so
 >that he might train them his way. All the allegory means, in making the
->teacher half beast and half mman, is that a prince must know how to act
+>teacher half beast and half man, is that a prince must know how to act
 >according to the nature of both, and that he cannot survive otherwise.
 >(Machiavelli, The Prince).
 
