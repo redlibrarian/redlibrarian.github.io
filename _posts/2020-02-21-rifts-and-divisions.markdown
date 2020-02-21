@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rifts and Divisions
-date: 2020-02-11
+date: 2020-02-21
 categories: article
 tags: featured
 image: /assets/images/mandolin.jpg
