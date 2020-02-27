@@ -115,7 +115,8 @@ problem internally, behind closed doors. As we have seen from documents
 released under the Canadian Freedom of Information Act, Toronto Public
 Library *also* preferred to try to manage its room rental problem in
 secret, rather than being open to the criticism and challenge of other
-arguments. 
+arguments. More recently, CILIP refused to reconsider its ill-advised
+paean to Dominic Cummings in the face of membership criticism. 
 
 As we can see, neither CILIP nor TPL (and by extension the organizations
 that supported TPL) conform to *their own principles of intellectual
