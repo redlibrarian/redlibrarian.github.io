@@ -127,3 +127,7 @@ not watching the situation carefully, poised to follow suit as the profit to be 
 becomes worth the social cost.
 
 [^1]: I should point out that autonomists like Antonio Negri see this process differently: that it was agitation on the part of labour under the welfare state that provoked capital into neoliberal restructuring.
+
+Correction: I made a mistake in the information about Alberta layoffs.
+The changes can be seen
+[here](https://github.com/redlibrarian/redlibrarian.github.io/commit/a2fc96032b1139d7b39040fa49f7fd42edf5b681)
