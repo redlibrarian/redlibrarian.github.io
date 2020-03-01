@@ -52,8 +52,8 @@ government that it was willing to ignore the history of universities,
 the welfare-state sanctity of the institution, indeed the welfare
 state's conception of the importance of public education as such. In
 the new conservative government of Alberta it has found such an
-indication. The Southern Alberta Institute of Technology laid off 19
-library workers before Christmas, and the institute has just announced the abolition
+indication. The University of Calgary laid off 19
+library workers before Christmas, and the Southern Alberta Institute of Technology has just announced the abolition
 of 230 position leading to 150 layoffs. University of Alberta has
 been notified that its 2019 budget has been cut by 18% for 2020, with at
 least two more years of budget cuts coming. The university administration
