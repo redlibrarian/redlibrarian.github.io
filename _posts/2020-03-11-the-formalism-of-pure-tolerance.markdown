@@ -21,7 +21,7 @@ Now, form vs. content is a long standing debate in aesthetics and politics, and 
 
 Wendy Brown, in her book on "tolerance in an age of identity and empire"[^1], argues that this proceduralism sacred to the liberal tradition, in fact prevents liberalism from adequately confronting contemporary political problems:
 
->A public sphere formally devoid of all nonsecular sources of moral and ethical judgement is quite defenseless against substantive ethics claims; it has only proceduralism to fall back on, and thus cannot deliver compelling judgements about, or even interpret the meanings of, a polity's thorniest ethical or political dilemma's.
+>A public sphere formally devoid of all nonsecular sources of moral and ethical judgement is quite defenseless against substantive ethics claims; it has only proceduralism to fall back on, and thus cannot deliver compelling judgements about, or even interpret the meanings of, a polity's thorniest ethical or political dilemmas.
 
 The idea of a formalized approach to tolerance is addressed in Herbert Marcuse 1965 essay ["Repressive Tolerance"](https://www.marcuse.org/herbert/publications/1960s/1965-repressive-tolerance-fulltext.html), which Brown engages with throughout her book. In the essay, Marcuse argues that the truth (content) of views must be understood in order to attack or defend them. This is in sharp contrast to liberal tolerance which requires that "all sides" of a debate be presented without prejudice (i.e. formal equality). Marcuse writes that a regime of repressive tolerance would entail
 
