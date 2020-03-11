@@ -9,7 +9,9 @@ image: /assets/images/mandolin.jpg
 
 Read [part 1 here](https://redlibrarian.github.io/article/2020/03/10/censorship-and-discursive-power.html)
 
->Having taken all meanings for our object, we can no longer speak of them in terms of significations as such, and find ourselves obliged somehow to take a position outside the realm of meanings in order to judge what they all, irrespective of their content, have formally in common with each other. Jameson on Greimas, in The Prison House of Language (1972)
+>Having taken all meanings for our object, we can no longer speak of them in terms of significations as such, and find ourselves obliged somehow to take a position outside the realm of meanings in order to judge what they all, irrespective of their content, have formally in common with each other.
+
+Jameson on Greimas, in The Prison House of Language (1972)
 
 In the [National Post column by Chris Selley](https://nationalpost.com/opinion/chris-selley-torontos-head-librarian-digs-in-deeper-in-her-defence-of-free-speech) referred to in the previous post, Selley discusses the Toronto Public Library room rental to Meghan Murphy and supports Vickery Bowles' refusal to reconsider her position in the light of critics which he considers censors. Later in the column, he refers to a bill tabled in Missouri which "establish parental oversight boards for libraries, allow those boards to remove materials from circulation, and establish penalties including imprisonment for librarians who allow 'age-inappropriate sexual material' - as defined by said parents - to fall into the hands of impressionable minors".
 
