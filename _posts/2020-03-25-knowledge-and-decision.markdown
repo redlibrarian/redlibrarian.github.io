@@ -41,3 +41,32 @@ vaccination, has less to do with knowledge, facts, and understanding -
 reason - and more to do with political commitments, choice, and value,
 which may appear irrational but which, if we dig deeper, are
 understandable manifestations of deeper, more material irrationalities.
+
+ADDENDUM: On Informed Consent.
+
+Liberalism's individualism forces it to see society as something
+unrrelated to individuals, something that confronts individuals
+antagonistically, that is external to individuals and makes claims on
+them from outside. This is clearly seen in J.S. Mill's *On Liberty*, the
+blueprint of liberal intellectual freedom positions, in which he asks,
+"What, then, is the rightful limit to the sovereignty of the individual
+over himself? Where does the authority of society begin? How much of
+human life should be assigned to individuality, and how much to
+society?" This conception of the individual and society as mutually
+exclusive, autonomous, distinct arises from the same process that leads
+to mutually exclusive knowledge and power. This process also gives rise
+to the distinction between [predicate and dialectical
+logic](https://redlibrarian.github.io/article/2019/06/20/predicate-and-dialectical-logic.html),
+which I have written about before in an [intellectual freedom
+context](https://redlibrarian.github.io/article/2019/10/15/dialectics-and-social-responsibility.html). 
+
+Predicate logic requires that things be considered isolated and
+distinct, and any relationship they might be brought into is an external
+relationship: individual vs. society, knowledge vs. power. Predicate
+logic is unable to comprehend or explain the internal relationships
+between things. As a result, for Mill, society is *brought into a
+relationship* with the individual from outside in order to solve certain
+problems of individualism. Similarly, I see "informed consent" as a way
+to bring in a certain amount of agency and power (over one's own health,
+over one's own body) as an attempt to deal with certain problems of
+medical power (i.e. lack of information and lack of meaningful consent). Informed consent is vitally important, but it has to be understood as a limited response to the lack of real power in the doctor/patient relationship. "Informed consent" would not need to be its own thing if lack of it was not already part of the medical relationship. 
