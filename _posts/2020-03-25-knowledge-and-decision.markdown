@@ -33,7 +33,7 @@ means that parents/patients feel *powerless* in the face of medical
 discipline, medical orders, medical professionalism. This powerlessness
 cannot be overcome by means of knowledge and explanation, but by
 dismantling structures of power inequality, and hopefully someday the
-institutions of real conditions of human flourishing for all. Perhaps in such a situation
+institution of real conditions of human flourishing for all. Perhaps in such a situation
 expertise might become something respectable as opposed to what it is
 now, the "objective" prism of a particular regime of power. In this
 case, then, to be transphobic or an ally, to be for or against
