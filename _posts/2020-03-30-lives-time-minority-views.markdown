@@ -135,3 +135,10 @@ anyone who didn't need it. An analogy, of this, I think, is the correct
 political response to the crisis: let the government and experts do what
 they need to do to save lives now; the left will "tax it back" in the
 future when the current crisis has passed.
+
+Of course, we will continue to have to use our political judgement to
+determine how much is too much. This, for example, out of Hungary, looks
+less like coronavirus response than the implementation of dictatorship:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Hungarian Parliament passes bill that gives PM Orbán unlimited power &amp; proclaims:<br><br>- State of emergency w/o time limit<br>- Rule by decree<br>- Parliament suspended<br>- No elections<br>- Spreading fake news + rumors: up to 5 yrs in prison<br>- Leaving quarantine: up to 8 yrs in prison<a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/5ScZCbF4yv">pic.twitter.com/5ScZCbF4yv</a></p>&mdash; Balazs Csekö (@balazscseko) <a href="https://twitter.com/balazscseko/status/1244612142831198209?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote>
+
