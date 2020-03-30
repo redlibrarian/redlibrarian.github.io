@@ -95,7 +95,7 @@ defense of minority views and the "political process" of argument and
 debate. Intellectual freedom *cannot* be absolute, unless we are
 prepared to accept an unconscionable death rate. What this points out,
 of course, is that there is *no* position which does not *determine*
-suppression, which liberal IF consistently maintains: there suppression
+suppression, which liberal IF consistently maintains: there is suppression
 of opinion and there is real harm up to and including death. 
 
 The liberal idealism of Epstein and Turk cannot make the connection
