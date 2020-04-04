@@ -4,7 +4,7 @@ title: Selected Publications
 permalink: /publications/
 ---
 
-Forthcoming Book
+Monograph
 
 <em>[Confronting the Democratic Discourse of Librarianship: A Marxist
 Approach](http://litwinbooks.com/books/confronting-the-democratic-discourse-of-librarianship/),</em>
@@ -23,6 +23,10 @@ ALA, 2016: 73-82.
 
 Peer-Reviewed Articles
 
+* ["Proxying the Data Body: Artificial Intelligence, Federated Identity,
+  and Machinic Subjection] (forthcoming), *Journal of Contemporary
+  Issues in Education*.
+  
 * [“'The Power of Knowledge, Objectified': Immaterial Labor, Cognitive
   Capitalism, and Academic Librarianship"](https://muse.jhu.edu/article/746744) (2019), *Library Trends*
   68(2): 153-173. 
