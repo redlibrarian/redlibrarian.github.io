@@ -66,7 +66,7 @@ orientation aren't possible: my own Marxism is flavoured by certain
 poststructuralist ways of thinking about knowledge and power, for
 example, and Marxism informs (sometimes antagonistically) many of the
 theoretical commitments of feminism, poststructuralism, and
-postcolonialism (I would add critical race theory to the list of
+postcolonialism (I would add Critical Race Theory and Queer Theory to the list of
 perspectives currently dominant within critical librarianship). But we
 need to be clear on how those tendencies interrelate and how they change
 the political commitments they impose on us. For example, the
