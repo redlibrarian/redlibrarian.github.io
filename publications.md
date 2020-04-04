@@ -23,8 +23,8 @@ ALA, 2016: 73-82.
 
 Peer-Reviewed Articles
 
-* ["Proxying the Data Body: Artificial Intelligence, Federated Identity,
-  and Machinic Subjection] (forthcoming), *Journal of Contemporary
+* "Proxying the Data Body: Artificial Intelligence, Federated Identity,
+  and Machinic Subjection (forthcoming), *Journal of Contemporary
   Issues in Education*.
   
 * [“'The Power of Knowledge, Objectified': Immaterial Labor, Cognitive
