@@ -12,7 +12,7 @@ Library Juice Press, August 2019.
 
 Chapters in Edited Books
 
-* The Problem of Neutrality and Intellectual Freedom: The Case of
+* "The Problem of Neutrality and Intellectual Freedom: The Case of
   Libraries", in *The Free Speech Wars*, Edited by Charlotte Lydia
   Riley, Manchester: Manchester University Press [forthcoming].
 * ["'Ruthless Criticism of All That Exists': Marxism, Technology, and
