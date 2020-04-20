@@ -3,6 +3,20 @@ layout: page
 title: Selected Presentations
 permalink: /presentations/
 ---
+*Interviews*
+
+* ["Libraries, 'Democracy', and Intellectual Freedom", *Organizing Ideas*,
+Episode 24, April 20,
+2020](https://organizingideaspod.wordpress.com/2020/04/20/ep-24-libraries-democracy-and-intellectual-freedom-with-sam-popowich/)
+* ["Politics of Librarianship", *SHOUT for Libraries*, September 29,
+2019](https://soundcloud.com/cjsrfm/s4l-politics-of-librarianship?in=cjsrfm/sets/shout-for-libraries)
+* [ "Politics of Libraries", *No Librarians Allowed*, Episode 3, April 1,
+2018](https://soundcloud.com/lydia-zvyagintseva/episode-3-no-librarians-allowed)
+* ["Politics in the Library", *SHOUT for Libraries*, s01e04, January 20,
+2017](https://soundcloud.com/cjsrfm/shout-for-libraries-politics-in-the-library)
+
+*Presentations*
+
 * ["Introduction to Machine Learning Using
   Ruby"](https://redlibrarian.github.io/rubyml/index.html), Code4LibYEG,
   July 5, 2019.
@@ -101,16 +115,4 @@ allowfullscreen></iframe>
 "Interoperability with Blacklight EDS and Fedora", from the 2013 Access
 Conference.
 
-
-*Interviews*
-
-["Libraries, 'Democracy', and Intellectual Freedom", *Organizing Ideas*,
-Episode 24, April 20,
-2020](https://organizingideaspod.wordpress.com/2020/04/20/ep-24-libraries-democracy-and-intellectual-freedom-with-sam-popowich/)
-["Politics of Librarianship", *SHOUT for Libraries, September 29,
-2019](https://soundcloud.com/cjsrfm/s4l-politics-of-librarianship?in=cjsrfm/sets/shout-for-libraries)
-["Politics of Libraries", *No Librarians Allowed*, Episode 3, April 1,
-2018](https://soundcloud.com/lydia-zvyagintseva/episode-3-no-librarians-allowed)
-["Politics in the Library", *SHOUT for Libraries*, s01e04, January 20,
-2017](https://soundcloud.com/cjsrfm/shout-for-libraries-politics-in-the-library)
 
