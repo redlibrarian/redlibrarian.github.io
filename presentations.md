@@ -104,6 +104,11 @@ Conference.
 
 *Interviews*
 
+["Libraries, 'Democracy', and Intellectual Freedom", *Organizing Ideas*,
+Episode 24, April 20,
+2020](https://organizingideaspod.wordpress.com/2020/04/20/ep-24-libraries-democracy-and-intellectual-freedom-with-sam-popowich/)
+["Politics of Librarianship", *SHOUT for Libraries, September 29,
+2019](https://soundcloud.com/cjsrfm/s4l-politics-of-librarianship?in=cjsrfm/sets/shout-for-libraries)
 ["Politics of Libraries", *No Librarians Allowed*, Episode 3, April 1,
 2018](https://soundcloud.com/lydia-zvyagintseva/episode-3-no-librarians-allowed)
 ["Politics in the Library", *SHOUT for Libraries*, s01e04, January 20,
