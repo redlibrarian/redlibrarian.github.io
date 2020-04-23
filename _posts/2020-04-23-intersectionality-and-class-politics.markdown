@@ -43,7 +43,7 @@ True critique must look beneath the surface categories to understand how
 they came to be, what political issues they were summoned to confront.
 
 If identity politics and intersectionality are *not* the same, what is
-their relationship? Luckily, the concept of intersectionality is
+their relationship? Luckily, the ~~concept of~~ term[^2] intersectionality is
 traceable back to its origins: Kimberl&eacute; Crenshaw's 1989 article
 "Demarginalizaing the Intersection of Race and Sex: A Black Feminist
 Critique of Antidiscrimination Doctrine, Feminist Theory, and Antiracist
@@ -138,7 +138,7 @@ contemporary Marxism must then take the *intersection* of race, gender,
 and class seriously. Intersectionality and identity politics do not come
 out of nowhere, are not unconnected with real lived experiences and
 structures of oppression, but reflect real social and power
-relationships present within racialized and patriarchal capitalism[^2].
+relationships present within racialized and patriarchal capitalism[^4].
 
 Unfortunately, I think Pateman's critique of intersectionality is not
 only based on a fundamental misunderstanding of the concept, but that it
@@ -201,9 +201,11 @@ moment too soon.
 
 [^1]: I'm tempted to think of identity politics as a "boundary object", i.e. in this case a concept which is sufficiently flexible to mean particular, sometimes incompatible things, in different contexts, but which is well-enough defined at a larger scale to be recognizable.
 
-[^2]: Indeed, Marxism already has a concept that comes close to intersectionality: [overdetermination](https://www.marxists.org/reference/archive/althusser/1962/overdetermination.htm)
+[^2]: Thanks to David James Hudson for pointing out that while Crenshaw may have coined the term, the concept of intersectionality had been around in Black feminist circles like the [Combahee River Collective](https://en.wikipedia.org/wiki/Combahee_River_Collective) in the 1970s.
 
-[^3]: Just as wrong in this context as it is increasingly exposed as inadequate to settler-Indigenous relations in Canada.
+[^3]: Indeed, Marxism already has a concept that comes close to intersectionality: [overdetermination](https://www.marxists.org/reference/archive/althusser/1962/overdetermination.htm)
+
+[^4]: Just as wrong in this context as it is increasingly exposed as inadequate to settler-Indigenous relations in Canada.
 
 *References.*
 
