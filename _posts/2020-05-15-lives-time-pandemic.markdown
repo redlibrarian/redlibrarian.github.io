@@ -80,9 +80,25 @@ our users, at the same time potentially contributing - in a cycle no
 less vicious for being obvious - to a second outbreak and the loss of
 more lives and the waste of more time.
 
-Reopening libraries means understanding the quarantine time of returned
+And of course, this depends on users' evaluation of their own lives and
+lives of the other members of their community. Abled users who
+underestimate the risk are prepared to risk the lives of disabled users,
+immunocompromised users. Should we take our users' clamouring at their
+word? Faced with such a choice, libraries often fall back on "give 'em
+what they want", but in times like these such a conception of choice and
+service is unethical.
+
+Reopening libraries means understanding psychologies of our various
+constituencies, their over- or underestimation of risk to themselves and
+to the community,  the quarantine time of returned
 books, it means understanding the choices people are making about their
-lives. By moving too fast (saving time) by being practical and pragmatic
+lives. Libraries hate to *judge*, to *decide*, to *choose*. But
+judgement, decision, and choice is what is called for here. Not the
+usual abdication of responsibility to the law or to our parent
+institutions. We have to be able to challenge "give 'em what they want"
+if that is the responsible and prudent move. 
+
+By moving too fast (saving time) by being practical and pragmatic
 as always, by falling for the old canard that "the customer is always
 right", I worry that we are going to lose more of both lives and time.
 At the beginning of the pandemic lockdown, there was talk of things
