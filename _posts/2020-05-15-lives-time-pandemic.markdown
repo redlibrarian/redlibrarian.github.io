@@ -71,7 +71,8 @@ workers and the time "lost" to closure becomes once more the target of
 the pragmatic, practical thinking of library leadership. The pragmatic
 calculus is based on once again equating lifetime with working time, but
 with a third term now becoming more and more insistent: the time of the
-user. Users clamouring for their own time to pass more quickly through
+user. Users clamouring for their own time to pass more quickly or more
+productively through
 access to library resources, books, games, newspapers, databases,
 research material. Ranganathan's fourth law - save the time of the
 reader - takes on a tense and eerie complexion as we rush (time) to put
