@@ -101,8 +101,9 @@ you're doing. Habits of thought and perspectives change, and its good to
 take some time occasionally to take a look at your work from outside to
 see how and why that's happening. In many ways over the years I've gone
 from being comfortable with change to actively craving it. The
-quarantine lockdown has been difficult in that respect, as I'm often
-looking for something new to learn, or something to modify, tinker with.
+quarantine lockdown has been difficult in that respect, as I tend to
+like change. All these days of the same structure and pattern is hard to
+take.
 Perhaps that's why I've embraced FP over the determinism of OO; I'm not
 someone who likes to do a lot of up-front design - I'd rather dive in
 and let the end result emerge from the work itself.
