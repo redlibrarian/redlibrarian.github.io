@@ -50,7 +50,7 @@ subject to debate and contestation.
 
 But there is a *particular* set of assumptions that I want to challenge
 here. I have talked a lot about the democratic discourse, so there's no
-point rehashing that argument here. Rather, what I want to focus on is
+point rehashing that argument. Rather, what I want to focus on is
 the self-determining individualistic social ontology that Schrader - and
 most liberal defenders of IF - take for granted. Schrader writes that
 the Supreme Court of Canada "provides insights into three key principles
@@ -159,7 +159,7 @@ intellectual self-determination.
 
 The unspoken political commitments in Schrader's piece come closest to
 the surface in his discussion of capitalism. Like many contemporary
-observers like Shoshana Zuboff and Nick Srnicek, Schrader insists on
+observers, such as Shoshana Zuboff and Nick Srnicek, Schrader insists on
 adding adjectives to capitalism "wild west capitalism, uncontrolled
 capitalism, late-stage capitalism, predatory capitalism, disaster
 capitalism" in order to salvage capitalism from its various critiques.
