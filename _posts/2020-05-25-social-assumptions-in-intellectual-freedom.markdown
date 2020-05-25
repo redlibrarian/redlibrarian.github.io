@@ -164,7 +164,7 @@ adding adjectives to capitalism "wild west capitalism, uncontrolled
 capitalism, late-stage capitalism, predatory capitalism, disaster
 capitalism" in order to salvage capitalism from its various critiques.
 For Schrader, there are no problems with capitalism itself, it is merely
-"this current form of capitalist democracy" which as "metastasized into
+"this current form of capitalist democracy" which has "metastasized into
 an uncontrollable malignancy". For Schrader (as for John Buschman),
 there was a period of "good capitalism" when minority rights were
 protected and censors knew their place. Such a period, it should go
