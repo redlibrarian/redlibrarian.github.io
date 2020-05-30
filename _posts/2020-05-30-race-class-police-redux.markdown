@@ -7,7 +7,7 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
-I wrote a post about [Race, Class, and the
+In 2016, I wrote a post about [Race, Class, and the
 Police](https://redlibrarian.github.io/article/2016/07/07/race-class-police.html),
 and in the wake of Amy Cooper, George Floyd, and Regis
 Korchinski-Paquet, I think most of it remains relevant. However, I get a
