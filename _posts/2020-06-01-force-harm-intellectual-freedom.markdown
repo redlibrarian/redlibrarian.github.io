@@ -124,3 +124,29 @@ uncritical libertarianism and "neutralist" view of the digital archive
 and historical record, but the suggestion itself speaks volumes about
 the way defenders of IF see the world, even as the police are out there
 actively destroying lives.
+
+Fundamentally, the position taken by absolutist-IF defenders that we
+have democracy, peace, and freedom now, but that social justice is
+withheld for the future, is nothing but an indication that, for them,
+the world is fine the way it is, the world does not need to change. The
+[loss of lives and the lack of
+time](https://redlibrarian.github.io/article/2020/05/15/lives-time-pandemic.html) do not concern them; the "ongoing conversation" does not need to issue in any kind of change. As James Baldwin asked ["How much time do you want for your progress?"](https://time.com/4680673/james-baldwin-documentary-history/)
+
+The police state of liberal democracy, the white supremacist,
+settler-colonial, patriarchal structures of capitalism must be
+demolished. Freedom is not something we have and must protect and
+maintain, but something we have to win. Freedom is differential,
+qualified, never absolute, always in dialectical confrontation with
+necessity, but as the police violence being wantonly exercised in the US
+and Canada right now indicates, those who have the least of it are not
+prepared to carry on an endless, tedious "ongoing conversation" in the
+hope that *some day* freedom and justice will miraculously result.
+Police violence must end, but this can't happen without dismantling all
+the fundamental inequalities of capitalism itself. Perhaps next time
+a public library feels like calling the police in to confront peaceful
+protesters - as TPL did at the Palmerston branch - they will remember
+the images of police brutality exercised in the name of state
+institutions, including libraries. Perhaps they will then realize that a
+conversation must by definition be two sides. To adopt Orwell's image,
+there can be no conversation when a boot is stamping on a human face
+forever.
