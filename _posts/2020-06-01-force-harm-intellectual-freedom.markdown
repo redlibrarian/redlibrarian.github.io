@@ -101,7 +101,7 @@ decides to send in the cops to break heads and limbs.
 
 None of this is new, of course: Black and feminist activists, gay and
 trans theorists, have been saying this for years, and structural
-violence is a core part of the Marxist worldview. But seems like the
+violence is a core part of the Marxist worldview. But it seems like the
 overwriting of harm by offense, of material effects by ideal ones, is so
 deeply entrenched in the liberal ideology, that never goes away and
 always has to be confronted a new, to the shock and dismay of those who
