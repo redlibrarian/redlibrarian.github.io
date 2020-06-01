@@ -22,7 +22,7 @@ perspective of the settler-colonial, patriarchal, property owning class
 and those on whom its hegemonic weapons have worked. But these weapons
 are in contradiction: the social peace upon which bourgeois ideology is
 predicated - the human half of Gramsci/Machiavelli's centaur image - is
-constantly at war with necessity and perverse joy of deploying armed force, in
+constantly at war with the necessity and perverse joy of deploying armed force, in
 the form of the - increasingly indistinguishable - army and the police,
 against Black and Brown bodies at home and abroad. What we see again and
 again in the images of police violence and the various tools used by
@@ -36,14 +36,14 @@ IF absolutism, there is no violence, there is no physical harm: all
 social conflicts only take place on the plane of ideas, beliefs, and
 opinions. They cannot grant the real harm done - by transphobes or the
 police - because that would require acknowledging the continuing role
-plaved by state violence in the construction of what, to them, is
-democratic society built on shared values and a commitment to peace. The
+played by state violence in the construction of what, to them, is
+a democratic society built on shared values and a commitment to peace. The
 continuing violence of capitalist society challenges and denies that
 conception of social peace, but as Nietzsche often reminded us, the
 ideological constructions that serve racial capitalism win out even over
 the evidence of our senses.
 
->'I have done that', says my memory. 'I cannot have done that', says mny
+>'I have done that', says my memory. 'I cannot have done that', says my
 >pride, and remains inexorable. Eventually - memory yields. - Beyond
 >Good and Evil.
 
@@ -72,7 +72,7 @@ disingenuous is it to reduce the physical, material, and psychological
 are important and deeply oppressive in their own right, to be sure, but
 to deny the tear gas, the rubber bullets, the NYPD vehicles driven into
 a crowd of protesters, the nine-year old girl being maced - to deny
-these things, to place them all on the same plane as lies deems to be to
+these things, to place them all on the same plane as "lies" seems to me to
 be a deeply disturbing reductionism.
 
 This reductionism replaces harm with offense, denying the place of harm
