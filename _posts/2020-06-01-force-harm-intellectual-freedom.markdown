@@ -147,6 +147,6 @@ a public library feels like calling the police in to confront peaceful
 protesters - as TPL did at the Palmerston branch - they will remember
 the images of police brutality exercised in the name of state
 institutions, including libraries. Perhaps they will then realize that a
-conversation must by definition be two sides. To adopt Orwell's image,
+conversation must by definition be two-sided. To adopt Orwell's image,
 there can be no conversation when a boot is stamping on a human face
 forever.
