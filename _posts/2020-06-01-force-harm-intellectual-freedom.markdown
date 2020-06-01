@@ -91,7 +91,7 @@ What "ongoing public conversation" is possible when Minneapolis Police
 execute an unarmed man, only the latest example of rampant police
 violence in Canada and the US over recent years. In Winnipeg last month,
 a sixteen year old Indigenous girl was shot and killed by police without
-arrest, investigation, charge of conviction: an example of extrajudicial
+arrest, investigation, charge or conviction: an example of extrajudicial
 execution in a country which prides itself on not having the death
 penalty. There can be no "ongoing public conversation" about these
 things, because the Habermasian ideal speech situation on which so much
