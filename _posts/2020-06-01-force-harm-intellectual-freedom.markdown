@@ -110,7 +110,7 @@ near-century never seems to move us forward, in large part due, I think,
 to the repression of the necessity for violence in racist, patriarchal
 capitalist society.
 
-This naive ignorance of harm in favour of a reduction offense was on
+This naive ignorance of harm in favour of a reduction to offense was on
 display yesterday when Jason Scott from Internet Archive suggested that
 people upload their protest footage and images to IA, and arguing that
 scrubbing, anonymizing, or even vetting the footage was not part of IA's
