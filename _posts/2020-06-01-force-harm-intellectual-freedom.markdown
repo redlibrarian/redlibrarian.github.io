@@ -103,7 +103,7 @@ None of this is new, of course: Black and feminist activists, gay and
 trans theorists, have been saying this for years, and structural
 violence is a core part of the Marxist worldview. But it seems like the
 overwriting of harm by offense, of material effects by ideal ones, is so
-deeply entrenched in the liberal ideology, that never goes away and
+deeply entrenched in the liberal ideology, that it never goes away and
 always has to be confronted a new, to the shock and dismay of those who
 subscribe to it. The "ongoing public conversation" of IF over the last
 near-century never seems to move us forward, in large part due, I think,
