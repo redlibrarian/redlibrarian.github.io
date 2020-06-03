@@ -152,7 +152,8 @@ there can be no conversation when a boot is stamping on a human face
 forever.
 
 [^1]: CORRECTION: A manager at Toronto Public Library has been in touch with me to let me
-  know that the public library cannot call in the police. The police
+  know that the public library cannot call in the police in large
+numbers. The police
 themselves monitored protest preparations and deployed themselves to the
 Palmerston branch. Not sure if that makes it better or worse, but I did
 need offer a correction: TPL did not call in the police.
