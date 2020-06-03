@@ -7,6 +7,11 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+NOTE: This blog post has been updated a number of times. All revision
+history for this blog can be found at <a
+href="https://github.com/redlibrarian/redlibrarian.github.io">the github
+site</a>.
+
 Liberal democracies, for want of a better term, subject their own
 structural need for violence to Freudian levels of repression. From the
 ongoing "so-called primitive accumulation" meted out to marginalized
@@ -151,4 +156,15 @@ conversation must by definition be two-sided. To adopt Orwell's image,
 there can be no conversation when a boot is stamping on a human face
 forever.
 
-[^1]: CORRECTION: A manager at Toronto Public Library has been in touch with me to let me know that the public library cannot call in the police in large numbers. The police themselves monitored protest preparations and deployed themselves to the Palmerston branch. Not sure if that makes it better or worse, but I did need offer a correction: TPL did not call in the police.
+[^1]: CORRECTION: A director at TPL got in touch with me to correct this
+  blog post, writing: "A public library does not have the ability to
+direct the work of the Police or request 50 officers be present, or not
+be present, if the Police determines concern to public safety. The
+Police monitored the October 2019 protest planning and determined
+themselves they needed to be present." However, in one of the emails
+from Vickery Bowles, dated October 28, 2019, released through FOIA, sh
+wrote: "Tomorrow evening there is a planned protest outside of
+Palmerston branch. We have worked with branch staff, event organizers,
+managers and directors, and Toronto Police to plan for the protest with
+the security of staff and the public in mind." I will leave readers to
+interpret these statements as they wish.
