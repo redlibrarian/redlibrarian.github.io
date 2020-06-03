@@ -144,9 +144,15 @@ hope that *some day* freedom and justice will miraculously result.
 Police violence must end, but this can't happen without dismantling all
 the fundamental inequalities of capitalism itself. Perhaps next time
 a public library feels like calling the police in to confront peaceful
-protesters - as TPL did at the Palmerston branch - they will remember
+protesters - as TPL did at the Palmerston branch [^1] - they will remember
 the images of police brutality exercised in the name of state
 institutions, including libraries. Perhaps they will then realize that a
 conversation must by definition be two-sided. To adopt Orwell's image,
 there can be no conversation when a boot is stamping on a human face
 forever.
+
+[^1]: CORRECTION: A manager at Toronto Public Library has been in touch with me to let me
+  know that the public library cannot call in the police. The police
+themselves monitored protest preparations and deployed themselves to the
+Palmerston branch. Not sure if that makes it better or worse, but I did
+need offer a correction: TPL did not call in the police.
