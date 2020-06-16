@@ -80,7 +80,7 @@ Given these two antagonistic positions, the debate often comes down to
 how to balance the livelihood of authors and the information needs of a
 society. Authors feel they are being coerced into losing a revenue
 stream through piracy, while "society" (unfortunately in this case
-takin takingg 
+taking
 the form of private Carnegie-esque "philanthropy") feels resources are
 being held for ransom. The debates around balance suggest that, as in
 Lukacs' description, if we just "figure it out", if we have better
