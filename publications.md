@@ -16,7 +16,7 @@ Chapters in Edited Books
   Libraries", in *The Free Speech Wars*, Edited by Charlotte Lydia
   Riley, Manchester: Manchester University Press [forthcoming].
 * ["'Ruthless Criticism of All That Exists': Marxism, Technology, and
-  Library Work"](https://doi.org/10.7939/R3RF5KV47), in *The Politics of Theory and the Practice of Critical
+  Library Work"](https://doi.org/10.7939/r3-26j6-5r32), in *The Politics of Theory and the Practice of Critical
 Librarianship*, Edited by Karen Nicholson and Maura Seale, Sacramento:
 Library Juice Press, March 2018: 39-66.
 * "Agile Open-Source Discovery: Blacklight with the Ebsco Discovery
@@ -26,9 +26,9 @@ ALA, 2016: 73-82.
 
 Peer-Reviewed Articles
 
-* "Proxying the Data Body: Artificial Intelligence, Federated Identity,
-  and Machinic Subjection" (forthcoming), *Journal of Contemporary
-  Issues in Education*.
+* ["Proxying the Data Body: Artificial Intelligence, Federated Identity,
+  and Machinic Subjection"](https://doi.org/10.7939/r3-26j6-5r32) (2020) *Journal of Contemporary
+  Issues in Education* 15(1): 35-50.
   
 * [“'The Power of Knowledge, Objectified': Immaterial Labor, Cognitive
   Capitalism, and Academic Librarianship"](https://muse.jhu.edu/article/746744) (2019), *Library Trends*
