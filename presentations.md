@@ -17,6 +17,9 @@ Episode 24, April 20,
 
 *Presentations*
 
+* ["Intellectual Freedom, Academic Freedom, and the Politics of
+  Recognition"](https://redlibrarian.github.io/intellectual_academic_freedom/index.html#/),
+  NEOS Miniconference, June 5, 2020.
 * ["Introduction to Machine Learning Using
   Ruby"](https://redlibrarian.github.io/rubyml/index.html), Code4LibYEG,
   July 5, 2019.
