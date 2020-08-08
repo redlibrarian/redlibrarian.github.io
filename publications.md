@@ -26,6 +26,9 @@ ALA, 2016: 73-82.
 
 Peer-Reviewed Articles
 
+* Canadian Librarianship and the Politics of Recognition. *Partnership*
+  (forthcoming)
+
 * ["Proxying the Data Body: Artificial Intelligence, Federated Identity,
   and Machinic Subjection"](https://doi.org/10.20355/jcie29410) (2020) *Journal of Contemporary
   Issues in Education* 15(1): 35-50.
