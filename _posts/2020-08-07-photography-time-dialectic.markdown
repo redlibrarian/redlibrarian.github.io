@@ -144,4 +144,4 @@ enough for photography to play the role Marx's eleventh thesis
 on Feuerbach reserved for philosophy itself. But at any rate, it is
 enough for now that it scratches a particular aesthetic itch, satisfies
 a certain demand for unalienated work, that its larger importance can be
-set aside for while to see how things, as they always do, turn out.
+set aside for a while to see how things, as they always do, turn out.
