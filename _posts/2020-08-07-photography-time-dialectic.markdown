@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photograph, Time, and the Dialectic 
+title: Photography, Time, and the Dialectic 
 date: 2020-08-07
 categories: article
 tags: featured
