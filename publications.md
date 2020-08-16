@@ -26,8 +26,12 @@ ALA, 2016: 73-82.
 
 Peer-Reviewed Articles
 
-* Canadian Librarianship and the Politics of Recognition. *Partnership*
-  (forthcoming)
+* "Canadian Librarianship and the Politics of Recognition". *Partnership*
+  (forthcoming 2021).
+  
+* "The Antinomies of Academic Freedom: Reason, Trans Rights, and
+  Constituent Power". *Canadian Journal of Academic Librarianship*
+  (forthcoming 2020).
 
 * ["Proxying the Data Body: Artificial Intelligence, Federated Identity,
   and Machinic Subjection"](https://doi.org/10.20355/jcie29410) (2020) *Journal of Contemporary
