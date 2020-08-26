@@ -56,7 +56,7 @@ We can see the connection to library neutrality here: the library, as an
 organ of the state, adopts this liberal proceduralism and stands aloof
 from any "competing" conceptions of the good (transmisia vs. trans lives,
 for example), assuming that by doing this - by renting meeting space to
-anyone, and giving everying an "equal" platform to express their views,
+anyone, and giving everying an "equal" platform to express their views -
 it is achieving what Dworkin and Taylor think of as procedural virtue
 but not substantive virtue. Public libraries stick to their guns on this
 because - acknowledged or not - they believe in the individualistic and
@@ -67,14 +67,15 @@ think of more than themselves, to act in solidarity, to repress their
 individual desires in the name of the greater good. Many of us did just
 that. But that this has not, in the long run, worked - anti-mask
 sentiment is now widespread, for example, and for many people life has
-gone back "to normal" -eshould come as no surprise, given that the
+gone back "to normal" - should come as no surprise, given that the
 individual and their desire forms the basis of hegemonic liberal
 political thinking, and that the neoliberal period has been the
 exaltation of that individualism after a (in hindsight, brief) period of
 social solidarity and compromise after the second world war. The
 corrosive nature of individualism - the "me decade" of the 70s, the
-"decade of greed" of the 80s - has made it impossible for any large-scale,
-concerted movement of social solidarity in the capitalist centres (one
+"decade of greed" of the 80s - has made any large-scale,
+concerted movement of social solidarity in the capitalist centres nearly
+impossible (one
 of the main obstacles to large-scale left-wing organization here).
 Countries in Asia have done better, and we have seen mutual aid groups pop up
 all across North America, but in general, the absolute individualism inculcated
