@@ -107,7 +107,7 @@ expense of marginalized people.
 
 I'm not arguing that the capitalist state *ought* to be deploying
 well-armed police to ensure the implementation of fascist policy, but I
-do want to point out that the limitations inherent in the bourgeois
+do want to point out the limitations inherent in the bourgeois
 conception of the state itself. Limitations meant to ensure the
 sovereignty of individual "freedom" make it impossible for the state to
 develop and implement vitally important policies and procedures when
