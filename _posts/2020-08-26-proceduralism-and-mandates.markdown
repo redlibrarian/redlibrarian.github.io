@@ -11,8 +11,9 @@ One of the questions that has occurred to me since the beginning of the
 pandemic is why governments seemed reluctant to actually mandate
 anything. By their nature, governments are not libertarian - despite the
 "small government" protestations of conservatives and populists - and
-they clearly relish the deployment of state violence in the form of
-militarized police, so why the reliance on "common sense" and trusting
+they [clearly relish the deployment of state violence in the form of
+militarized
+police](https://truthout.org/articles/if-governments-believe-so-much-in-nonviolence-they-should-try-it/), so why the reliance on "common sense" and trusting
 people to "do the right thing" which is the position taken, in various
 ways, by the British government and the Federal Canadian and Provincial
 government Albertan governments.
