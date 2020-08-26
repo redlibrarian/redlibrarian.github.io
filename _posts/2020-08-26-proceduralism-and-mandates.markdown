@@ -93,7 +93,9 @@ good among many, and the liberal state had to maintain its agnostic
 position with respect to it. My own provincial government, for example,
 has refused to mandate mask usage, leaving it to individual cities to
 pass unenforcable bylaws on their own. The sacred cow of individual
-choice remains inviolate. Perversly, the implementation of public health
+choice remains inviolate (And of course, individual choice is a key
+component of the consumerism that must be deployed to "restart the
+economy"). Perversly, the implementation of public health
 policy to save lives is seen as an unwarranted infringement on
 individual autonomy - the weirdly logical conclusion of centrist
 "bothsidesism". Unfortunately, this has led to other
