@@ -129,3 +129,11 @@ operates fairly smoothly (the ideological machine is effective and
 efficient) but in times of crisis, such as the pandemic and the
 uprisings in the US, it becomes exposed as the naked mechanism of class,
 race, and gendered power that it is. 
+
+ADDENDUM: I forgot to mention that this unwillingness to take a
+substantive position on the good is what underlies government's reliance
+on "Behavioural Economics" (i.e. nudge theory). Jana Bacevic has written
+a really good piece on social theory, behavioural economics, and the
+pandemic: ["No Such Thing as Society? Liberal Paternalism, Politics of
+Expertise and the Corona
+Crisis"](https://discoversociety.org/2020/03/20/no-such-thing-as-society-liberal-paternalism-politics-of-expertise-and-the-corona-crisis/)
