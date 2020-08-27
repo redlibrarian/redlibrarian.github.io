@@ -139,7 +139,7 @@ the unmarked element of the pair without considering the marked element
 This is a social problem, not simply a programming problem. When, in a
 concrete example that made the news a number of years ago, the following logic is encoded as part of an algorithm:
 {% highlight ruby %}
-if (title == "doctor") then (gender == "male")
+if (title == "doctor") then (gender = "male")
 {% endhighlight %}
 
 This is due to the unmarked privilege of masculinity, and the
