@@ -147,7 +147,10 @@ association of masculinity with authority. The bias is not necessarily
 *added in* to the algorithm - though it *does* have to be made explicit
 within it, at some point - but arises from the social situation and position of the programmer
 or whoever develops the business logic in particular structures of
-privilege, domination, and power. 
+privilege, domination, and power. Note that it is not simply that the
+logical statement written above is wrong, but that the programmer who
+encodes it does not see it as wrong, even in the face of their own
+empirical experience. Ideology trumps the positivism of fact.
 
 There are two things, then, that might help remedy this situation among
 software developers. One is the recognition of the causal power of
