@@ -7,6 +7,10 @@ tags: featured
 image: /assets/images/mandolin.jpg
 ---
 
+NOTE: I've written previously about algorithmic bias from a Marxist
+perspective
+[here](https://redlibrarian.github.io/article/2019/03/11/algorithmic-bias-fragment-machines.html)
+
 What does "algorithmic bias" mean at the level of computer science
 classes or writing code? When I took computer science classes, the basic
 tendency of what was taught was that procedures are the encoding of
