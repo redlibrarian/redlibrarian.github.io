@@ -47,6 +47,8 @@ Peer-Reviewed Articles
 
 Non-Peer-Reviewed Articles
 
+* [Lawful Neutral](https://reallifemag.com/lawful-neutral/), *Real Life
+  Magazine*, September 9, 2010.
 * Book Review: [Peter MacKinnon, *University Commons Divided: Exploring
   Debate and Dissent on Campus*, *CJAL* 5, 2019](https://cjal.ca/index.php/capal/article/view/31476).
 * What Marx Can Tell Us About Climate Change. *Not Your Textbook:
