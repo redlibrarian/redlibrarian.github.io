@@ -88,7 +88,7 @@ take part in the action. Don't get to mix and match."
 The issue here really is that both the university and the academics
 benefit from calling the Scholar's Strike a strike. The university
 because it can appear to be supporting a radical social movement for
-Equity, Diversity, and Inclusion, and thus b on the right side of history;
+Equity, Diversity, and Inclusion, and thus be on the right side of history;
 and academics because they get to play at radical labour action without
 actually risking what striking workers risk. This coincidence
 of interests is, really, the definition of a labour aristocracy.
