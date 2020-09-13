@@ -98,8 +98,8 @@ anti-intersectionalist stance in a way I think is similar to what
 Gayatri Chakravorty Spivak has called "strategic essentialism".
 Analytically, if we want to challenge the structure of labour
 aristocracy, we have to simplify the identity-relationships in play, in
-order to enable academics to recognize themselves as workers. I am, of
-course, completely aware of gender, racial, class, and other differences
+order to enable academics to recognize themselves as workers. I am
+ completely aware of gender, racial, class, and other differences
 at work within academia, and that more risk and more work accrue to the
 most marginalized positions. But presenting academia in an essentialist
 way can help to uncover the class and labour relationships and the ways
