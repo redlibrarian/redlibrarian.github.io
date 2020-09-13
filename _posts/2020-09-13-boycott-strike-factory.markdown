@@ -92,3 +92,16 @@ Equity, Diversity, and Inclusion, and thus b on the right side of history;
 and academics because they get to play at radical labour action without
 actually risking what striking workers risk. This coincidence
 of interests is, really, the definition of a labour aristocracy.
+
+ADDENDUM: In this post I have deliberately adopted an
+anti-intersectionalist stance in a way I think is similar to what
+Gayatri Chakravorty Spivak has called "strategic essentialism".
+Analytically, if we want to challenge the structure of labour
+aristocracy, we have to simplify the identity-relationships in play, in
+order to enable academics to recognize themselves as workers. I am, of
+course, completely aware of gender, racial, class, and other differences
+at work within academia, and that more risk and more work accrue to the
+most marginalized positions. But presenting academia in an essentialist
+way can help to uncover the class and labour relationships and the ways
+in which an academic labour aristocracy benefits from the differential
+exploitation of the most marginalized.
