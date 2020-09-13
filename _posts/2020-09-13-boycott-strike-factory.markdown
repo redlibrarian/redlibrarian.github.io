@@ -85,7 +85,7 @@ striking employees. If not strike, then no withholding of pay (or
 "vacation") & public statement of support for employees who choose to
 take part in the action. Don't get to mix and match."
 
-The issue here really is that both the university and the academic
+The issue here really is that both the university and the academics
 benefit from calling the Scholar's Strike a strike. The university
 because it can appear to be supporting a radical social movement for
 Equity, Diversity, and Inclusion, and thus on the right side of history;
