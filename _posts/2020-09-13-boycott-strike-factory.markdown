@@ -21,7 +21,7 @@ cheapening of the costs of labour, and the increase in surplus-value
 production.
 
 The neoliberalization of the universities is the process of subsumption
-applied to academica. Previously insulated (as professionals) from the
+applied to academia. Previously insulated (as professionals) from the
 labour-capital relationship (exploitation, surplus-value), over the past
 thirty years, academia has gradually been brought fully into these
 relationships. Only once academia had been proletarianized was an
@@ -34,7 +34,7 @@ society at large.
 When the players in the NBA and other leagues went on strike to protest
 racist police brutality, the owners and the media were careful not to
 call it a strike but a boycott. On the other hand, the "#ScholarsStrike"
-which developed in support *called* itself a strike, but it is by no
+which developed in support of the players *called* itself a strike, but it is by no
 means clear that it in fact constituted a strike. To call a strike a
 boycott is ideological self-defense; to call teach-ins and public
 lectures a strike is co-opting the radicality of a strike in the name of
@@ -63,7 +63,7 @@ university". If it was either of those two things, it does not fit the
 definition of a strike.
 
 Last year, unionized academics in the UK went on a number of strikes
-that were absolutely intended to (and succeeded in) impede the
+that were absolutely intended to (and succeeding in) impede the
 business of the university to the extent of winning at least some
 acquiescence to the demands of workers. Workers weren't paid (because it
 was a strike) and had to rely on union strike funds. In Canada, some
