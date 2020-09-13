@@ -76,7 +76,7 @@ well-attended, it is important not to co-opt the language of a strike
 for something that isn't a strike. Not only does it allow the
 universities to claim EDI credit for something that absolutely did them
 no harm, but it weakens the strike claims for other workers. In other
-words, claiming calling something that isn't a strike a strike is the
+words, calling something that isn't a strike a strike is the
 flipside of calling a strike a boycott.
 
 Baharak Yousefi put it concisely when she tweeted, "If strike, then
