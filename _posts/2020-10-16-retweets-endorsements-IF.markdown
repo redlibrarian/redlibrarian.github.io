@@ -66,7 +66,9 @@ decide on principles of justice that are fair to all. In this way,
 real inequality and injustice are evacuated from Rawls' theory. In
 addition, any collective act or action is automatically undermined,
 because all possibility of coming together over shared experience is
-immediately suppressed.
+immediately suppressed. (This of course echoes the doomed, impossible
+imperative of capitalism to isolate workers even while work itself
+requires the increasing interaction of more and more workers).
 
  Now, it
 may be argued that Rawls is attempting an abstract, generalized,
