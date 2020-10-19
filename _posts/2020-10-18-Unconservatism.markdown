@@ -49,7 +49,7 @@ longer (if it ever was), conservatives are simply one more voice
 proposing social change. That they are *regressive* social changes does
 not make them any less transformational, therefore by definition
 unconservative. Furthermore, conservatives have adopted much of the language
-and theory of liberalism - rights, for example, which would have shocked
+and theory of liberalism - individual rights, for example, which would have shocked
 Burke - so in reality those we call conservatives today are really
 right-wing liberals. And given the opportunistic flexibility of
 liberalism, this leaves very little to choose between them. (It is for
