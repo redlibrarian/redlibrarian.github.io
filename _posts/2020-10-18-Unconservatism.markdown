@@ -86,12 +86,12 @@ article](https://www.bloomberg.com/opinion/articles/2020-10-17/if-biden-wins-pro
 conservatives might be opposed to social reform quaint if not outright
 ridiculous. Sunstein claims that should Biden win the US election,
 "many republicans might want to go back to basics and recover some of
-the foundations of conservative thought" such as Burke and Oakshott.
+the foundations of conservative thought" such as Burke and Oakeshott.
 According to Sunstein, these "basics" include opposition to social
 reform, and Sunstein adduces a book by the economist Albert Hirschman to
 inform us of the "rhetorical moves" conservatives employ to justify
 their opposition. The three moves in question are familiar ones,
-appearing in both Burke and Oakshott:
+appearing in both Burke and Oakeshott:
 
 >Perversity: "many seemingly appealing reforms are self-defeating; they
 >hurt the very people they are supposed to help".
