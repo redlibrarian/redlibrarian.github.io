@@ -69,7 +69,7 @@ democracy describes austerity conservatism to a t. Burke writes
 >and the laws are consecrated, is lest the temporary possessors and
 >life-renters in it, unmindful of what they have received from their
 >ancestors, or of what is due to their posterity, should act as if they
->were the entire masters; that they should not think it amongs their
+>were the entire masters; that they should not think it among their
 >rights to cut off the entail or commit waste on the inheritance, by
 >destroying at their pleasure the whole original fabric of their
 >society; hazarding to leave to those who come after them, a ruin
