@@ -26,7 +26,7 @@ holds such semiological weight in neoliberal society). Unfortunately,
 like so much else under neoliberalism (money, for example), the services
 themselves are often fictitious, existing nowhere but in the rhetorical
 figures of government spokespeople and corporate PR officers (and belied
-by the state and settler violence meted out to Black and Indigenous peoples on a daily
+by the state and settler violence meted out to Black and Indigenous people on a daily
 basis). And in any
 event, the COVID-19 crisis has exposed the fundamental inadequacy of the
 model: both in terms of government spending and in terms of the
