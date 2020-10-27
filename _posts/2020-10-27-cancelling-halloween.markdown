@@ -128,7 +128,7 @@ government.
 
 Might we need to rein in our desires? Definitely. Will our
 social forms need to shrink to, say, municipal or neighbourhood size?
-Likely. But such transformations only appear undesirable because we are
+Likely [1]. But such transformations only appear undesirable because we are
 inured to the capitalist logic of expansion and unfettered desire. I've
 been reading Ursula K. LeGuin lately, and it always seems as though - as
 with so much good science fiction - her work is an attempt to keep a
@@ -144,3 +144,8 @@ pragmatism of, say, John Gault or Elon Musk), Fredric Jameson
 that it is always possible - even good - to "witness the attempt to imagine capitalism by way of
 imagining the end of the world". Only right now we don't have to
 imagine.
+
+[1] There is a risk here of an eco-fascist interpretation of this which
+would argue for the sacrifice of disabled people or people in the
+capitalist periphery to make this work. To be clear: I'm not advocating
+that and I don't think it would be in some perverse sense "necessary".
