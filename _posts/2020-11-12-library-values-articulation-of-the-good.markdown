@@ -98,7 +98,7 @@ conflict.
 
 But what I want to argue here is that procedural liberalism (or liberal
 proceduralism) is *not* agnostic when it comes to a conception of the
-good. There *is* a good - or rather, a set of goods - that underpins proceduralism. But these "goods" are unmarked, do not have to be articulated, because they are already the default "goods" of racial, heteropatriarchal capitalism: these are the "goods" of private property, exploitation, racism, sexism, transimia, ableism, etc. Liberal proceduralism simply allows these unacknowledged, unarticulated "goods" to take precedence over any other under the guise of procedural neutrality.
+good. There *is* a good - or rather, a set of goods - that underpins proceduralism. But these "goods" are unmarked, do not have to be articulated, because they are already the default "goods" of racial, heteropatriarchal capitalism: these are the "goods" of private property, exploitation, racism, sexism, transmisia, ableism, etc. Liberal proceduralism simply allows these unacknowledged, unarticulated "goods" to take precedence over any other under the guise of procedural neutrality.
 
 Two recent Canadian political examples demonstrate this in spades.
 First, the unwillingness for Canadian provincial governments to shut
