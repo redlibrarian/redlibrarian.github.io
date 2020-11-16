@@ -83,7 +83,9 @@ by everyone else (and the social alienation that underwrites this
 position); think of the spread of conspiracy theories like
 flat-eartherism and QAnon, both of which rely on an intellectual freedom
 position that says *any idea you happen to hold is true simply by virtue
-of the fact that you hold it*.
+of the fact that you hold it*. The oppressive structures of capitalism
+rely on these ideas being taken at face value, taken for granted, common
+sense.
 
 How does education fit here? I think education relies on the ambiguity
 between IF as origin and as outcome, because education is a core element
