@@ -98,7 +98,7 @@ non-absolutist stance on IF (because absolutism would have to include IF
 as origin, as it does now).
 
 Similarly, for libraries to be "arsenals of a democratic culture", there
-has to be a way for ideas to change. Use of a library to lead to the
+has to be a way for ideas to change. Use of a library to produce the
 kind of well-educated public that ensures democratic health and
 longevity only works if your theory of IF can encompass intellectual
 change. IF as origin can't, because it prejudges every idea - no matter
