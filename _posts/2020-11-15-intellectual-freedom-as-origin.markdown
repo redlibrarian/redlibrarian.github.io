@@ -110,3 +110,12 @@ become more acute under COVID, as has just about everything else. This
 is a good opportunity to rethink the assumptions of intellectual freedom
 and the consequences such assumptions force upon us; the crowning irony
 of a profession supposedly committed to intellectual freedom.
+
+This contradiction at the heart of intellectual freedom - obscured by
+the reification of the social relations of intellectual activity and
+"freedom" itself - require resolution. Whatever we end up with, and this
+resolution would likely have another name than "intellectual freedom",
+has to take both the genealogy of its concepts and its obligations
+seriously. As always, however, this will in turn require a
+transformation of the social relations that produced the social
+contract, Kantian enlightenment, and library values themselves.
