@@ -16,7 +16,8 @@ Episode 24, April 20,
 2017](https://soundcloud.com/cjsrfm/shout-for-libraries-politics-in-the-library)
 
 *Presentations*
-
+* "Intellectual Theory and John Rawls' Theory of Justice", *Open Ideas*,
+  December 14, 2020.
 * ["Intellectual Freedom, Academic Freedom, and the Politics of
   Recognition"](https://redlibrarian.github.io/intellectual_academic_freedom/index.html#/),
   NEOS Miniconference, June 5, 2020.
