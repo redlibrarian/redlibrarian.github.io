@@ -1,0 +1,165 @@
+---
+layout: post
+title: Marxism and Intellectual Freedom
+date: 2018-07-12
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+NOTE: What follows are a few notes on one aspect of the current ALA
+debacle. [April
+Hathcock](https://aprilhathcock.wordpress.com/2018/07/11/my-bought-sense-or-ala-has-done-it-again/)
+and [Carrie
+Wade](http://seadoubleyew.com/rethinking-intellectual-freedom/) have
+both written more important and significant contributions, which you
+should read before (or instead of) mine.
+
+---
+
+>The realm of freedom really begins only where labour determined by
+>necessity and external expediency ends; it lies by its very nature
+>beyond the sphere of material production proper... The true realm of
+>freedom, the development of human powers as an end in itself, begins
+>beyond [the sphere of necessity], though it can only fourish with this
+>realm of necessity as its basis.
+
+Marx, *Capital*, Volume 3: 958-9.
+
+From a Marxist perspective, freedom is impossible as long as we live in
+an unfree world. But Marx's concept of "unfreedom" is more nuanced than
+at first appears. The world is unfree not only because of the existence
+of ICE, the monstrous separation of children and families in what has
+looked like a police state since *at least* Ferguson, the draconian
+race-based travel restrictions, or the active and passive censorship
+conducted by government agencies. It is unfree because the material
+foundation of society is built on coercion, exploitation, and
+oppression. The history of colonialism and imperialism, the effects of
+both on Indigenous people and transported slaves, are moments of
+primitive accumulation that allowed capitalism to become the
+self-reproducing socio-economic system we see today. But primitive
+accumulation, as Silvia Federici reminds us, is not in the past. Unpaid
+internships, zero-hour contracts, housework, etc, are all elements of a
+continuing process of uncompensated labour, not to mention slavery
+itself. Ta-Nehisi Coates' (and others') arguments in favour of
+reparations for slavery, like the "Wages for Housework" movement itself,
+is most significant in the way it brings this primitive accumulation out
+of the shadows where capitalism has consigned it.
+
+Apart from primitive accumulation we still live in a society of
+compelled labour. As workers we have no choice but to sell our
+labour-power in order to survive. In what sense can any kind of freedom,
+including intellectual freedom and freedom of expression, be said to
+exist? In no meaningful sense.
+
+Then there is the social aspect of intellectual freedom. Historical
+materialism argues that social institutions, norms, cultural
+expressions, "structures of feeling" and "forms of life" arise from the
+material - primarily economic - basis of society. As long as we live in
+what might be called "pre-post-scarcity" world, our thoughts, our
+speech, our expressions are in no sense "free", unencumbered,
+unconstrained.
+
+It seems to me that the peculiar attachment many American have to this
+idea of "freedom" stems from the concept's place in their national myth
+(and it is a myth). The freedom of the American republic ("We hold these
+truths to be self-evident, that all men are created equal...") is
+predicated on the *inequality* of some men and of most women. The
+"freedom" of the republic has always been limited; an unlimited,
+absolute freedom has only ever been *at best* a rhetorical move. In
+other parts of the world we are less likely to evoke "freedom" as any
+kind of absolute value or justification. There is also something here of
+the "return of the repressed", in that American freedom still today
+relies on less freedom for some, from slavery, through Jim Crow, to
+Ferguson, and beyond. "All men are created equal," as Orwell wrote, "but
+some are more equal than others".
+
+So it is hard to see the ALA's Office of Intellectual Freedom hiding
+behind this absolutist sense of intellectual freedom and freedom of
+speech without thinking that they must not be as sure of their position
+as they would like us to believe. Why was the wording of the amendment
+seemingly rushed through? Why do so many ALA councillors feel that they
+have been misled? The charitable view is that this was simply a
+mistake, an inability to "read the room", compounded by an inability to
+acknowledge the mistake and make it right. But it's also possible that
+the absolutist view of intellectual freedom *really* does hold sway
+within the OIF.
+
+This too, could be a mistake, but it could *also* be an expression of
+something altogether more troublesome: the weaponization of intellectual
+freedom to protect a status quo that the defenders of the amendment are
+perfectly comfortable with. I've written about the "aristocracy of
+labour", but I want, this time, to refer to a perhaps surprising source. 
+
+In ["Marxism and the Negro Problem"](https://anti-imperialism.org/2017/02/23/web-du-bois-marxism-and-the-negro-problem/)(1933), W.E.B. Du Bois writes about
+the distinction between the Black and White proletariat:
+
+>This black proletariat is not a part of the white proletariat. Black
+>and white work together in many cases, and influence each other's rates
+>of wages. They have similar complaints against capitalists, save that
+>the grievances of the Negro worker are more fundamental and
+>indefensible, ranging as they do, since the day of Karl Marx, from
+>chattel slavery, to the worst paid, serated, mobbed, and cheated labor
+>in any civilized land.
+
+But this division amongs the working class is what contributes to the
+worst condition of the Black proletariat:
+
+>The lowest and most fatal degree of its suffering comes not from the
+>capitalists but from fellow white laborers. It is white labor that
+>deprives the Negro of his right to vote, denies him education, denies
+>him affiliation with trade unions, expels him from decent houses and
+>neighbourhoods, and heaps upon him the insults of open color
+>discrimination.
+
+The amendment to the Bill of Rights interpretation is yet another
+example of this -  expanded, in this case, to *any* group that serves as
+the target for one hate group or another. But equal opportunity to be
+harassed, attacked, and discriminated against isn't "equality" or
+"freedom" either. 
+
+Du Bois' prognosis is not positive; he sees no change in the condition
+of the Black proletariat coming from socialism:
+
+>The reformist program of Socialism meets no response from the white
+>proletariat because it offers no escape to wealth and no effective bar
+>to black labor, and a mud-sill of black labor is essential to white
+>labor's standard of living.
+
+My own hope is that this division, too, is the product of economic
+necessity and exploitation, and that it may be overcome with the
+achievement of a new society. But the prospects are not heartening.
+
+To be a white librarian arguing for an intellectual freedom that only
+existed to serve white people; an intellectual freedom that never
+existed outside the ideology of the white ruling class; an intellectual
+freedom now weaponized for the benefit of those who would drive us
+*further away* from what little freedom has been won over the
+generations, is unconscionable.
+
+Give up the fig-leaf of "absolute freedom", look to other countries as
+examples of how hate speech can be handled *without* calling down
+unlimited government censorship, *listen* to what others are telling you
+about *their* experience as people who have never been able to assume or
+rely on freedom, intellectual or otherwise. Or, as someone else put it
+on the [OIF blog](https://www.oif.ala.org/oif/?p=14997), get out of the way. Because if "intellectual freedom"
+does not really exist, then what matters is to fight for something else.
+
+EDIT:
+
+[ALA OIF Responds to Library Bill of Rights Meeting Room Interpretation
+update](http://www.ala.org/news/press-releases/2018/07/ala-oif-responds-library-bill-rights-meeting-room-interpretation-update)
+
+[Letter to ALA
+OIF](https://katieanderson.camden.rutgers.edu/2018/07/12/letter-to-ala-oif/)
+by Katie Elson Anderson
+
+[The American Library Association: Neutrality, Civility, and What Comes
+Next](https://beerbrarian.blogspot.com/2018/07/the-american-library-association.html)
+
+UPDATE: I focused here on the question of race, as that seems to me the
+clearest historical example of the fallacy of "freedom" in a "free
+republic", but I should make it clear that the hate groups in question
+are not only racist, but sexist, anti-semitic,
+homophobic, and in general against anything that marks people as
+*different*.

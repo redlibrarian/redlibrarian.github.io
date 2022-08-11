@@ -1,0 +1,56 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jemoji
+  - jekyll-paginate
+  
+# Site settings
+title: "Sam Popowich"
+description: > # this means to ignore newlines until "email:"
+   Discovery and Web Services Librarian, University of Alberta
+
+email: spopowich@gmail.com
+#blog logo
+logo: "/assets/images/mando-1.jpg"
+# blog cover
+cover: "/assets/images/mega.jpg"
+
+name: 'Sam Popowich'
+author: 'Sam Popowich'
+author_image: "/assets/images/sam_popowich-cropped1.jpg"
+
+paginate:	5
+
+url: "http://spopowich.ca" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/redlibrarian
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/redlibrarian
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

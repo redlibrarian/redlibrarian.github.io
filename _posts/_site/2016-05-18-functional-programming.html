@@ -1,0 +1,174 @@
+<p>After making a workshop proposal to the <a href="http://accessconference.ca">Access
+Conference</a>, I began
+thinking of how I would approach explaining functional programming to
+programmers who “just don’t get it”. When I first looked into functional
+programming, it made my head hurt - it was a different way of
+approaching programs. It took me several years before I finally got what
+FP was, and how I could think about working with it. Since the Access proposal was rejected
+this year, I thought I would try to get some of these ideas down here.
+This blog post isn’t for experienced programmers, especially not for
+programmers who already know FP, or LISP, or
+<a href="https://clojure.org">Clojure</a>, etc, etc. It’s an
+attempt to give a sense to people who do some coding in a procedural or
+object-oriented language of how FP works, and some of the things you can
+do in an FP idiom.</p>
+
+<p><strong>Those Parentheses</strong></p>
+
+<p>First off, I want to tackle the question of the parentheses. Many people
+new to FP will find themselves faced with something like</p>
+
+<div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">word-count</span><span class="w"> </span><span class="p">[</span><span class="n">x</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="k">let</span><span class="w"> </span><span class="p">[</span><span class="n">words</span><span class="w"> </span><span class="p">(</span><span class="nf">vec</span><span class="w"> </span><span class="p">(</span><span class="nf">str/split</span><span class="w"> </span><span class="p">(</span><span class="nf">str/replace</span><span class="w"> </span><span class="p">(</span><span class="nf">str/lower-case</span><span class="w"> </span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="o">#</span><span class="s">"[\W]+"</span><span class="w"> </span><span class="s">" "</span><span class="p">)</span><span class="w"> </span><span class="o">#</span><span class="s">"\s+"</span><span class="p">))]</span><span class="w">
+      </span><span class="p">(</span><span class="nb">reduce</span><span class="w"> </span><span class="nb">conj</span><span class="w"> </span><span class="p">{}</span><span class="w"> </span><span class="p">(</span><span class="k">for</span><span class="w"> </span><span class="p">[</span><span class="n">y</span><span class="w"> </span><span class="n">words</span><span class="p">]</span><span class="w">
+      </span><span class="p">{</span><span class="n">y</span><span class="w"> </span><span class="p">(</span><span class="nb">count</span><span class="w"> </span><span class="p">(</span><span class="nb">filter</span><span class="w"> </span><span class="o">#</span><span class="p">{</span><span class="n">y</span><span class="p">}</span><span class="w"> </span><span class="n">words</span><span class="p">))}))))</span><span class="w">
+</span></code></pre></div></div>
+
+<p>and get really intimidated. What’s with all the parentheses? The first
+thing I should say is that you quickly get used to working with the
+parentheses. The second thing is that they aren’t conceptually
+difficult. In Ruby you might make a function call like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby</span>
+<span class="n">square</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>  <span class="c1"># 25</span>
+</code></pre></div></div>
+
+<p>See, there are two parentheses. They come after the function name, and
+surround the argument. In Clojure you would write:</p>
+
+<div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">;; Clojure</span><span class="w">
+</span><span class="p">(</span><span class="nf">square</span><span class="w"> </span><span class="mi">5</span><span class="p">)</span><span class="w"> </span><span class="c1">;; 25</span><span class="w">
+</span></code></pre></div></div>
+
+<p>There are still only two parentheses, only this time you put <em>both</em> the
+function name and the argument inside them. Let’s try chain two
+functions together:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby</span>
+<span class="n">divide_by_two</span><span class="p">(</span><span class="n">square</span><span class="p">(</span><span class="mi">5</span><span class="p">))</span> <span class="c1"># 12.5</span>
+</code></pre></div></div>
+
+<div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">;; Clojure</span><span class="w">
+</span><span class="p">(</span><span class="nf">divide_by_two</span><span class="w"> </span><span class="p">(</span><span class="nf">square</span><span class="w"> </span><span class="mi">5</span><span class="p">))</span><span class="w">  </span><span class="c1">;; 12.5</span><span class="w">
+</span></code></pre></div></div>
+
+<p>In both cases, you have four (two pairs of) parentheses, only in Ruby
+they come after the function name and surround the argument, while in
+Clojure, they surround both the function name and the argument. This can
+lead to some interesting behaviour. In both Ruby and Clojure, operators
+are functions. The “+” function takes two arguments, adds them together
+and returns a result. For the sake of argument, let’s rewrite that as a
+“plus” function in Ruby:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby</span>
+<span class="k">def</span> <span class="nf">plus</span><span class="p">(</span><span class="n">first</span><span class="p">,</span> <span class="n">second</span><span class="p">)</span>
+  <span class="n">first</span><span class="o">+</span><span class="n">second</span>
+<span class="k">end</span>
+
+<span class="n">plus</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span> <span class="c1"># 9</span>
+<span class="mi">5</span> <span class="o">+</span> <span class="mi">4</span> <span class="c1"># 9</span>
+</code></pre></div></div>
+
+<p>These two functions calls (“plus” and “+”) do exactly the same thing,
+but their syntax is different (with the “+” function, the function name
+goes <em>between</em> the two arguments). In Clojure, the two functions would have
+exactly the <em>same</em> syntax:</p>
+
+<div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">;; Clojure</span><span class="w">
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">plus</span><span class="w"> </span><span class="p">[</span><span class="nb">first</span><span class="w"> </span><span class="nb">second</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="nb">+</span><span class="w"> </span><span class="nb">first</span><span class="w"> </span><span class="nb">second</span><span class="p">))</span><span class="w">
+
+</span><span class="p">(</span><span class="nf">plus</span><span class="w"> </span><span class="mi">5</span><span class="w"> </span><span class="mi">4</span><span class="p">)</span><span class="w"> </span><span class="c1">;; 9</span><span class="w">
+</span><span class="p">(</span><span class="nb">+</span><span class="w"> </span><span class="mi">5</span><span class="w"> </span><span class="mi">4</span><span class="p">)</span><span class="w"> </span><span class="c1">;; 9</span><span class="w">
+</span></code></pre></div></div>
+
+<p>So what we see in Clojure is that a) everything that’s not a primitive
+is a function and b) functions always have the same syntax. This makes
+it really easy to understand what a program is doing and follow the
+chain of successful function calls. Which brings me to the last thing
+I’ll cover in this post - how does a functional program work?</p>
+
+<p><strong>How can you build a program out of functions?</strong></p>
+
+<p>In object-oriented programming, the terms <em>function</em> and <em>method</em> are
+often used interchangeably, especially among people who have come from,
+for example, a procedural language like C. A mathematical function maps one value to another through a mathematical transformation. In programming, a function can either return a value (like a mathematical function does) or it can have a side-effect (e.g. print to the screen or cause a change in program state) or both. A method is a function that is attached to an object in an object-oriented language. In FP, we try as far as possible to write <em>pure</em> functions, that is, functions which only return a value (i.e. that don’t have side-effects) and <em>always</em> return a value (even if the value is “nil”).</p>
+
+<p>So for example, our “square” function might be defined
+like this:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby</span>
+<span class="k">def</span> <span class="nf">square</span><span class="p">(</span><span class="n">num</span><span class="p">)</span>
+  <span class="n">num</span><span class="o">*</span><span class="n">num</span>
+<span class="k">end</span>
+
+<span class="n">square</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span>  <span class="c1"># 16</span>
+</code></pre></div></div>
+
+<div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">;; Clojure</span><span class="w">
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">square</span><span class="w"> </span><span class="p">[</span><span class="n">n</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="nb">*</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="n">n</span><span class="p">))</span><span class="w">
+
+</span><span class="p">(</span><span class="nf">square</span><span class="w"> </span><span class="mi">4</span><span class="p">)</span><span class="w"> </span><span class="c1">;; 16)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Given the number 4, the square function will <em>always</em> return the number
+16, because the function is defined only with reference to the values
+passed to it. In procedural and object-oriented languages, we’re allowed
+to write functions that might look outside themselves for some data, so
+for example we might write:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby</span>
+<span class="k">def</span> <span class="nf">check_weather_and_date</span><span class="p">(</span><span class="n">date</span><span class="p">)</span>
+  <span class="s2">"Today's date is </span><span class="si">#{</span><span class="n">date</span><span class="si">}</span><span class="s2"> and the temperature is </span><span class="si">#{</span><span class="vi">@temperature</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="vi">@temperature</span> <span class="o">=</span> <span class="s2">"30 Celsius"</span>
+<span class="n">check_weather_and_date</span><span class="p">(</span><span class="s2">"March 1"</span><span class="p">)</span> 
+  <span class="c1"># "Today's date is March 1 and the temperature is 30 Celsius"</span>
+
+<span class="vi">@temperature</span> <span class="o">=</span> <span class="s2">"-5 Celsius"</span>
+<span class="n">check_weather_and_date</span><span class="p">(</span><span class="s2">"March 1"</span><span class="p">)</span> 
+  <span class="c1"># "Today's date is March 1 and the temperature is -5 Celsius"</span>
+</code></pre></div></div>
+
+<p>We can see right away that, due to it’s reliance on the variable
+@temperature, we can pass the same argument (“March 1”) to the
+“check_weather_and_date” function and it will return different results.
+The @temperature variable is part of the program’s <em>state</em>, and because
+state can change independent of the function, it makes functions very
+difficult to test and understand.</p>
+
+<p>In functional programming, we try to avoid state as much as possible. We
+make sure that we write functions that return the same value every time,
+making them very easy to understand and test. And because we always
+write <em>functions</em> as opposed to <em>methods</em>, we know that our functions
+will always return values. This allows us to build smaller functions up
+into larger units through <em>composition</em>:</p>
+
+<div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">;; Clojure</span><span class="w">
+</span><span class="p">(</span><span class="k">def</span><span class="w"> </span><span class="n">author</span><span class="w"> </span><span class="s">"SAM"</span><span class="p">)</span><span class="w">
+</span><span class="p">(</span><span class="nb">reverse</span><span class="w"> </span><span class="p">(</span><span class="nf">clojure.string/lower-case</span><span class="w"> </span><span class="n">author</span><span class="w"> </span><span class="s">" WROTE THIS"</span><span class="p">)</span><span class="w"> 
+  </span><span class="c1">;; siht etorw mas</span><span class="w">
+</span></code></pre></div></div>
+
+<p>That’s a pretty trivial example, but here’s an example of a working
+rna-transcription function in one line, using only a composition of
+simple functions:</p>
+
+<div class="language-clojure highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">;; Clojure</span><span class="w">
+
+</span><span class="p">(</span><span class="k">defn</span><span class="w"> </span><span class="n">to-rna</span><span class="w"> </span><span class="p">[</span><span class="n">dna</span><span class="p">]</span><span class="w">
+  </span><span class="p">(</span><span class="nf">clojure.string/join</span><span class="w"> </span><span class="p">(</span><span class="nb">map</span><span class="w"> </span><span class="p">{</span><span class="sc">\G</span><span class="w"> </span><span class="sc">\C</span><span class="w"> </span><span class="sc">\C</span><span class="w"> </span><span class="sc">\G</span><span class="w"> </span><span class="sc">\A</span><span class="w"> </span><span class="sc">\U</span><span class="w"> </span><span class="sc">\T</span><span class="w"> </span><span class="sc">\A</span><span class="p">}</span><span class="w"> </span><span class="n">dna</span><span class="p">)))</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Through function composition, you can end up writing very sophisticated,
+powerful programs building up from very simple functions that you chain
+together, secure in the knowledge that all your functions a) don’t
+depend on state and b) always return a value. Because functions always
+return a value, you can chain functions together so that they take the
+return value of one function as the input of another.</p>
+
+<p>I’ve only scratched the surface here, and haven’t talked enough about
+side-effects and state, the lack of variables and variable assignment, or control
+structures and recursion, but hopefully this attempt to demystify
+functional programming will be useful.</p>

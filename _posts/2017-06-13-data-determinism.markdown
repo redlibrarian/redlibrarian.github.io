@@ -1,0 +1,146 @@
+---
+layout: post
+title: Data Determinism
+date: 2017-06-13
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+Yesterday morning, I was at the Canadian Open Data Summit (CODS), where a lot of
+the discussion was around the benefits of open data for governance. Beth
+Blauer from Johns Hopkins discussed her experience working in various
+muncipalities in developing data infrastructure to support governance
+decisions. This led to the following tweet from the Edmonton Mayor's
+Office:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en"
+dir="ltr">&quot;If we want to solve problems like healthcare or climate
+change, we need to do it from a basis of evidence. Open Data provides
+that&quot; <a
+href="https://twitter.com/hashtag/CODS17?src=hash">#CODS17</a> <a
+href="https://t.co/eVL5B517TW">pic.twitter.com/eVL5B517TW</a></p>&mdash;
+Edm Mayor Office (@YEGMayorOffice) <a
+href="https://twitter.com/YEGMayorOffice/status/874632896652259329">June
+13, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+The presumption here that open data *automatically* provides the
+evidence required to solve socio-political problems is, I think, too
+simplistic. It relies on a determinism just as dangerous as
+technological determinism, in that it removes the human relationships
+(i.e. the politics) from the questions of how the data is collected in
+the first place and by whom. How are data elements defined? What is
+considered *non-data*, with respect to the simplification of the
+empirical world to the data model? These are all political questions,
+implicated in dynamics of socio-economic power and domination. Ignoring
+the political questions around the creation of data makes it easier, I
+think, to ignore the political in the question of data use. Beth Blauer
+talked about "the intersection of personal and public data", essentially
+talking about behavioural control based on mining personal data (search
+history, calendars, medical records, school enrollment) with public data
+(neighbourhood information, school information, weather data, etc). The
+uncritical acceptance of the neutrality and truth of open data means
+that we trust this intersection in the same way that we trust the
+(filter-bubbled) Google results that are presented to us.
+
+This feeds in to some thoughts I've been having about technology as the
+mediator of the transition from the society of discipline (Foucault) to
+the society of control (Deleuze). We can see in the recent US and UK
+elections how false or spun data can manipulate (control) populations.
+One effect of removing a visible human presence from the mediating of
+technology is that a) data and algorithms become obscured and more
+likely to embody "algorithms of oppression" (Safiya Noble's term) and b)
+technology is seen as both neutral and true when the human
+determinations are made invisible. We like to think that a technological
+solution is unbiased, and data driven technologies are considered to be
+empirically sound and politically unmotivated. And data determinism -
+like technological determinism - makes data the active driver of
+behaviour and decision-making, by obscuring the political conditions of
+its creation.
+
+There's also a rhetorical component to this. As with classic statements
+of technological determinism (Ursula Franklin's for example), data
+determinism puts data as the subject in sentences. So when Dark Horse
+Analytics tweets:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en"
+dir="ltr">Discussing ways <a
+href="https://twitter.com/hashtag/OpenData?src=hash">#OpenData</a>
+transforms society through innovation at <a
+href="https://twitter.com/OpenDataEdm">@OpenDataEdm</a> this week
+&gt;&gt; <a href="https://t.co/gjxFGjlvhH">https://t.co/gjxFGjlvhH</a>
+<a href="https://twitter.com/hashtag/CODS17?src=hash">#CODS17</a> <a
+href="https://t.co/qcvn8v5yB1">pic.twitter.com/qcvn8v5yB1</a></p>&mdash;
+Darkhorse Analytics (@dhanalytics) <a
+href="https://twitter.com/dhanalytics/status/874267326203518977">June
+12, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+In this view, it is "Open Data" that "transforms" society, rather than the agency and
+decision making of people. Data, like technology, can be a tool in the
+transformation of society, but only people can do it. The rhetorical
+strategy of making data the *subject* of sentence, makes data seem like
+the subject of the acts themselves. From there, the invisibility of
+human, political dynamics plays out as above. This is a classic case of
+what Marxists call fetishism or reification, the method by which
+relations between people appear as relations between people and *things*
+(and often simply between things). In this way the social relations of
+capitalis, which are relations of domination, exploitation, and
+oppression, are hidden from view.
+
+===
+
+When I tweeted this, during Beth Blauer's talk:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en"
+dir="ltr">Also an implicit assumption that open data is both neutral and
+true... <a
+href="https://t.co/otPaTiRPM6">https://t.co/otPaTiRPM6</a></p>&mdash;
+redlibrarian (@redlibrarian) <a
+href="https://twitter.com/redlibrarian/status/874656425514893312">June
+13, 2017</a></blockquote>
+
+My friend [@chefquix](https://twitter.com/chefquix) asked what was wrong
+with data-driven decision-making. My argument is that if we presume data
+to be objective, we ignore the decision making that went into the
+construction and collection of the data in the first place. Just as we
+have begun to think critically about the social relationships and biases
+that go into algorithms[1] (something else engineers would like to think of
+as objective), we need to recognize that the same mechanisms of
+oppression and domination that are encoded in algorithms are encoded in
+the ways we design our data collection. "Data" is not a natural
+phenomenon, conveniently recorded, it is just as socially constructed as
+anything else, and represents a model, that is a simplification, of the
+empirical world that has been decided *a priori* (and often
+unconsciously).
+
+A perfect example of what I'm talking about came up at the afternoon
+panel on "Open Data and First Nations in an Era of Reconciliation",
+which included three women - Leona Star, Mindy Denny, and Bonnie Healy [2] - involved in indigenous health initatives in
+Manitoba, Alberta, and Nova Scotiat, and how assessment and measurement
+in this area relate to sovereignty in general and data sovereignty in
+particular. They argued persuasively about the ways in which cultural,
+racial, and socio-economic prejudices (in the strict sense of
+*judgements that come before* the collection of data) condition and
+constrain the ways in which data are collected and phenomena are
+described. In this case, the connection between the political decisions
+that go into *constructing* data and the very real social, economic, and
+political effects is starkly apparent. By presuming that "data" is an
+objective reflection of the empirical facts, we end up supporting and
+reinforcing the worldviews, biases and prejudices that create that world
+in the first place. It is in this sense that "data-driven" can easily
+elide into "data determinism", in which the data that we believe to be
+objective and value-neutral in fact props up the very world views we are
+hoping to investigate. What began as a spurious, rhetorical data
+determinism becomes a very real determinism, one which undermines many
+of the social justice initiatives that are a core part of the open data
+community.
+
+[1] I honestly can't wait for Safiya Noble's *Algorithms of Oppression*
+book, which looks like won't be out until next spring sometime.
+
+[2] Interestingly, their names don't appear in the conference programme
+or on the CODS website.

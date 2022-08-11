@@ -1,0 +1,117 @@
+---
+layout: post
+title: "One Big (Library) Union"
+date: 2017-01-17 15:23
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+Although I was never a member of the Canadian Library Association, I -
+along with many other people - had some criticisms of it. One my my main
+concerns was that while it [officially
+endorsed](http://cla.ca/wp-content/uploads/CLA_Intellectual_Freedom_Position_Stmt_27sept2015_ltrhd.pdf)
+intellectual freedom, its endorsement had - at least as far as I could
+see - no effect on the organizations that composed it. CAUT is active
+in the academic world making sure that universities kept up their ends
+of various bargains, and had a power to sanction that CLA never had, and
+likely never wanted. In the end CLA came to represent the library
+leadership class and the libraries that made it look good and supported
+it financially. It was, as was pointed out a few years ago, the Canadian
+*Library* Association, not the Canadian *Librarian* Association. It
+wasn't there for us.
+
+One of the strange things about simply being born is that we are born
+into a world that already exists. It is tempting to imagine that things
+have always been as they are, or that the reason something is a certain
+way is because of some objective reason. But the study of history tells
+us that this is rarely, if ever, the case. Things come to be out of
+struggle and argument and discourse, out of the passions, opinions,
+justifications, and reasoning of the people who happen to be around and
+involved. These people both self-select (people with interest and
+access) and are selected or deselected (I'm thinking here mostly of
+people who are *excluded* and *prevented* from participating). What this
+should say to us, though, is that nothing that exists today is sacred.
+We can change it all.
+
+In reading about this history, I came across an episode in the library
+history of Nova Scotia, around the time that CLA and Canadian
+librarianship were being formalized. Much of the struggle in those days
+was around forming a "community of interest" recognizable to the labour
+board (the same issue still pertains to non-unionized library workers
+today). In the end, the system we have now came into being: municipal
+unions for public librarians, academic associations (whether unions or
+not) for academic librarians, as well as some outliers. Typically,
+public librarians are included in a municipal union alongside other city
+workers, while academic librarians are sometimes lumped in with faculty,
+sometimes not. Now, it might be politic to argue a community of interest
+between academic librarians and faculty members, but it's a stretch to
+argue community of interest between public librarians and other city
+workers. (And we know from experience how fragile the collegiality
+between faculty and librarians can be). In addition, library workers who are not recognized as
+librarians are typically in other unions, lumped in with other sectors.
+The "community of interest" that applied - one assume - among library
+workers as a whole is splintered among various unions and associations
+(or are completely unprotected) and placed among other constituencies
+with other interests. I haven't mentioned the CLA in this framework
+because to my mind the CLA didn't really fit in here at all.
+
+As this model was coming into being, alternatives were proposed in
+various places. In 1973, a debate over the proper form of organization,
+especially as it pertained to the guarantee of academic or faculty
+status and tenure, took place in Nova Scotia, where various models of organization were proposed. One of the most interesting, to my mind, is the proposal of a province-wide union of librarians. Ruth Hafner, St Mary's
+University's chief librarian at the time, argued that
+
+>librarians would be better served by forming a provincial union
+>inclusive of all librarians with a form of librarian status akin to
+>academic status but focused on conditions of work and promotion specific
+>to the profession.
+
+Jacobs, Leona. "Academic Status for Canadian Academic Librarians: A
+Brief History", in *In Solidarity: Academic Librarian Labour Activism
+and Union Participation in Canada*, edited by Jennifer Dekker and Mary
+Kandiuk, Library Juice Press, 2015, p. 27.
+
+This proposal was in contrast to the idea that academic librarians
+should form a community of interest within the academic community
+(rather than the librarianship) community, in which case wages,
+evaluation/assessment, and promotion would fall under academic norms and
+procedures - essentially, the system we have today. (Well, sort of -
+it's become clear to me how vastly different every university is in
+terms of the policies and procedures governing their librarians).
+
+What a fascinating idea. What if, instead of the current splintering of
+the community of interests, we formed instead a nationwide union of
+library workers, one which was able to take over and decide for itself
+how library workers ought to be governed, one which had the teeth to
+sanction any interference in the intellectual freedom of library
+workers, one which could call a nationwide strike, rather than the
+isolated labour actions library workers currently have to fight?
+
+Now that the CLA is no more and has been replaced by the Canadian
+Federation of Library Associations, the ambiguity of the CLA's position
+has been removed: the Federation is made up of associations, not
+librarians. This leaves the ground free for a different organization -
+one with some teeth - that represent the interests of library workers.
+(And let me be clear, this would not be a "librarian" union, this would
+be a union for all library workers).
+
+This idea initially occurred to me in the context of intellectual
+freedom, and the situation in which public librarians find themselves
+unable to discuss issues of importance to them, or issues that the whole
+field is discussing, because they don't possess "academic freedom" (this
+applies too, of course, to library technicians and other
+"non-professional" library workers). A nationwide library union could
+enforce an intellectual freedom clause in all library contracts in the
+same way that a faculty association (and e.g. CAUT) can ensure academic
+freedom in cases where it has been abrogated.
+
+I have no idea what this One Big Union might look like, but the
+Industrial Workers of the World might be a good model to investigate. I
+also don't know what would be required in order to implement it. But I
+do know, from reading library history, that these things - as
+contentious as they may be - can be implemented, can be modified after
+they are implemented, but the first step is to start the conversation.
+
+I'm also aware that there will be flaws, constraints, and objections to
+this idea. But it's worth raising, I think, for all that.

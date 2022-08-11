@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Introduction"
+date:   2015-07-08 11:23
+categories: introduction
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+I am the Discovery Systems Librarian at University of Alberta, prior to which I  was the Emerging Technologies Librarian at the University of Ottawa. At both universities, I have been responsible for implementing library discovery systems and other technology services. I have have experience programming in C, PHP, JavaScript, HTML/CSS, XML, Java, and Ruby, and I am an avid mandolin player.

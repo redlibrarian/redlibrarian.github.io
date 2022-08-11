@@ -1,0 +1,121 @@
+---
+layout: post
+title: Dialectics and Social Responsibility
+date: 2019-10-15
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+Given my critical position with respect to what I consider the
+maximalist view of Intellectual Freedom, I have lately been trying to
+determine what *positive* sense of Intellectual Freedom can be salvaged.
+I have remarked elsewhere on this blog that I think "intellectual
+freedom" is a misnomer, since it is based on a fundamentally spurious,
+liberal-bourgeois, conception of individualistic freedom. But it is
+*the* term in librarianship, and I worry that using a more appropriate
+expression will leave me open to charges that I don't uphold (something
+called) intellectual freedom at all. It should be clear at this juncture
+that I dispute the common, hegemonic view of IF in librarianship: an IF
+that seeks to be "neutral" and sees no connection between IF and the
+maintenance and reproduction of oppressive social structures. But if I
+don't support that kind of IF, what kind of IF do I support?
+
+In the first place, I think it is important to begin with the following
+proposition: that intellectual freedom and social responsibility are not
+two separate things, but a single thing. The fact that LIS considers
+them two separate phenomena can be seen in, for example, the independent
+existence of the ALA's Office of Intellectual Freedom and the Social
+Responsibility Round Table. The maximalist IF position takes the view
+that its sole responsibility is to IF itself, and that social
+responsibility must make its own way in the world. The two phenomena are
+antagonistic, I suppose, in the sense of the American legal system,
+where two lawyers each making their own best arguments are supposed to
+lead to justice. However, the truth is that social responsibility,
+considered as something distinct from intellectual freedom, has always
+been something of a poor relation. Dominant positions on intellectual
+freedom overwhelm social responsibility positions, as we have seen
+recently in (unfortunately) any number of examples from Canadian public
+libraries.
+
+This hard distinction between IF and social responsibilty makes sense
+from a liberal-bourgeois standpoint because [as I have written
+before](https://redlibrarian.github.io/article/2019/06/20/predicate-and-dialectical-logic.html)
+the kind of logic of distinct, disconnected elements is a cornerstone of
+the bourgeois worldview.
+
+>Whenever we see something proposed as a binary opposition (either/or), we should suspect that those things are more related than is being let on. Whenever we see something being looked at in isolation, we should suspect that the larger context will be instructive.
+
+> Predicate logic is comforting and comfortable. But the world, and not just the social world, but the natural world as well, is not unambiguous and it is unstable. It is constantly changing, adapting, reconciling contradictions and producing new contradictions. Hiding from that ambiguity and instability behind predicate logic may be comforting, but it has particular social and political effects, and these effects are generally pernicious precisely because they are not in line with the way the social or the material world actually works.
+
+By thinking of IF and SR as distinct and different, rather than part of
+a single, larger, total system (which we might call "social justice"),
+libraries end up reproducing not only the values and structure of
+capitalism, but it obscures the real interrelationships of the social
+world of which libraries are a part. In this way they maintain and
+reproduce the very logic by which capitalism structures the social
+world, making it that much more difficult to change the world itself. By
+insisting that intellectual freedom and social responsibility are not
+two things, but one thing, we might go a long way towards understanding
+a kind of IF appropriate to the real social relations of capitalist
+society. And if we can do that, we might stand a chance of changing
+those relations, something that is impossible by treating intellectual
+freedom as an isolated, self-sufficient, well-defined set of principles
+and values, repressing the claims of social responsibility by drawing a
+neat dividing line between the two positions.
+
+So, what does this larger whole consist of? I suspect it has to take the
+principles of ethics and justice seriously, since it contains within it
+the social responsibility position. But it also has to take the
+principles of education, curiosity, transparency, and access seriously
+because it includes intellectual freedom. What it *cannot* include
+(again, because of social responsibility) is any claim to a spurious
+neutrality. It *must* recognize that while there are more or less
+conscious, more or less explicit commitments, there is no objective
+place from which to stand in order to uphold either IF or social
+responsibility. Libraries and library workers are part of the social
+world, they are in it, they are *of* it, and the material forces and
+relations of the world determine our roles, positions, and perspectives
+on that world. This larger social justice position must recognize, then,
+that, in Engels' words, "[freedom](https://redlibrarian.github.io/article/2019/09/18/necessity-and-intellectual-freedom.html) is the recognition of [necessity](https://redlibrarian.github.io/article/2019/09/22/spinoza-necessity-and-compulsion.html)". There
+is no freedom - intellectual or otherwise - that is divorced from
+necessity. People make their own history, Marx wrote, but they do not
+make it just as they choose.
+
+I suspect, though I'm not necessarily commited to this point, that such
+a larger totality would owe its ethical commitments not to deontology or
+coonsequentalism, but to [virtue
+ethics](https://redlibrarian.github.io/article/2018/09/11/intellectual-freedom-value-ethics.html).
+
+In practical terms, this would mean making policy decisions based on the
+embeddedness of libraries in particular communities, recognizing that
+libraries and library workers are not separate from, independent of
+their communities (predicate logic again), but are of the very same
+fabrice. In this way, the library would be in a position (finally) to
+recognize harm and injury done to its community and take a stand
+accordingly. It is one thing for a community-member to look for
+information on feminism and transgender rights, and libraries have
+techniques and strategies to weed out the harmful, non-authoritative,
+and irrelevant; because by relying on those strategies access to that information we can mitigate the 
+harm. It is another thing entirely to turn library space over to
+someone who means direct harm to members of the community. This can only
+be justified in the name of an isolated intellectual freedom that has
+no thought for social responsibility. From the higher, integreated
+perspective of social justice, such harm, such injury can never be
+allowed to stand.
+
+So I suppose in the end, I don't support intellectual freedom as it is
+currently formulated. Instead, I reject the atomistic predicate logic of IF that suppresses relationality, and put my weight behind dialectical
+reconciliation of intellectual freedom and social responsibility that I
+think of in terms of social justice. Issues that keep arising in the
+library world that *appear to be* conflicts between IF and social
+justice are, in reality, the contradictions that arise from our partial,
+incomplete, isolated perspective on each of them, ultimately derived
+from material inequalities and oppression. If we as a profession
+want to move past these periodic crises of IF and SR, we have to
+recognize their fundamental interrelatedness, the value of a dialectical
+and totalizing perspective on these issues. Only in this way can we work
+towards justice within our communities, rather than upholding a
+mystified set of relationships whose very existence leads to injury and
+harm.
+

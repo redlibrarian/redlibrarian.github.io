@@ -1,0 +1,124 @@
+---
+layout: post
+title: The Good Place and methodological individualism
+date: 2018-10-29
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+*NOTE: This post contains some details about a recent episode of The
+Good Place that could be construed as a spoiler.*
+
+In season three, episode four of *The Good Place*, Simone tries to help
+Eleanor understand what's wrong with her by explaining that she never
+really got past the "me vs. us" problem ("The other possible medical
+diagnosis is that you're just a bit of a dick.") Simone explains the "me
+vs. us" problem as follows:
+
+>As humans evolved the first big problem we had to overcome was me vs. us - learning to sacrifice a little individual freedom for the benefit of a group. Like sharing food and resources so we don’t starve or get eaten by tigers - things like that.
+
+This nicely illustrates the liberal assumption about how human society
+formed, i.e. by *individuals* coming together for their own mutual
+benefit. This assumption is known as "methodological individualism", the
+idea that, as Margaret Thatcher put it, "there's no such thing as
+society, there are individual men and women". Methodological
+individualism is an assumption in that it's a starting point that is not
+based on empirical experience, but on a particular theory of what
+constitutes society (social ontology) that is pre-empirical. Unless
+you're a dyed-in-the-wool pure empiricist, this isn't really a problem,
+as long as the assumptions of social ontology are recognized as exactly
+that: assumptions. 
+
+The social ontology by which individuals come together to form society
+is a hallmark of liberalism. Not only did the classical liberal
+political economists like Adam Smith subscribe to it (with his view of
+human nature as a propensity for individuals to "truck, barter, and
+exchange"), but even socialists like Proudhon subscribed to it. In his
+1847 response to Proudhon's *Philosophy of Poverty*, Marx argued that
+Proudhon's assumption that individual producers freely come together to
+exchange the products of their labour was incorrect. Proudhon writes
+that
+
+>Since a very large number of things I need occur in nature only in
+>moderate quantities, or even not at all, I am forced to assist in the
+>production of what I lack. And as I cannot set my hand to so many
+>things, I shall <strong>propose</strong> to other men, my collaborators
+>in various functions, to cede to me a part of their products in
+><strong>exchange</strong> for mine.
+
+This is a statement that places the origin of an exchange economy
+precisely in the "me vs. us" context of *The Good Place*. At this point, Marx
+criticized Proudhon's view from the perspective of class struggle.
+Rather than individuals, coming together for mutual benefit, Marx
+writes, "the very moment civilisation begins, production begins to be
+founded on the antagonism of orders, estates, classes, and finally on
+the antagonism of accumulated labour and actual labour. No antagonism,
+no progress." (Marx, <strong>The Poverty of Philosophy</strong>, 53).
+Rather than an individualist assumption, Marx is making a collectivist
+assumption, that the "social ontology" is composed mainly of classes
+interacting with each other.
+
+In the 1857 "Introduction", however, Marx makes a different argument.
+Against the "individual and isolated hunter and fisherman" of Adam Smith
+and David Ricardo, and against the "naturally independent, autonomous
+subjects" brought together by social contract (as Rousseau saw things),
+Marx argues that, rather than the starting point of a historical
+process, the individual is rather a result of particular historical
+(economic, social, political) dynamics. "The more deeply we go back into
+history," he writes, "the more does the individual, and hence also the
+producing individual, appear as dependent, as belonging to a greater
+whole... Only in the eighteenth century, in 'civil society', do the
+various forms of social connectedness confront the individual as a mere
+means towards his private purposes, an external necessity"
+(*Grundrisse*, p. 84). The starting point is *society*, and exchange
+between individuals came afterwards.
+
+Indeed, this is one of the arguments that David Graeber makes in his
+*Debt: The First 5,000 Years*. Against the view of many mainstream economists, that money arose out of the
+need to make barter (i.e. direct exchange) more efficient, Graeber
+argues that pre-capitalist, communal societies had no need of money
+because they did not barter; indeed, there was no exchange within the
+community at all. Graeber writes that anthropologists have found no
+evidence of a society with barter as its main or exclusive form of
+exchange; barter tended to be an external exchange, between communities.
+Within communities, distribution of produced goods were handled without
+exchange.
+
+There are two conclusions to be drawn here. The first is simply a
+methodological one. It is important to bear in mind one's epistemological
+and ontological assumptions. It is easy to reassert the hegemonic
+(liberal) assumption rather than questioning it. Lately I've been
+digging into Roy Bhaskar's "critical realism", a methodology which seeks
+to overcome the limitations of both positivism and hermeneutics, the
+contradiction between agency and structure. As
+Andrew Collier writes in his introduction to Bhaskar's work, *Critical
+Realism*,
+
+>Societies (composed as they are of relations between people, and
+>ramifications of thos relations) can only exist as the outcome of human
+>agency. If we were not reproducing/transforming social relations all
+>the time, they would not exist: that is the truth of 'humanism'. But
+>all human action presupposes the prexistence of society and makes no
+>sense without it. Its social context determines what actions are
+>possible and what their outcomes will be. That is the truth of
+>structuralism... [however] the total social process is... the interaction of two distinct kinds of entity, societies and people." (145)
+
+Burnham et. al., in *Research Methods in Politics* argue that critical
+realists "are united in their rejection of pure forms of individualism
+and collectivism, pointing instead to notions of ontological depth,
+stratification and emergent group properties" (35), which aligns
+critical realism, I think, with the case Andreas Malm makes for
+historical materialism in *The Progress of this Storm*.
+
+The wider, and more important, point, I think, in insisting on the
+original communal society over the primacy of the individual, is that it
+opens up whole vistas of choices and alternatives to the
+individualistic, economistic status quo we are constantly being told is
+either natural or optimal (or both), but which has not only brought us
+to the brink of climate catastrophe, but has opened the door (yet again)
+to criminal regimes which look to murder anyone that does not fit their
+definition of a human being, all while relying on "exchange between
+individuals" to line their pockets (and the pockets, as [CBC has
+demonstrated](https://www.cbc.ca/news/world/brazil-canada-trade-bolsonaro-politics-foreign-policy-1.4878379), of their foreign investors). Rejecting methodological individualism, at least until the historical and anthropological evidence is conclusive, should help us open our minds to new possibilities, to imagine worlds different than this one. But as long as cultural artefacts like *The Good Place* continue to offer up individualism as gospel, those of us who take a different view have a hard road ahead.
+

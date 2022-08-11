@@ -1,0 +1,102 @@
+---
+layout: post
+title: "Review: Endnotes 1"
+date: 2017-12-13
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+Endnotes, *Endnotes 1: Preliminary Materials for a Balance Sheet of the Twentieth
+Century* (Endnotes, October 2008).
+
+According to their [website](https://endnotes.org.uk/about), Endnotes is
+a discussion group based in Germany, the UK, and the US "primarily
+oriented towards conceptualising the conditions of possibility of a
+communist overcoming of the capitalist mode of producction... starting
+from present conditions". They situate themselves within the current of
+"communisation theory", which came out of the ultra-left currents after
+1968\. Since 2008, Endnotes has published four "issues" (really
+      monographs) of their journal.
+
+Left-communism has, at least since Lenin's [*Left-Wing Communism, an
+Infantile
+Disorder*](https://www.marxists.org/archive/lenin/works/1920/lwc/)
+tended to be overshadowed either by authoritarian forms of Marxism (e.g.
+Marxism-Leninism, Maoism) or by those forms of Marxism interested more
+in cultural studies (e.g. the Frankfurt School or the New Left). Still,
+there has always been a strong current of theoretical work on the more
+"anarchist" side of Marxist/communist theory, including the work of
+Tiqqun, The Invisible Committee, and some strains of
+workerism/autonomism. The approaches of these groups can tend towards
+the kind of movemenism Moufawad-Paul critiques in *The Communist
+Necessity*, but I think that there's plenty to engage with here.
+
+*Endnotes 1* isn't really written by the Endnotes collective, as issues
+2 - 4 are. Other than a brief introduction and conclusion, the text is
+composed of articles in a debate between Gilles Dauv&eacute; and the
+group Th&eacute;orie Communiste, which took place between 1998 and
+approximately 2008, over the categorization of and reasons for "failed"
+revolutions (1921 in Russia, 1923 in Germany, 1936 in Spain, and 1968 in
+France and Italy). For Dauv&eacute;, these revolutions failed because they
+did not go far enough - enough of the capitalist relations remained for
+the counter-revolution to take hold. In the long essay which opens the
+volume, "When Insurrections Die", Dauv&eacute; analyzes these
+revolutionary moments and explains how, in his view, the opportunity for
+a successful revolution was lost in each case.
+
+Th&eacute;orie Communiste takes issue with Dauv&eacute; in three main
+areas. In the first place, they argue that he posits an essential nature of the proletariat,
+of communism, and of the revolution against which each concrete instance
+can be measured (and found wanting). This is a trans- or a- historical
+view of these categories that TC rejects: each revolution is what it is
+at its particular moment in history, and nothing else. Secondly, TC
+argues that, since 1968, changes in the relations of production (i.e.
+from Fordism to the mass-worker), produced changes in proletarian
+consciousness, and therefore of the nature of the revolution itself.
+This is marked particularly by the transition from seizing the means of
+production, to "the refusal of work" on the part of workers in revolt.
+TC argues that this period also marks a change in the conception of
+proletarian revolution, moving from a "programmatism" (e.g. the Gotha
+Programme, or the Erfurt Programme) towards a conception of revolution
+less focused on the factory and the industrial worker, and more on the
+social-factory, and proletarian society more broadly.
+
+Thirdly, and I think most intriguingly, TC identifies the foothold of
+the counter-revolution in the persistence of the commodity form itself.
+As long as the commodity (the product produced for sale) remains, its
+dual nature (use-value and exchange-value) will engender the persistence
+of *all* of the capitalist relations of production. It is the
+reproduction of the proletariat as proletariat, that is *as* a class
+within capitalism, that communisation seeks to abolish. Whereas the
+seizure of the means of production sees the *victory* of the proletariat
+over other classes - and for Maoists, it is important to recognize the
+continuation of class-struggle under socialism or the dictatorship of
+the proletariat - communisation means the abolition of the proletariat
+as a class (since the proletariat can only be defined as a relationship
+within capitalism). This is reminiscent in some ways of the distinction
+drawn by Lenin in *State and Revolution* between the socialist State,
+seized in order to wither away, and the immediate smashing of the State
+as a necessary element of the communist revolution.
+
+Communism, then, for communisation theorists, is not a posited future
+state, but a process to be adopted *now*. It is this that brings them
+closest, I think, to the anarchists, and which can lead to movementism
+rather than revolutionary struggle. But the idea that the seeds of the
+counter-revolution are necessarily present in the structure of the
+commodity is, I think, an important one.
+
+I read this in a white heat. I've always felt suspicious of
+authoritarian Marxism, though I have to admit that I don't think there's
+necessarily a non-authoritarian alternative. Rationally, I have to come
+down on the side of the Leninists or the Maoists, but temperamentally I
+am closer, I think, to the anarcho-communism of Endnotes. For me, the
+revolution cannot simply be the dictatorship of the proletariat - all
+the capitalist relations intact but with the workers as the ruling class; it must be the complete and fundamental
+transformation of society down to its most fundamental element, the
+commodity itself. Only by abolishing all capitalist relations up to and including the
+commodity-form can we hope to eradicate the counter-revolution and the
+resurgence of capitalism. Capitalism is good at co-opting radical
+movements, and being aware of the tools it uses to that end is an
+important theoretical contribution. This issue of *Endnotes* sets the
+stage for the elaboration of Endnotes' own position in *Endnotes 2*.

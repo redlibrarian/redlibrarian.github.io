@@ -1,0 +1,121 @@
+---
+layout: post
+title: Empiricism and Interpretation in AI
+date: 2019-06-29
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+Next week I'm presenting a workshop for Code4Lib Edmonton, [An
+Introduction to Machine Learning using
+Ruby](https://redlibrarian.github.io/rubyml/index.html), and I made sure
+to include a section on AI ethics, which is going to combine some of the
+lessons from Safiya Noble's
+[work](https://nyupress.org/9781479837243/algorithms-of-oppression/), as
+well as some of the criticisms of analytics and tracking in academic
+libraries. However, because I've currently been reading around in the
+philosophy of science - particularly Roy Bhaskar's critical realism - I
+wanted to include something around the ways in which empiricism
+(specifically positivism) informs some of the ethical mistakes common to
+AI (and technology more generally).
+
+In his first two books, *A Realist Theory of Science* (1975) and *The
+Possibility of Naturalism* (1979), Bhaskar critiques dominant
+positivist conceptions of science, which he believes are inadequate to
+support the legitimacy of scientific knowledge (i.e, unable to give us
+confidence in scientific knowledge itself). Classical and contemporary
+empiricism is based - often implicitly - on a concept of causality
+derived from Hume, in which causality is expressed and proved when a
+cause and an effect always occur together and in the same sequence.
+Bhaskar takes issue with this idea, first because outside the "closed
+systems" of controlled experiments, the relationship between cause and
+effect is not as clear cut as Humean causality assumes. Other variables
+can modify the effect, or the effect could not take place at all.
+According to Humean causality, if the effect doesn't *always* take
+place, then no causal law obtains. Bhaskar argues, however, that causal
+laws are really generative mechanisms that only *tend* to have certain
+effects in the real world (i.e they are tendencies rather than
+invariances), subject to countervailing forces.
+
+The real problem with empiricism, especially in its positivist mode, is
+the following: *because* only visible (measurable) causes and effects
+are recognized as "facts", empiricism is unable to account for
+generative mechanisms or tendencies which do not *always* produce
+regular effects. In other words, positivism seeks to extrapolate from the
+closed conditions of controlled experiment to the real workings of
+nature, which it is unable to do because natural causes do not always
+produce regular effects (they are tendencies rather than invariances, as
+above).
+
+In the natural sciences, this leads to scientists thinking that they
+bring nothing with them to their scientific work: no culture, no
+metaphors, no prior explanations, no theory. In reality, of course, even
+scientists know this isn't true (or else scientific teaching and
+communication would be impossible). Positivism makes it difficult for
+scientists to see their own practice as socially grounded, even socially
+constructed. (Note that for Bhaskar, the social foundations of science
+are not an obstacle to the legitimacy of scientific knowledge, but he
+argues that critical realism, not empiricism, is necessary to ground it).
+
+In the social sciences, positivism means that "generative mechanisms"
+like ideology, class, race, gender can't be understood as operative
+because, like natural scientists, positivist social scientists don't see
+themselves as bringing theories or values with them to their scientific
+work (therefore, ideology, race, class, and gender are inoperative in
+"value free" social science). In addition, empiricism - because it arose
+within the context of bourgeois liberal philosophy - also includes an
+individualistic sociology, that is a presumption that individuals are
+ontologically primary which precludes *collective* mechanisms like
+ideology, race, class, gender, etc, from being recognized. As isolated
+invididuals, the objects of social science - people - *cannot*
+coherently be affected by any structures of gender, race, class, etc.
+
+What does all this have to do with Artificial Intelligence? In my view,
+we are getting better at explaining *that* technologies (especially
+algorithmic technologies) [encode values, biases, theories, cultures,
+etc.](https://www.vox.com/science-and-health/2019/1/23/18194717/alexandria-ocasio-cortez-ai-bias) (i.e. all the things positivism excludes), though there are still
+many people who believe in the "neutrality" of science and technology.
+We still have a long way to go to convince people *how* this happens -
+though a lot of the great work done by Safiya Noble, Marie Hicks, Cathy
+O'Neil, and Sarah Roberts is painstakingly exposing that. One thing I
+want to focus on here is the way empirical assumptions play into the
+design of machine learning systems.
+
+By *a priori* excluding explanatory causes "from outside" the closed
+system of the program or data set, programmers are able see their
+systems and its data as closed, isolated systems. Similarly to the way
+methodological individualism[^1] sees people, every data point, and every algorithmic decision-point is seen as as self-contained, unrelated (except perhaps in a schematic sense) from all the others. So, to take Safiya Noble's example of a Google image search, a search for "doctor" brings up images of almost exclusively white people, while "thug" brings up images of exclusively young Black men. Empiricism/positivism sees each image in isolation - no commonality is allowed to disturb the "individualism" of each data point. So it becomes either an unexplainable accident, or worse a reflection of social "truth" that all doctors are white and all thugs are Black. Empiricism/positivism is unable to understand how its own assumptions and methods contibute to building up and reinforcing these particular (erroneous and dangerous) views of the world. 
+
+Similarly, when programmers seek to build a system, we are taught to
+build the system based on the specs of the data we have. Do not
+prematurely optimize for data that may or may not become available in
+the future. This is pure positivism: only the data you currently have
+count as "facts".  If the current set, say a gym membership list, includes only
+doctors who are men, then ontologically the system will only recognize
+"male doctors". This has huge implications not only for connectionist AI
+systems (which by definition build their ontologies based on what is
+"present" in their training data) but for semantic systems as well. In
+practice, the limit to "anyone can say anything about any subject" is a
+positivist preference for present facts.
+
+What is missing in the positivist conception of data-as-presence is the
+idea of data (and individual data points) as semiotic, as holding
+meaning. Positivism disallows "meaning" (like values) from the outset
+because they do not fit its ontology or its epistemology. Meanings come
+"from outside" or "from before", they are not present. In order to
+challenge the presumptions of positivism, we have to understand and
+recognize *meaning* in code, data, in social relationships, etc. In
+other words, we have to learn to *interpret* code and data, to
+understand their meaning beyond their immediate, value-free significance
+as code or data in isolation.
+
+I'm not philosopher enough to get into the metaphysics of
+presence/absence here, but suffice it to say that the implicit
+assumptions of empiricist/positivist science and social science are one
+of the vectors by which biases and values get encoded in technological
+systems. In the library world, we would do well to become more familiar
+with alternative philosophies of science as an aid to understanding how
+these systems get designed and operate.
+
+[^1]: "Methodological individualism is the doctrine that facts about societies, and social phenomena generally, are to be explained solely in terms of facts about individuals." Bhaskar, *Possibility of Naturalism*, 34.

@@ -1,0 +1,168 @@
+---
+layout: post
+title: "'Who Signs the Paychecks': On Collegial Governance"
+date: 2016-05-31
+categories: introduction
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+When I was young, I attended a meeting of the Winnipeg IWW, in the
+course of which a young bike courier asked about union certification for
+his “cooperative”. An older man took issue with the young man’s
+characterization of the organization as a cooperative, demanding to know
+who owned the equipment, whose name was on the lease - “who signs the
+paychecks?”. The lesson here was to dig below the comforting phrases and
+descriptors to the economic (and therefore power) relations that
+actually pertained. 
+
+As part of the Social Studies and Humanities Congress being held in
+Calgary, my colleague [Sean Luyk](https://twitter.com/seanluyk) tweeted out the [CAPAL “Statement on
+Collegial
+Governance”](http://capalibrarians.org/wp/wp-content/uploads/2016/03/StatementOnCollegialGovernance2015AGM.pdf) dated April 2015 (and approved at the CAPAL AGM on
+June 1). I’m somewhat interested in the question of collegial governance
+because it’s something we talk a lot about but rarely, if ever, see in
+action. Sean and Eva Revitt’s talk at University of Alberta earlier this
+year on [their work studying library councils](http://www.cjal.ca/index.php/capal/article/view/24307) was very
+interesting, especially because it underscored the fact that whatever
+committees librarians belong to within U of A, we certainly have nothing
+approaching collegial governance (though we do have a library council).
+So I glanced briefly at the CAPAL statement, after which the following
+exchange took place:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en"
+dir="ltr"><a href="https://twitter.com/redlibrarian">@redlibrarian</a> I
+agree with you, it&#39;s best read as an aspirational
+document</p>&mdash; Sean Luyk (@SeanLuyk) <a
+href="https://twitter.com/SeanLuyk/status/737765630535827456">May 31,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+Now, “aspirational” to me indicates that it describes a state of affairs
+to be worked toward (to aspire to), but if this is the case, surely an
+aspirational document must take care to accurately describe the
+*current*
+state of affairs. If it does not - if, as Sean further states, the
+audience of the document is librarians in bargaining positions and
+senior administration - then it may actually *harm* the librarians’
+bargaining position to mischaracterize the situation, playing into the
+hands of senior administration who, let’s face it, are unlikely to read
+such a document, let alone take it seriously.
+
+>CAPAL/ACBAP endorses professional academic librarians as equal
+>participants in the governance structures of academic institutions and
+>recognizes the core role of academic librarians in the teaching and the
+>advancement of research and knowledge in the mission of educational
+>institutions.
+
+This opening statement does not define who the participants are that we
+would like librarians to be equal to. Faculty? That’s not a homogeneous
+group within an institution. Administration? The University President?
+The vice-presidents and associate vice-presidents? Once we begin to ask
+“equal to whom”, we are forced to recognize that “equality” is not a
+term that can be used to describe the hierarchy of a university. And
+once “equality” is thrown in doubt, then “endorsing” a view of
+librarians as “equal participants” becomes not only too vague to mean
+anything, it in fact covers up the unequal, hierarchical structure of
+the organization. Hiding the fact of an unequal employer – worker
+relationship behind an illusion of equality is dangerous at the best of
+times, but especially so in a period of collective bargaining. One of
+the ways in which capitalism succeeds in continuing to exploit workers
+is by mystifying its own economic relationships. In the same way that
+the bike courier “cooperative” hid a reality of employment,
+characterizing a university as an egalitarian, democratic organization
+obscures the reality of economic domination at play within all the
+constituent relationships. To paraphrase the older worker at that IWW
+meeting, if librarians should participate at all levels of the
+organization does this mean we can write the checks? Obviously not. 
+
+>Frequently a minority within their academic communities, it is often
+>difficult for academic librarians to
+>achieve equal representation within a democratic process.
+
+Again, which “democratic process” is being described here? I’ve seen no
+indication at any of the universities I’ve worked at that anything that
+could remotely be described as “democracy” holds for the institution.
+The members of the board of governors are political appointees, and the
+search criteria, remuneration, and decision-making powers of the
+president and VPs fly in the face of anything that might even be called
+*bourgeois* democracy (which isn’t, in the end, democracy at all).
+Universities are not democratic institutions. All of the committees and
+councils that faculty (and librarians) belong to serves only to hide
+that fact and to give academics a semblance of agency within the larger
+organization. To insist that universities and libraries are somehow
+democratic is dangerously naïve.
+
+>Centralized and unilateral decision-making risks alienation and is
+>counterproductive to the advancement of an organization’s mission.  
+
+Again, this makes it sound as if such a model of decision making is an
+aberration, something that, once it is pointed out, everyone will agree
+to remedy. It ignores the fact that centralized and unilateral
+decision-making is the norm in universities and in academic libraries.
+To pretend otherwise, especially to librarians in a bargaining position,
+is to play into the hands of the employer’s bargaining team. Revitt and
+Luyk state the case more strongly when they note “evidence of a general
+disenfranchisement of librarians from significant decisions affecting
+library operations, resources, services, and the appointment and
+evaluation of senior library administrative positions”.This has certainly
+been borne out in my experience.  
+
+>Academic libraries, like the institutions that house them, are public
+>spheres that play a critical role in safeguarding our democratic
+>freedoms; and as such, they must be governed based on values rooted in
+>the public good and professional ethics and principles. 
+
+This, I’m afraid, is an opinion stated as a fact, with nothing to support it. As always the truth is more
+complicated than that. Leaving aside the question of what “democratic
+freedoms” we in fact possess, it can also be argued that academic
+libraries play a role in the management of the economy (through
+controlling supply and demand of workers at different levels of
+accreditation) as well as the reproduction of ideology and the cultural
+hegemony of the ruling class. Now, the library is not *just* these things,
+but it is *also* those things, no matter what else it is. To give a
+one-sided description of *anything*, never mind academic libraries, is an
+abdication of critical thinking, something that libraries are supposed
+to promote. It does no-one any good to repeat over and over again a
+naïve and simplistic view, an ahistorical, fairy-tale view of the
+importance of libraries. By repeating phrases such as these to those who
+don’t believe a word of it (employers, administrators, etc), we play
+into their hands. As long as they pay lip-service to these views we can
+be led into anything. 
+
+What follows after this is a description of what a library council
+should look like. This, I suppose, is the aspirational part of the
+document, and I agree that such proposals would – if they could be
+effected – be helpful and beneficial to library workers in all sorts of
+ways. But to base such proposals on a vague and one-sided
+characterization of the university and the library as egalitarian,
+democratic upholders of the public good means, on the one hand, the
+proposals will never be enacted (because nothing challenges the
+administrations rosy characterization of the mission and structure of
+the university and library) and on the other hand that librarians will
+lose out on an opportunity to cast a critical eye on the organizations
+that we are extremely privileged to work in.
+
+Elsewhere on this blog, I have criticized the [bourgeois university](http://redlibrarian.github.io/introduction/2016/03/04/precarity.html)
+and provided a blue-sky notion of an [alternative model of organization](http://redlibrarian.github.io/introduction/2016/05/02/organisational-structure-democratic-centralism.html), one that doesn’t require us to attempt to win any recognition from
+our employers by repeating platitudes about democracy and
+egalitarianism.
+
+Now, I recognize the importance of propaganda, but for propaganda to be
+effective it has to be just a little more extreme that what everyone can
+agree with. It is unclear whether the CAPAL statement is intended to be
+propaganda or whether it is actually meant to have be used as a tool in
+collective bargaining, or even whether it is simply meant to be
+educational. The problem with this statement is not just that it is
+vague, not just that it argues a single rosy opinion, the problem is
+that it is safe, and therefore, from an administrator’s point of view,
+can be safely ignored.
+
+In closing, I have to admit that the argument can be made that
+university and library administrators will ignore what I write too. The
+difference is that I know that nothing I say can change the fundamental
+nature of my relationship to the university and library *as a worker*.
+All I can do is to write for other library workers, and the greatest
+courtesy I can do, in that case, is to try to speak as plainly as
+possible and to expose, as consistently as I can, the reality of "who
+signs the paychecks".

@@ -1,0 +1,137 @@
+---
+layout: post
+title: "Data, Discovery, and Access"
+date: 2017-04-04
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+<img
+src="https://3spxpi1radr22mzge33bla91-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Screenshot-2017-04-03-14.19.11.png"
+/>
+(source:
+[The Strategic Direction of Research Library Leaders: Findings from the Latest Ithaka S+R Survey](https://scholarlykitchen.sspnet.org/2017/04/04/the-strategic-direction-of-research-library-leaders-findings-from-the-latest-ithaka-sr-survey/])
+
+>Library directors are increasingly recognizing that discovery does not
+>and should not always happen in the library. Compared to the 2013
+>survey results, fewer library directors believe that it is important
+>that the library is seen by its users as the first place that they go
+>to discover content, and fewer believe that the library is always the
+>best place for researchers at their institution to start their
+>research. The share of respondents who agree that it is important that
+>the library guide users to a preferred version of a given source
+>continues to decrease. [Christine Wolff, US Library Survey
+>2016](http://www.sr.ithaka.org/publications/us-library-survey-2016/)
+
+According to the Ithaka S+R report for 2016, the proportion of library
+directors who believe that their library should be the first place users
+look to discover scholarly content is dropping, but the absolute numbers
+remain high - above 50% in all three degree-areas.
+This indicates that library directors continue to see resource discovery
+as an important task for each individual library. In a recent post to
+the BIBFRAME listserv, Osma Suominen of the National Library of Finland
+wrote that "we can all agree that discoverability of bibliographic
+resources is very important, whatever the means". On the question of
+whether discoverability or access should take priority, Suominen comes
+down firmly on the side of discovery: "Even if it means users are
+crashing into firewalls when they try to access the actual content, at
+least they get to know that it exists and can then try other ways of
+getting hold of it".
+
+To me, "at least they get to know that it exists" is the crux of the
+problem with library discovery thinking right now. It's a holdover from
+the days when finding out if something had been written - either on a
+particular topic, by a particular author, or, in the case of a known
+item, when and where it had been published - required the use of Books
+in Print or printed periodical indexes. "Discovery" - finding out what
+has been written and published - was *hard*, and in the printed index
+days was *by definition* the responsibility of each library.
+
+But in a networked world, with bibliographic metadata already online and
+available in many different formats and locations, we no longer have the
+problematic, difficult, discovery workflow that we did with Books in
+Print and periodical indexes. Answering those two questions: has
+something been written, and where/when was it published, is trivially
+easy. "Discovery" is only a problem when either, you want to be
+*absolutely sure* you've found *everything* that satisfies your search
+criteria (and nothing that doesn't), or if you are trying to force users into a single portal that
+satisfies their search requirements. The first case has likely been
+impossible since the invention of printing, but is certainly completely
+unrealistic today. The second case is connected to the point of view
+that it is the library's job to help users find out "whether something
+exists". Neither of these, to my mind, is a problem that needs solving.
+
+Perfect precision and recall is possible on a small, well-described,
+well-understood data set, none of which describes the non-trivial data
+sets that we or our users work with on a daily basis. The Google,
+Amazon, or Proquest corpuses are vast, opaque, and noisy compared to the
+clean, sleek (and mythical) bibliographic databases of yore. More and
+more, especially with newer search and indexing algorithms, precision
+and recall seem to be a zero-sum game; that is, improvements in
+precision lead to poorer recall, and vice versa. This is a problem for
+no-one but librarians stuck in the days of Books in Print and periodical
+indexes, when they could convince themselves that these sources provided
+perfect precision and recall, which was not really the case then either.
+
+With respect to the portal question, we have known for a while that our
+users are making less and less use of our search systems for discovery.
+It's not that they are abandoning our systems for other things, simply
+that they already have a way to discover resources. Forcing users out of
+the "wild west" of the open web into systems which -- we like to believe
+-- are clean and well-curated panders to *our* sense of (bibliographic)
+control, but doesn't in fact to anything to solve a discovery "problem"
+-- precisely because there is no discovery problem.
+
+Rather than trying to "get our data on the web", with every library
+exposing multiple copies of the same overlapping data, either to allow
+that data to be used by other systems or to drive traffic back to the
+local library (the Zepheira model), there are problems that we can and should be addressing.
+
+In the first place, there's the question of bad, noisy data. Publisher
+metadata is, generally, terrible, and is the prime obstacle to
+good-enough discovery on the web. Can we help fix that problem by
+exposing our data, either through APIs or Linked Open Data - yes, but
+every individual library doesn't have to do it; perhaps that is a role
+best suited to OCLC or LoC (in the North American context; there are
+other organizations to play this role in other parts of the world).
+
+The library best use that I've heard of for exposing more Linked Open Data on
+the web comes from Karen Coyle, who sees the ability to combine contextual bibliographic and
+non-bibliographic information to a user's workflow and experience. This
+workflow and UI may not (probably shouldn't be) implemented, owned, and
+hosted by a library, but if it lives anywhere else, our data should be
+one of the data sources in it. But again, this should not be the
+responsibility of *every single library*. If libraries do decide to get in this game,
+we are going to have to figure out our position with respect to portals,
+since at the moment, this is not something that works in our favour.
+
+Then there are our systems - this is the access question. We shouldn't
+accept that a user hitting a firewall and then trying to find a way
+around it is good library service. Given our licensing ecosystem, our
+systems need to recognize a user that "belongs" to us, and then remove
+as many barriers to access as possible. We've seen with SciHub what a
+user-interface designed to do that looks like. The duct-tape-and-glue
+approach to library systems, based on early-90s interoperability, is no
+longer good enough. We have the skills, expertise, and technologies to
+design better systems for access; this is somewhere it would be
+worthwhile focusing our attention, but in the age of link resolvers and
+proxies that "work OK", we aren't bothering. (Note that for these
+systems to work, the data on the web needs to be better, so this is
+inextricably linked to the data question above).
+
+Finally, as [@bibliocracy](https://twitter.com/bibliocracy) points out,
+there's still a problem with how our users approach bibliographic
+resources that *starts with* discovery but does not end there. I've
+heard librarians talk about research as if it starts and ends with a
+perfect set of search results from which a bibliography can be created.
+This is patently ridiculous. More than discovering whether a resource
+exists, our users have to want to *find things out* and they have to be
+aware of the information context of the data they are navigating, with a
+view to producing something worthwhile which may (or may not) in the end
+be scholarship.
+
+Too long, didn't read version: "discovery" is not a problem that needs
+to be solved; better data and systems for access are problems worth
+tackling right now, but not at an individual library level; data,
+discovery, and access will not - despite a librarian bias - produce good
+scholarship; only good scholars can do that.

@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Libraries as Dual Power: A Utopia (I)"
+date: 2016-08-06 12:54:00
+categories: article
+tags: featured
+image: /assets/images/mandolin.jpg
+---
+
+*(part one)*
+
+When I was in library school, our collection development class rehashed
+the [Berninghausen
+Debate](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&es_th=1&ie=UTF-8#q=berninghausen%20debate) (probably for the millionth time - sorry, Dr
+Howard). Essentially, the debate boils down to the social role of
+libraries, often framed as a debate over the "neutrality" of
+libraries. In terms of collection development, this ends up being a
+debate over giving users "what they want" (essentially, mass market
+commodities) or curating a collection with a social or political agenda
+in mind. I argued that mass-market commodities were immediately
+available to the vast majority of library users and that libraries
+should focus not only on the development of collections for the
+underserved (the homeless and immigrants, for example), but also on
+promoting materials that were not part of the continuum of mass-market
+commodities (alternative social or politicial theories, for example, or
+non-bestseller fiction). Given that bestseller fiction is available from
+any Chapters or airport bookstore (or online), it seemed ridiculous to
+devote library budget and display space to promote that material at the
+expense of other, less obvious, things. The counter to this argument, of
+course, was the supposed neutrality of libraries and collection
+policies, as well as the idea that we simply "give users what they want"
+(presuming that the wants of users are somehow not socially determined).
+The function of the library, I argued, was not in neutrally providing
+users access to content they somehow already desired, it was in
+producing and maintaining the desires for the commodities of capitalist
+culture itself.
+
+Lately, I've noticed how both public and academic libraries have begun
+to loan out material that explicitly seek to address
+social/cultural/health issues. The loan of internet hot spots by Toronto
+and Edmonton Public Libraries and SAD lamps by University of Alberta
+Libraries, are explicitly meant to address the digital divide on the one
+hand and the mental health of students on the other. What's interesting
+about this is that this places the library in the position of addressing
+problems which ought rightly to be addressed by the parent organization.
+The digital divide in a city ought to be addressed by the municipality;
+the mental health of students ought to be a concern of the university at
+large. By offloading these social services onto the library, the
+municipality is able to abdicate responsibility - a process inherent in
+the dismantling of the welfare state. When I was in Bournemouth in 2010,
+I was shown a flagship social centre within a public library branch. The
+centre was a library, but it contained offices for a social worker,
+employment officer, as well as a community police station.
+
+Whether providing these services should be the role of the library or
+the state (i.e. the municipality or the public university) is not what I
+want to talk about here. Rather, I'm interested in the idea that
+libraries already provide a network of social services that operate in
+tandem with constituted state power. I want to talk about libraries as
+dual power.
+
+In "An American Utopia: Dual Power and the Universal Army" (Verso,
+2016), Fredric Jameson constructs a thought experiment whereby the
+American Army becomes the mechanism for socialism in the US. Without
+challenging the existing state and municipal governments, the Army
+becomes a medium by which every American citizen would receive health
+care, employment, social services, etc. Jameson selects the Army after
+discarding other non-state institutions, such as the church, the post
+office, and the professions, because it is an institution that crosses
+political borders, has both local and national presence, and already provides, for example, socialized medicine
+for its members.
+
+>If business, the professions, religion, even the labor unions (let
+>alone the post office or the Mafia) are inadequate vehicles for dual
+>power, what can then be left in late capitalism as an already organized
+>institution capable of assuming the parallel and ultimately
+>revolutionary role on which alone radical social change depends?
+
+Dual power, a term coined by Lenin, and referring to the coexistence of
+the soviets (workers' councils) and the provisional government in 1917,
+essentially means the taking over of social services (socialized
+medicine, education, etc), by a non-state organization, *without openly
+challenging the existing state apparatus*. Dual power would consist of a
+network of social services nominally operating under the supervision of
+the state, but in fact independent of it.
+
+Jameson does not mention libraries as a possible network ready for the
+exercise of dual power, but I would like to explore the idea a little
+here. The largest network of libraries is the system of public
+libraries, typically organized by municipality, but active in both
+provincial associations and consortia the cross provincial lines. They
+are already offering social services, whether that be internet hot
+spots for loan, outreach to the disadvantaged, prison literacy programmes, onsite social workers, and safe spaces for the homeless
+(in municipalities which have seen the massive closure of day shelters
+run by the government). They also employ a large, disciplined, and
+decentralized workforce.
+
+Academic libraries exist in every province and large municipal area.
+They belong to their own consortia, but also in provincial associations
+and consortia with public and special libraries. They too cross
+provincial lines, through national networks both at the library and the
+university level. They have connections with vast numbers of
+post-secondary students, as well as researchers in every discipline.
+
+Special libraries provide connections with the professions and the
+government. Law libraries are implicated within the legal profession and
+the judiciary; health libraries with the medical profession; government
+libraries with all levels of government: municipal, provincial, and
+federal. Imagine presenting your library card to receive medical care.
+
+What I am arguing is that libraries as a whole a) are already present in
+the lives of vast swathes of the Canadian population and b) are already
+structured to provide services to their consituents. As a result,
+libraries are well-placed as exactly the "already organized
+institution" on which Jameson contends dual power must be based.
+
+There are two immediate objections to such an idea, however. On the one
+hand, the question of library neutrality itself. For libraries to
+provide the services required of the dual power institution, they must
+give up any pretence to neutrality. They must - just like Jameson's Army
+- recognize the socialist content of what they are doing. Rather than
+  serving their current function, that of maintaining the population in
+their positions within capitalist culture, they would have to insist on
+their function as a socialist service layer, as effecting what Jameson
+calls "cultural revolution" in antagonism to capitalist culture.
+
+Connected with this, the other objection is the presence within
+librarianship of a "leadership" layer which not only insists on the
+fundamental neutrality of libraries, but whose position within the
+hierarchy, and within the networks of capitalist power, are dependent on
+their ability to maintain libraries in their ideological function (i.e.
+the reproduction of capitalist social and ideological structures). For
+libraries to occupy a space of dual power, it will not be enough to
+resist the policies and ideas of the parent organizations; libraries
+would have to set itself up in opposition to the ideas and desires of
+library leadership itself. In a sense, libraries already have this
+structure, given the positioning of certain elements of the library
+hierarchy either in or out of a given union or association.
+
+This, then, is my own utopia, the idea that the network of libraries
+that already exist in this country could come together in an explicitly
+socialist network (or federation) in order to take over the services and
+support increasingly abdicated by capitalist state institutions.
+Libraries, then, could provide an alternative space to bourgeois
+ideological reproduction, leading, in Lenin's view (and Jameson's) to
+the eventual withering away of the state itself.
